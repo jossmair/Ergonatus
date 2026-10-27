@@ -1,6 +1,6 @@
 """Extract, hash-check and execute disposable release installations."""
 from pathlib import Path
-import sys,os,json,hashlib,subprocess,shutil,uuid,sqlite3
+import sys,os,json,hashlib,subprocess,shutil,uuid,sqlite3,time,zipfile
 ROOT=Path(__file__).resolve().parents[1];OUT=ROOT/'output/releases/2026.10.27';ASSETS=OUT/'assets'
 SEVEN=OUT/'tools/extra/x64/7za.exe';report={}
 def run(args,log,timeout=600,env=None):
@@ -33,9 +33,13 @@ run([SEVEN,'t',ASSETS/'Ergonatus-2026.10.27-portable.zip.001'],'portable-crc.log
 run([SEVEN,'x',ASSETS/'Ergonatus-2026.10.27-portable.zip.001','-o'+str(portable),'-y'],'portable-extraction.log')
 report['portable_files_verified']=verify_tree(portable/'Ergonatus');smoke(portable/'Ergonatus','portable');report['portable_verified']=True
 (OUT/'verification-progress.json').write_text(json.dumps(report,indent=2));clean(portable)
+deadline=time.monotonic()+1800
+while not (ASSETS/'Extraire-portable.cmd').is_file():
+    assert time.monotonic()<deadline,'Construction installeur non terminée';time.sleep(2)
 installed=OUT/'check-install';clean(installed);test_directory(installed)
 run([ASSETS/'Ergonatus-2026.10.27-Setup.exe','/VERYSILENT','/SUPPRESSMSGBOXES','/NORESTART','/TESTINSTALL=1','/DIR='+str(installed),'/LOG='+str(OUT/'installer-test.log')],'installer-console.log',900)
 report['installer_files_verified']=verify_tree(installed);smoke(installed,'installed');report['installer_verified']=True;clean(installed)
+with zipfile.ZipFile(ASSETS/'Ergonatus-2026.10.27-source.zip') as source:assert source.testzip() is None
 report['assets']={p.name:sha(p) for p in ASSETS.iterdir() if p.is_file() and p.name!='SHA256SUMS.txt'}
 sums=''.join(digest+'  '+name+'\n' for name,digest in sorted(report['assets'].items()));(ASSETS/'SHA256SUMS.txt').write_text(sums,encoding='utf-8');report['assets']['SHA256SUMS.txt']=sha(ASSETS/'SHA256SUMS.txt')
 (OUT/'verification.json').write_text(json.dumps(report,indent=2));print(json.dumps(report,indent=2),flush=True)
