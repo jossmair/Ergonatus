@@ -1,14 +1,17 @@
+param([switch]$SkipPortable)
 $ErrorActionPreference='Stop'
 $root=Split-Path $PSScriptRoot -Parent
 $release=Join-Path $root 'output/releases/2026.10.27'
 $seven=Join-Path $release 'tools/extra/x64/7za.exe'
 $python=Join-Path (Split-Path $root -Parent) 'Redactor/.venv/Scripts/python.exe'
 if (-not (Test-Path (Join-Path $release 'staging.json'))) {throw 'Staging non vérifié'}
-Push-Location (Join-Path $release 'payload')
-try {
+if (-not $SkipPortable) {
+ Push-Location (Join-Path $release 'payload')
+ try {
     & $seven a -tzip (Join-Path $release 'assets/Ergonatus-2026.10.27-portable.zip') Ergonatus '-mx=1' '-mmt=2' '-v1500m' '-bsp0' *> (Join-Path $release 'portable-build.log')
     if ($LASTEXITCODE -ne 0) {throw 'Compression portable échouée'}
-} finally {Pop-Location}
+ } finally {Pop-Location}
+}
 & (Join-Path $root 'PDFinator/.tools/innosetup/ISCC.exe') "/DReleaseRoot=$release" (Join-Path $root 'scripts/ergonatus.iss') *> (Join-Path $release 'installer-build.log')
 if ($LASTEXITCODE -ne 0) {throw 'Construction installeur échouée'}
 Copy-Item -LiteralPath $seven -Destination (Join-Path $release 'assets/7za.exe')
