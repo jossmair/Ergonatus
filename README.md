@@ -1,3 +1,7 @@
+[Télécharger la suite complète : installeur et portable](https://github.com/jossmair/Ergonatus/releases/tag/v2026.10.27)
+
+Pour l’installeur : prendre Setup.exe et tous ses fichiers .bin. Pour le portable : prendre tous les volumes .zip.001, .002, etc., 7za.exe et Extraire-portable.cmd, puis lancer ce dernier.
+
 # Ergonatus — 27 octobre 2026
 
 Suite Windows x64 : hub et 21 logiciels. Extraire tous les volumes de la version portable, puis ouvrir « Lancer Ergonatus.cmd ». Conserver le dossier complet : il contient les moteurs, voix et dictionnaire hors ligne. Aucun Python installé nécessaire.

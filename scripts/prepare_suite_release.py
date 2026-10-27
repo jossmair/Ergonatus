@@ -112,6 +112,16 @@ Data/
 *.sqlite3
 .env
 ''')
+# Keep only the active native library's illustrations and their editable originals.
+library=SOURCE/'Ecrinator/assets/library'
+catalog=json.loads((library/'catalog.json').read_text(encoding='utf-8'))
+names={entry['filename'] for entry in catalog};stems={Path(name).stem for name in names}
+for p in library.rglob('*'):
+    if not p.is_file() or 'licenses' in p.relative_to(library).parts:continue
+    if p.suffix.lower() not in ('.png','.jpg','.jpeg','.svg','.webp'):continue
+    parts=p.relative_to(library).parts
+    keep=p.name in names if len(parts)==1 or parts[0]=='thumbs' else p.stem.removesuffix('-original') in stems
+    if not keep:p.unlink()
 manifest={p.relative_to(PAYLOAD).as_posix():dict(bytes=p.stat().st_size,sha256=sha(p)) for p in PAYLOAD.rglob('*') if p.is_file()}
 (PAYLOAD/'MANIFEST.json').write_text(json.dumps(dict(version='2026.10.27',files=manifest),indent=2))
 (OUT/'staging.json').write_text(json.dumps(dict(files=len(manifest),bytes=sum(i['bytes'] for i in manifest.values()),executables={k:sha(PAYLOAD/(('Hub/Ergonatus.exe') if k=='ergonatus' else item['folder']+'/runtime/'+item['folder']+'.exe')) for k,item in APP_THEMES.items()}),indent=2))
