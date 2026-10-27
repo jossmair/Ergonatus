@@ -25,8 +25,13 @@ elif sys.argv[1]=='tools':
     for name in ['7zr.exe','7z2605-extra.7z']:
         urllib.request.urlretrieve('https://github.com/ip7z/7zip/releases/download/26.05/'+name,dest/name)
     print('Outils 7-Zip officiels téléchargés.')
-elif sys.argv[1]=='publish':
-    verification=json.loads((OUT/'verification.json').read_text());assert verification['portable_verified'] and verification['installer_verified']
+elif sys.argv[1] in ('stage','publish'):
+    if sys.argv[1]=='publish':
+        verification=json.loads((OUT/'verification.json').read_text());assert verification['portable_verified'] and verification['installer_verified']
+    else:
+        progress=json.loads((OUT/'verification-progress.json').read_text());assert progress['portable_verified']
+        portable=sorted((OUT/'assets').glob('Ergonatus-2026.10.27-portable.zip.[0-9][0-9][0-9]'));assert len(portable)==5
+        verification={'assets':{p.name:sha(p) for p in portable}}
     source=OUT/'source';head=subprocess.check_output(['git','rev-parse','HEAD'],cwd=source,text=True).strip()
     remote=api('/repos/'+REPO+'/git/ref/heads/main')['object']['sha'];assert remote==head
     try:release=api('/repos/'+REPO+'/releases/tags/'+TAG);assert release['draft'],'Version déjà publique.'
@@ -50,5 +55,7 @@ elif sys.argv[1]=='publish':
         response=connection.getresponse();body=response.read();assert response.status==201,(response.status,body[:200]);asset=json.loads(body);connection.close()
         assert asset['size']==p.stat().st_size and asset.get('digest')=='sha256:'+digest
         print(name+' envoyé et vérifié.',flush=True)
-    release=api('/repos/'+REPO+'/releases/'+str(release['id']),'PATCH',dict(draft=False))
-    (OUT/'published.json').write_text(json.dumps(dict(url=release['html_url'],commit=head,assets=verification['assets']),indent=2));print(release['html_url'])
+    if sys.argv[1]=='publish':
+        release=api('/repos/'+REPO+'/releases/'+str(release['id']),'PATCH',dict(draft=False))
+        (OUT/'published.json').write_text(json.dumps(dict(url=release['html_url'],commit=head,assets=verification['assets']),indent=2));print(release['html_url'])
+    else:print('Portable vérifié envoyé dans le brouillon ; publication finale en attente de la validation de installation.',flush=True)
