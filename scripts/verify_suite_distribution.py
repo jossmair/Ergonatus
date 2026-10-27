@@ -11,6 +11,10 @@ def sha(p):
 def clean(path):
     assert path.resolve().parent==OUT.resolve() and path.name in ('check-portable','check-install')
     if path.exists():shutil.rmtree(path)
+def test_directory(path):
+    path.mkdir()
+    # NTFS compression applies only to disposable checks, not to the distributions.
+    run(['compact.exe','/C','/I','/Q',path],path.name+'-storage.log')
 def verify_tree(path):
     manifest=json.loads((path/'MANIFEST.json').read_text())
     for name,data in manifest['files'].items():
@@ -24,12 +28,12 @@ def smoke(path,prefix):
     for app,exe in [('hub','Hub/Ergonatus.exe'),('dictionary','Dictionnator/runtime/Dictionnator.exe'),('tables','Tablinator/runtime/Tablinator.exe')]:
         run([path/exe,'--smoke-test'],prefix+'-'+app+'.log',90,env)
     run([path/'Ecrinator/runtime/Ecrinator.exe','--verify',path/'ecrinator-verification'],prefix+'-ecrinator.log',180,env)
-portable=OUT/'check-portable';clean(portable)
+portable=OUT/'check-portable';clean(portable);test_directory(portable)
 run([SEVEN,'t',ASSETS/'Ergonatus-2026.10.27-portable.zip.001'],'portable-crc.log')
 run([SEVEN,'x',ASSETS/'Ergonatus-2026.10.27-portable.zip.001','-o'+str(portable),'-y'],'portable-extraction.log')
 report['portable_files_verified']=verify_tree(portable/'Ergonatus');smoke(portable/'Ergonatus','portable');report['portable_verified']=True
 (OUT/'verification-progress.json').write_text(json.dumps(report,indent=2));clean(portable)
-installed=OUT/'check-install';clean(installed)
+installed=OUT/'check-install';clean(installed);test_directory(installed)
 run([ASSETS/'Ergonatus-2026.10.27-Setup.exe','/VERYSILENT','/SUPPRESSMSGBOXES','/NORESTART','/TESTINSTALL=1','/DIR='+str(installed),'/LOG='+str(OUT/'installer-test.log')],'installer-console.log',900)
 report['installer_files_verified']=verify_tree(installed);smoke(installed,'installed');report['installer_verified']=True;clean(installed)
 report['assets']={p.name:sha(p) for p in ASSETS.iterdir() if p.is_file() and p.name!='SHA256SUMS.txt'}
