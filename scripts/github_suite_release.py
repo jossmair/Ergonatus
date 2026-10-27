@@ -41,8 +41,12 @@ elif sys.argv[1]=='publish':
         url=urllib.parse.urlparse(release['upload_url'].split('{')[0]);assert url.hostname=='uploads.github.com'
         connection=http.client.HTTPSConnection(url.hostname,timeout=600)
         connection.putrequest('POST',url.path+'?name='+urllib.parse.quote(name));connection.putheader('Authorization','Bearer '+TOKEN);connection.putheader('User-Agent','Ergonatus-release');connection.putheader('Content-Type','application/octet-stream');connection.putheader('Content-Length',str(p.stat().st_size));connection.endheaders()
+        sent=0;next_progress=256*1024**2
         with p.open('rb') as f:
-            while block:=f.read(4*1024**2):connection.send(block)
+            while block:=f.read(4*1024**2):
+                connection.send(block);sent+=len(block)
+                if sent>=next_progress:
+                    print(name+' : '+str(round(sent/p.stat().st_size*100))+' %',flush=True);next_progress+=256*1024**2
         response=connection.getresponse();body=response.read();assert response.status==201,(response.status,body[:200]);asset=json.loads(body);connection.close()
         assert asset['size']==p.stat().st_size and asset.get('digest')=='sha256:'+digest
         print(name+' envoyé et vérifié.',flush=True)
