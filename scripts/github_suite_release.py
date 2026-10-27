@@ -56,6 +56,6 @@ elif sys.argv[1] in ('stage','publish'):
         assert asset['size']==p.stat().st_size and asset.get('digest')=='sha256:'+digest
         print(name+' envoyé et vérifié.',flush=True)
     if sys.argv[1]=='publish':
-        release=api('/repos/'+REPO+'/releases/'+str(release['id']),'PATCH',dict(draft=False))
+        release=api('/repos/'+REPO+'/releases/'+str(release['id']),'PATCH',dict(draft=False,target_commitish=head))
         (OUT/'published.json').write_text(json.dumps(dict(url=release['html_url'],commit=head,assets=verification['assets']),indent=2));print(release['html_url'])
     else:print('Portable vérifié envoyé dans le brouillon ; publication finale en attente de la validation de installation.',flush=True)
