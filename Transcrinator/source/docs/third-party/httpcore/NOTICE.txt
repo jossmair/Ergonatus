@@ -1,0 +1,6 @@
+httpcore 1.0.9
+
+
+Documentation, https://www.encode.io/httpcore
+Homepage, https://www.encode.io/httpcore/
+Source, https://github.com/encode/httpcore

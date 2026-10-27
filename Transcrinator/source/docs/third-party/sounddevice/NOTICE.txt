@@ -1,0 +1,6 @@
+sounddevice 0.5.6
+
+
+Documentation, https://python-sounddevice.readthedocs.io/
+Repository, https://github.com/spatialaudio/python-sounddevice/
+Issues, https://github.com/spatialaudio/python-sounddevice/issues

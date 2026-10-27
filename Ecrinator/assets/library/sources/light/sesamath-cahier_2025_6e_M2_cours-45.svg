@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="34mm" height="24mm" viewBox="0 0 3400 2400" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" stroke-width="28.222" stroke-linejoin="round" xml:space="preserve">
+ <path fill="rgb(0,169,51)" stroke="none" d="M 1850,2122 L 550,2122 550,522 3150,522 3150,2122 1850,2122 Z "/>
+ <path fill="none" stroke="rgb(0,0,0)" stroke-width="49" stroke-linejoin="round" d="M 1850,2122 L 550,2122 550,522 3150,522 3150,2122 1850,2122 Z "/>
+ <path fill="rgb(0,169,51)" stroke="none" d="M 651,725 L 550,725 550,524 751,524 751,725 651,725 Z "/>
+ <path fill="none" stroke="rgb(0,0,0)" stroke-width="49" stroke-linejoin="round" d="M 651,725 L 550,725 550,524 751,524 751,725 651,725 Z "/>
+ <path fill="rgb(0,169,51)" stroke="none" d="M 3050,725 L 2949,725 2949,524 3149,524 3149,725 3050,725 Z "/>
+ <path fill="none" stroke="rgb(0,0,0)" stroke-width="49" stroke-linejoin="round" d="M 3050,725 L 2949,725 2949,524 3149,524 3149,725 3050,725 Z "/>
+ <path fill="rgb(0,169,51)" stroke="none" d="M 3050,2124 L 2949,2124 2949,1924 3149,1924 3149,2124 3050,2124 Z "/>
+ <path fill="none" stroke="rgb(0,0,0)" stroke-width="49" stroke-linejoin="round" d="M 3050,2124 L 2949,2124 2949,1924 3149,1924 3149,2124 3050,2124 Z "/>
+ <path fill="rgb(0,169,51)" stroke="none" d="M 651,2124 L 550,2124 550,1924 751,1924 751,2124 651,2124 Z "/>
+ <path fill="none" stroke="rgb(0,0,0)" stroke-width="49" stroke-linejoin="round" d="M 651,2124 L 550,2124 550,1924 751,1924 751,2124 651,2124 Z "/>
+ <text class="SVGTextShape"><tspan class="TextParagraph"><tspan class="TextPosition" x="1602" y="445"><tspan font-family="Bitstream Vera Sans, sans-serif" font-size="353px" font-style="italic" font-weight="400" lengthAdjust="spacingAndGlyphs" textLength="196" fill="rgb(0,0,0)" stroke="none" style="white-space: pre">L</tspan></tspan></tspan></text>
+ <text class="SVGTextShape"><tspan class="TextParagraph"><tspan class="TextPosition" x="242" y="1485"><tspan font-family="MathJax_Main" font-size="353px" font-weight="400" lengthAdjust="spacingAndGlyphs" textLength="191" fill="rgb(0,0,0)" stroke="none" style="white-space: pre">ℓ</tspan></tspan></tspan></text>
+ <path fill="none" stroke="rgb(255,0,0)" stroke-width="49" stroke-linejoin="round" d="M 390,1182 L 753,1122 "/>
+ <path fill="none" stroke="rgb(255,0,0)" stroke-width="49" stroke-linejoin="round" d="M 2990,1182 L 3353,1122 "/>
+ <path fill="none" stroke="rgb(42,96,153)" stroke-width="49" stroke-linejoin="round" d="M 1750,723 L 1951,323 "/>
+ <path fill="none" stroke="rgb(42,96,153)" stroke-width="49" stroke-linejoin="round" d="M 1854,723 L 2055,323 "/>
+ <path fill="none" stroke="rgb(42,96,153)" stroke-width="49" stroke-linejoin="round" d="M 1653,2327 L 1854,1926 "/>
+ <path fill="none" stroke="rgb(42,96,153)" stroke-width="49" stroke-linejoin="round" d="M 1750,2327 L 1951,1926 "/>
+</svg>

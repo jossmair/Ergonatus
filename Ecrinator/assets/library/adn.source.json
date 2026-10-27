@@ -1,0 +1,103 @@
+{
+  "timestamp": "2019-10-02T01:04:13Z",
+  "size": 2768340,
+  "width": 3024,
+  "height": 3000,
+  "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/DNA_Structure%2BKey%2BLabelled.pn_NoBB.png/1280px-DNA_Structure%2BKey%2BLabelled.pn_NoBB.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "thumbwidth": 1200,
+  "thumbheight": 1190,
+  "responsiveUrls": {
+    "2": "https://upload.wikimedia.org/wikipedia/commons/4/4c/DNA_Structure%2BKey%2BLabelled.pn_NoBB.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+  },
+  "thumbattribs": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/DNA_Structure%2BKey%2BLabelled.pn_NoBB.png/1280px-DNA_Structure%2BKey%2BLabelled.pn_NoBB.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "decoding": "async",
+    "loading": "lazy",
+    "width": 1200,
+    "height": 1190,
+    "srcset": "https://upload.wikimedia.org/wikipedia/commons/4/4c/DNA_Structure%2BKey%2BLabelled.pn_NoBB.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+  },
+  "url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/DNA_Structure%2BKey%2BLabelled.pn_NoBB.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "descriptionurl": "https://commons.wikimedia.org/wiki/File:DNA_Structure%2BKey%2BLabelled.pn_NoBB.png",
+  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=15027555",
+  "extmetadata": {
+    "DateTime": {
+      "value": "2019-10-02 01:04:13",
+      "source": "mediawiki-metadata",
+      "hidden": ""
+    },
+    "ObjectName": {
+      "value": "DNA Structure+Key+Labelled.pn NoBB",
+      "source": "mediawiki-metadata"
+    },
+    "CommonsMetadataExtension": {
+      "value": 1.2,
+      "source": "extension",
+      "hidden": ""
+    },
+    "Categories": {
+      "value": "GFDL|Base pairing|License migration redundant|Self-published work|Featured pictures on Wikipedia, English|Biology images that should use vector graphics|PNG that should use vector graphics|Files with Assessments template missing SDC Commons no value quality assessment|Ball-and-stick models of DNA helix-structure",
+      "source": "commons-categories",
+      "hidden": ""
+    },
+    "Assessments": {
+      "value": "",
+      "source": "commons-categories",
+      "hidden": ""
+    },
+    "ImageDescription": {
+      "value": "The structure of DNA showing with detail the structure of the four bases, adenine, cytosine, guanine and thymine, and the location of the major and minor groove.",
+      "source": "commons-desc-page"
+    },
+    "DateTimeOriginal": {
+      "value": "2011-04-26",
+      "source": "commons-desc-page"
+    },
+    "Credit": {
+      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+      "source": "commons-desc-page"
+    },
+    "Artist": {
+      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Zephyris\" title=\"User:Zephyris\">Zephyris</a>",
+      "source": "commons-desc-page"
+    },
+    "Permission": {
+      "value": "See below. For information about commercial use please contact me via my <a rel=\"nofollow\" class=\"external text\" href=\"http://www.richardwheeler.net\">website</a>.",
+      "source": "commons-desc-page",
+      "hidden": ""
+    },
+    "LicenseShortName": {
+      "value": "CC BY-SA 3.0",
+      "source": "commons-desc-page",
+      "hidden": ""
+    },
+    "UsageTerms": {
+      "value": "Creative Commons Attribution-Share Alike 3.0",
+      "source": "commons-desc-page"
+    },
+    "AttributionRequired": {
+      "value": "true",
+      "source": "commons-desc-page",
+      "hidden": ""
+    },
+    "LicenseUrl": {
+      "value": "https://creativecommons.org/licenses/by-sa/3.0",
+      "source": "commons-desc-page"
+    },
+    "Copyrighted": {
+      "value": "True",
+      "source": "commons-desc-page",
+      "hidden": ""
+    },
+    "Restrictions": {
+      "value": "",
+      "source": "commons-desc-page",
+      "hidden": ""
+    },
+    "License": {
+      "value": "cc-by-sa-3.0",
+      "source": "commons-templates",
+      "hidden": ""
+    }
+  }
+}

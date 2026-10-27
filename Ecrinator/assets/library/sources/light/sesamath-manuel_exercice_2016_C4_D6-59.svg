@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="47mm" height="40mm" viewBox="0 0 4700 4000" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" stroke-width="28.222" stroke-linejoin="round" xml:space="preserve">
+ <text class="SVGTextShape"><tspan class="TextParagraph"><tspan class="TextPosition" x="2404" y="411"><tspan font-family="Bitstream Vera Sans, sans-serif" font-size="318px" font-weight="400" lengthAdjust="spacingAndGlyphs" textLength="199" fill="rgb(0,0,0)" stroke="none" style="white-space: pre">E</tspan></tspan></tspan></text>
+ <path fill="none" stroke="rgb(0,0,0)" stroke-width="19" stroke-linejoin="round" d="M 593,1960 L 2094,1960 "/>
+ <path fill="none" stroke="rgb(0,0,0)" stroke-width="19" stroke-linejoin="round" d="M 593,3461 L 2094,3461 "/>
+ <path fill="none" stroke="rgb(0,0,0)" stroke-width="19" stroke-linejoin="round" d="M 2096,1960 L 2096,3459 "/>
+ <path fill="none" stroke="rgb(0,0,0)" stroke-width="19" stroke-linejoin="round" d="M 2591,457 L 4089,457 "/>
+ <path fill="none" stroke="rgb(0,0,0)" stroke-width="19" stroke-linejoin="round" stroke-dasharray="19,11" d="M 2591,1960 L 4089,1960 "/>
+ <path fill="none" stroke="rgb(0,0,0)" stroke-width="19" stroke-linejoin="round" d="M 593,1958 L 2593,457 "/>
+ <path fill="none" stroke="rgb(0,0,0)" stroke-width="19" stroke-linejoin="round" d="M 2096,3459 L 4094,1960 "/>
+ <path fill="none" stroke="rgb(0,0,0)" stroke-width="19" stroke-linejoin="round" d="M 2096,1958 L 4094,457 "/>
+ <path fill="none" stroke="rgb(0,0,0)" stroke-width="19" stroke-linejoin="round" stroke-dasharray="19,11" d="M 593,3459 L 2593,1960 "/>
+ <path fill="none" stroke="rgb(0,0,0)" stroke-width="19" stroke-linejoin="round" d="M 593,1960 L 2094,3459 "/>
+ <path fill="none" stroke="rgb(0,0,0)" stroke-width="19" stroke-linejoin="round" d="M 593,1958 L 4092,457 "/>
+ <path fill="none" stroke="rgb(0,0,0)" stroke-width="19" stroke-linejoin="round" d="M 2096,3457 L 4094,457 "/>
+ <path fill="none" stroke="rgb(0,0,0)" stroke-width="19" stroke-linejoin="round" d="M 2094,1960 L 593,3459 "/>
+ <path fill="none" stroke="rgb(0,0,0)" stroke-width="19" stroke-linejoin="round" d="M 4090,457 L 4090,1958 "/>
+ <path fill="none" stroke="rgb(0,0,0)" stroke-width="19" stroke-linejoin="round" stroke-dasharray="19,11" d="M 2591,457 L 2591,1958 "/>
+ <path fill="none" stroke="rgb(0,0,0)" stroke-width="19" stroke-linejoin="round" d="M 593,1960 L 593,3459 "/>
+ <text class="SVGTextShape"><tspan class="TextParagraph"><tspan class="TextPosition" x="242" y="2057"><tspan font-family="Bitstream Vera Sans, sans-serif" font-size="318px" font-weight="400" lengthAdjust="spacingAndGlyphs" textLength="217" fill="rgb(0,0,0)" stroke="none" style="white-space: pre">A</tspan></tspan></tspan></text>
+ <text class="SVGTextShape"><tspan class="TextParagraph"><tspan class="TextPosition" x="1940" y="1880"><tspan font-family="Bitstream Vera Sans, sans-serif" font-size="318px" font-weight="400" lengthAdjust="spacingAndGlyphs" textLength="217" fill="rgb(0,0,0)" stroke="none" style="white-space: pre">B</tspan></tspan></tspan></text>
+ <text class="SVGTextShape"><tspan class="TextParagraph"><tspan class="TextPosition" x="2120" y="3757"><tspan font-family="Bitstream Vera Sans, sans-serif" font-size="318px" font-weight="400" lengthAdjust="spacingAndGlyphs" textLength="220" fill="rgb(0,0,0)" stroke="none" style="white-space: pre">C</tspan></tspan></tspan></text>
+ <text class="SVGTextShape"><tspan class="TextParagraph"><tspan class="TextPosition" x="326" y="3757"><tspan font-family="Bitstream Vera Sans, sans-serif" font-size="318px" font-weight="400" lengthAdjust="spacingAndGlyphs" textLength="243" fill="rgb(0,0,0)" stroke="none" style="white-space: pre">D</tspan></tspan></tspan></text>
+ <text class="SVGTextShape"><tspan class="TextParagraph"><tspan class="TextPosition" x="4239" y="580"><tspan font-family="Bitstream Vera Sans, sans-serif" font-size="318px" font-weight="400" lengthAdjust="spacingAndGlyphs" textLength="182" fill="rgb(0,0,0)" stroke="none" style="white-space: pre">F</tspan></tspan></tspan></text>
+ <text class="SVGTextShape"><tspan class="TextParagraph"><tspan class="TextPosition" x="4108" y="2258"><tspan font-family="Bitstream Vera Sans, sans-serif" font-size="318px" font-weight="400" lengthAdjust="spacingAndGlyphs" textLength="245" fill="rgb(0,0,0)" stroke="none" style="white-space: pre">G</tspan></tspan></tspan></text>
+ <text class="SVGTextShape"><tspan class="TextParagraph"><tspan class="TextPosition" x="2732" y="1880"><tspan font-family="Bitstream Vera Sans, sans-serif" font-size="318px" font-weight="400" lengthAdjust="spacingAndGlyphs" textLength="238" fill="rgb(0,0,0)" stroke="none" style="white-space: pre">H</tspan></tspan></tspan></text>
+ <path fill="rgb(0,255,255)" fill-opacity="0.251" stroke="none" d="M 593,1958 L 2094,3457 4092,457 593,1958 Z "/>
+</svg>

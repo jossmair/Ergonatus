@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="70mm" height="41mm" viewBox="0 0 7000 4100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" stroke-width="28.222" stroke-linejoin="round" xml:space="preserve">
+ <path fill="rgb(204,128,180)" fill-opacity="0.502" stroke="none" d="M 2166,2637 L 3896,3926 4376,3270 4854,2612 2166,2637 Z M 2166,2637 L 3510,2625 4854,2612 2166,2637 Z "/>
+ <path fill="rgb(168,211,132)" fill-opacity="0.502" stroke="none" d="M 2157,2090 L 2152,1545 4844,1520 4854,2611 2163,2635 2157,2090 Z "/>
+ <path fill="rgb(0,152,204)" fill-opacity="0.502" stroke="none" d="M 4847,2066 L 4842,1520 6459,1505 6470,2595 4852,2611 4847,2066 Z "/>
+ <path fill="rgb(0,152,204)" fill-opacity="0.502" stroke="none" d="M 7,2117 L 2,1572 2155,1550 2166,2641 12,2662 7,2117 Z "/>
+ <path fill="rgb(204,128,180)" fill-opacity="0.502" stroke="none" d="M 2155,1550 L 3863,228 4355,877 4845,1524 2155,1550 Z "/>
+ <path fill="rgb(220,35,0)" fill-opacity="0.502" stroke="none" d="M 2166,2637 L 3508,2625 4854,2612 2166,2637 Z "/>
+ <path fill="none" stroke="rgb(96,153,65)" stroke-width="30" stroke-linejoin="round" d="M 2166,2637 C 3060,2630 3956,2621 4854,2612 L 2166,2637 Z "/>
+ <text class="SVGTextShape" transform="rotate(52.8 4410 570)"><tspan class="TextParagraph"><tspan class="TextPosition" x="4410" y="570"><tspan font-family="Bitstream Vera Sans, sans-serif" font-size="318px" font-weight="400" lengthAdjust="spacingAndGlyphs" textLength="787" fill="rgb(41,92,165)" stroke="none" style="white-space: pre">3 cm</tspan></tspan></tspan></text>
+ <text class="SVGTextShape" transform="rotate(126.5 4775 3014)"><tspan class="TextParagraph"><tspan class="TextPosition" x="4775" y="3014"><tspan font-family="Bitstream Vera Sans, sans-serif" font-size="318px" font-weight="400" lengthAdjust="spacingAndGlyphs" textLength="787" fill="rgb(41,92,165)" stroke="none" style="white-space: pre">3 cm</tspan></tspan></tspan></text>
+ <text class="SVGTextShape" transform="rotate(179.5 3630 1630)"><tspan class="TextParagraph"><tspan class="TextPosition" x="3630" y="1630"><tspan font-family="Bitstream Vera Sans, sans-serif" font-size="318px" font-weight="400" lengthAdjust="spacingAndGlyphs" textLength="787" fill="rgb(96,153,65)" stroke="none" style="white-space: pre">5 cm</tspan></tspan></tspan></text>
+ <text class="SVGTextShape" transform="rotate(-0.5 3390 2489)"><tspan class="TextParagraph"><tspan class="TextPosition" x="3390" y="2489"><tspan font-family="Bitstream Vera Sans, sans-serif" font-size="318px" font-weight="400" lengthAdjust="spacingAndGlyphs" textLength="787" fill="rgb(96,153,65)" stroke="none" style="white-space: pre">5 cm</tspan></tspan></tspan></text>
+ <path fill="rgb(220,35,0)" fill-opacity="0.502" stroke="none" d="M 2155,1549 L 4845,1522 2155,1549 Z "/>
+ <path fill="none" stroke="rgb(96,153,65)" stroke-width="30" stroke-linejoin="round" d="M 2155,1549 C 3052,1540 3948,1531 4845,1522 L 2155,1549 Z "/>
+ <path fill="none" stroke="rgb(41,92,165)" stroke-width="30" stroke-linejoin="round" d="M 3859,229 L 4844,1520 "/>
+ <path fill="none" stroke="rgb(41,92,165)" stroke-width="30" stroke-linejoin="round" d="M 4854,2611 L 3896,3919 "/>
+ <path fill="none" stroke="rgb(117,58,107)" stroke-width="30" stroke-linejoin="round" d="M 3863,229 L 2155,1547 "/>
+ <path fill="none" stroke="rgb(117,58,107)" stroke-width="30" stroke-linejoin="round" d="M 2166,2633 L 3898,3919 "/>
+ <path fill="none" stroke="rgb(117,58,107)" stroke-width="30" stroke-linejoin="round" d="M 2157,1550 L 7,1570 "/>
+ <path fill="none" stroke="rgb(117,58,107)" stroke-width="30" stroke-linejoin="round" d="M 2166,2633 L 14,2655 "/>
+ <path fill="none" stroke="rgb(41,92,165)" stroke-width="30" stroke-linejoin="round" d="M 6459,1505 L 4844,1520 "/>
+ <path fill="none" stroke="rgb(41,92,165)" stroke-width="30" stroke-linejoin="round" d="M 6468,2596 L 4854,2611 "/>
+ <path fill="none" stroke="rgb(0,0,0)" stroke-width="30" stroke-linejoin="round" d="M 4844,1522 L 4854,2612 "/>
+ <path fill="none" stroke="rgb(0,0,0)" stroke-width="30" stroke-linejoin="round" d="M 6459,1505 L 6470,2595 "/>
+ <path fill="none" stroke="rgb(0,0,0)" stroke-width="30" stroke-linejoin="round" d="M 2155,1550 L 2166,2641 "/>
+ <path fill="none" stroke="rgb(0,0,0)" stroke-width="30" stroke-linejoin="round" d="M 7,1570 L 18,2660 "/>
+ <text class="SVGTextShape" transform="rotate(-143.9 3106 3471)"><tspan class="TextParagraph"><tspan class="TextPosition" x="3106" y="3471"><tspan font-family="Bitstream Vera Sans, sans-serif" font-size="318px" font-weight="400" lengthAdjust="spacingAndGlyphs" textLength="787" fill="rgb(117,58,107)" stroke="none" style="white-space: pre">4 cm</tspan></tspan></tspan></text>
+ <text class="SVGTextShape" transform="rotate(-38.7 2614 970)"><tspan class="TextParagraph"><tspan class="TextPosition" x="2614" y="970"><tspan font-family="Bitstream Vera Sans, sans-serif" font-size="318px" font-weight="400" lengthAdjust="spacingAndGlyphs" textLength="787" fill="rgb(117,58,107)" stroke="none" style="white-space: pre">4 cm</tspan></tspan></tspan></text>
+ <text class="SVGTextShape" transform="rotate(-0.5 5426 1397)"><tspan class="TextParagraph"><tspan class="TextPosition" x="5426" y="1397"><tspan font-family="Bitstream Vera Sans, sans-serif" font-size="318px" font-weight="400" lengthAdjust="spacingAndGlyphs" textLength="787" fill="rgb(41,92,165)" stroke="none" style="white-space: pre">3 cm</tspan></tspan></tspan></text>
+ <text class="SVGTextShape" transform="rotate(-0.4 880 1423)"><tspan class="TextParagraph"><tspan class="TextPosition" x="880" y="1423"><tspan font-family="Bitstream Vera Sans, sans-serif" font-size="318px" font-weight="400" lengthAdjust="spacingAndGlyphs" textLength="787" fill="rgb(117,58,107)" stroke="none" style="white-space: pre">4 cm</tspan></tspan></tspan></text>
+ <path fill="none" stroke="rgb(117,58,107)" stroke-width="30" stroke-linejoin="round" d="M 982,1461 L 1175,1653 "/>
+ <path fill="none" stroke="rgb(117,58,107)" stroke-width="30" stroke-linejoin="round" d="M 2916,857 L 3106,914 "/>
+ <path fill="none" stroke="rgb(117,58,107)" stroke-width="30" stroke-linejoin="round" d="M 993,2552 L 1185,2743 "/>
+ <path fill="none" stroke="rgb(117,58,107)" stroke-width="30" stroke-linejoin="round" d="M 2939,3306 L 3126,3246 "/>
+ <path fill="none" stroke="rgb(41,92,165)" stroke-width="30" stroke-linejoin="round" d="M 5539,1572 C 5539,1498 5549,1461 5549,1461 L 5584,1443 5632,1450 5648,1478 5655,1520 5673,1563 5708,1588 5741,1580 5768,1531 5766,1471 5766,1441 5759,1441 "/>
+ <path fill="none" stroke="rgb(41,92,165)" stroke-width="30" stroke-linejoin="round" d="M 5549,2662 C 5549,2589 5560,2551 5560,2551 L 5595,2533 5643,2538 5659,2566 5666,2611 5683,2651 5719,2678 5752,2671 5777,2623 5777,2561 5777,2533 5770,2533 "/>
+ <path fill="none" stroke="rgb(41,92,165)" stroke-width="30" stroke-linejoin="round" d="M 4240,810 C 4309,766 4343,753 4343,753 L 4380,774 4394,818 4378,854 4346,877 4322,915 4320,960 4339,988 4399,979 4447,949 4471,931 4468,923 "/>
+ <path fill="none" stroke="rgb(41,92,165)" stroke-width="30" stroke-linejoin="round" d="M 4371,3355 C 4314,3314 4288,3290 4288,3290 L 4290,3254 4320,3216 4353,3212 4392,3226 4438,3230 4475,3221 4491,3184 4457,3136 4406,3108 4380,3099 4380,3103 "/>
+ <text class="SVGTextShape" transform="rotate(89.4 6565 1759)"><tspan class="TextParagraph"><tspan class="TextPosition" x="6565" y="1759"><tspan font-family="Bitstream Vera Sans, sans-serif" font-size="318px" font-weight="400" lengthAdjust="spacingAndGlyphs" textLength="787" fill="rgb(0,0,0)" stroke="none" style="white-space: pre">2 cm</tspan></tspan></tspan></text>
+ <text class="SVGTextShape" transform="rotate(89.5 5046 1759)"><tspan class="TextParagraph"><tspan class="TextPosition" x="5046" y="1759"><tspan font-family="Bitstream Vera Sans, sans-serif" font-size="318px" font-weight="400" lengthAdjust="spacingAndGlyphs" textLength="787" fill="rgb(0,0,0)" stroke="none" style="white-space: pre">2 cm</tspan></tspan></tspan></text>
+</svg>

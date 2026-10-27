@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="35mm" height="28mm" viewBox="0 0 3500 2800" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" stroke-width="28.222" stroke-linejoin="round" xml:space="preserve">
+ <path fill="none" stroke="rgb(0,0,0)" stroke-width="19" stroke-linejoin="round" d="M 235,2372 L 2477,2372 "/>
+ <path fill="none" stroke="rgb(0,0,0)" stroke-width="19" stroke-linejoin="round" d="M 1355,430 L 2477,2372 "/>
+ <path fill="none" stroke="rgb(0,0,0)" stroke-width="19" stroke-linejoin="round" d="M 235,2372 L 1355,430 "/>
+ <path fill="none" stroke="rgb(0,0,0)" stroke-width="19" stroke-linejoin="round" d="M 1355,437 L 3193,1723 "/>
+ <path fill="none" stroke="rgb(0,0,0)" stroke-width="19" stroke-linejoin="round" d="M 2477,2376 L 3191,1722 "/>
+ <text class="SVGTextShape"><tspan class="TextParagraph"><tspan class="TextPosition" x="1244" y="319"><tspan font-family="Bitstream Vera Sans, sans-serif" font-size="353px" font-weight="400" lengthAdjust="spacingAndGlyphs" textLength="240" fill="rgb(0,0,0)" stroke="none" style="white-space: pre">A</tspan></tspan></tspan></text>
+ <text class="SVGTextShape"><tspan class="TextParagraph"><tspan class="TextPosition" x="-9" y="2701"><tspan font-family="Bitstream Vera Sans, sans-serif" font-size="353px" font-weight="400" lengthAdjust="spacingAndGlyphs" textLength="242" fill="rgb(0,0,0)" stroke="none" style="white-space: pre">B</tspan></tspan></tspan></text>
+ <text class="SVGTextShape"><tspan class="TextParagraph"><tspan class="TextPosition" x="2395" y="2701"><tspan font-family="Bitstream Vera Sans, sans-serif" font-size="353px" font-weight="400" lengthAdjust="spacingAndGlyphs" textLength="245" fill="rgb(0,0,0)" stroke="none" style="white-space: pre">C</tspan></tspan></tspan></text>
+ <text class="SVGTextShape"><tspan class="TextParagraph"><tspan class="TextPosition" x="3239" y="1849"><tspan font-family="Bitstream Vera Sans, sans-serif" font-size="353px" font-weight="400" lengthAdjust="spacingAndGlyphs" textLength="272" fill="rgb(0,0,0)" stroke="none" style="white-space: pre">D</tspan></tspan></tspan></text>
+</svg>

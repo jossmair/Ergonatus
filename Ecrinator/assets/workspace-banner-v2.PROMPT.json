@@ -1,0 +1,9 @@
+{
+  "generator": "Built-in ImageGen",
+  "mode": "edit",
+  "date": "2026-10-23",
+  "source": "workspace-banner-v1.png",
+  "file": "workspace-banner-v2.png",
+  "transparent_background": true,
+  "prompt": "Edit this production background asset for ÉCRINATOR. Keep the very delicate flowing silk/glass ribbon style but remove ALL the white rectangular background. The output must be a genuinely transparent PNG with large empty transparent regions: at least 80 percent of the canvas fully transparent, especially all of the upper two thirds and the entire left half. Keep only two exceptionally delicate pale ice-blue translucent wisps sweeping along the extreme bottom edge and a small soft curved flourish at the lower right; they should fade smoothly to full transparency, irregular organic silhouette, no rectangular panel, no border, no text, no icons, no sparkle. Very wide panoramic 3:1 composition. It will be layered over a separately drawn pastel school-subject colour, so retain mostly transparent empty space and avoid white opaque areas. This is the actual background asset, not a screenshot or mockup."
+}

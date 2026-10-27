@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="30mm" height="23mm" viewBox="0 0 3000 2300" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" stroke-width="28.222" stroke-linejoin="round" xml:space="preserve">
+ <path fill="rgb(114,159,207)" stroke="none" d="M 658,944 L -9,944 -9,136 1323,136 1323,944 658,944 Z "/>
+ <path fill="none" stroke="rgb(52,101,164)" stroke-linejoin="round" d="M 658,944 L -9,944 -9,136 1323,136 1323,944 658,944 Z "/>
+ <path fill="rgb(114,159,207)" stroke="none" d="M 658,2233 L -9,2233 -9,1425 1323,1425 1323,2233 658,2233 Z "/>
+ <path fill="none" stroke="rgb(52,101,164)" stroke-linejoin="round" d="M 658,2233 L -9,2233 -9,1425 1323,1425 1323,2233 658,2233 Z "/>
+ <path fill="rgb(127,178,65)" stroke="none" d="M 1856,2224 L 1459,2224 1459,1416 2251,1416 2251,2224 1856,2224 Z "/>
+ <path fill="none" stroke="rgb(52,101,164)" stroke-linejoin="round" d="M 1856,2224 L 1459,2224 1459,1416 2251,1416 2251,2224 1856,2224 Z "/>
+ <text class="SVGTextShape"><tspan class="TextParagraph"><tspan class="TextPosition" x="2477" y="1776"><tspan font-family="OpenSymbol" font-size="2117px" font-weight="400" lengthAdjust="spacingAndGlyphs" textLength="808" fill="rgb(0,0,0)" stroke="none" style="white-space: pre">}</tspan></tspan></tspan></text>
+</svg>

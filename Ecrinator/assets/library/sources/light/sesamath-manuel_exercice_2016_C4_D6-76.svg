@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="16mm" height="18mm" viewBox="0 0 1600 1800" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" stroke-width="28.222" stroke-linejoin="round" xml:space="preserve">
+ <path fill="rgb(111,181,68)" stroke="none" d="M 18,1566 L 5,402 937,109 1471,1106 23,1572 18,1566 Z "/>
+ <path fill="rgb(111,181,68)" stroke="none" d="M 5,406 L 492,556 1014,385 937,108 579,5 168,106 7,406 5,406 Z "/>
+ <path fill="none" stroke="rgb(0,0,0)" stroke-width="19" stroke-linejoin="round" d="M 5,406 L 492,556 1014,385 937,108 579,5 168,106 7,406 5,406 Z "/>
+ <path fill="rgb(111,181,68)" stroke="none" d="M 18,1566 L 781,1804 1598,1535 1476,1102 915,940 268,1099 21,1566 18,1566 Z "/>
+ <path fill="none" stroke="rgb(0,0,0)" stroke-width="19" stroke-linejoin="round" stroke-dasharray="88,88,88,88" d="M 18,1566 L 781,1804 1598,1535 1476,1102 915,940 268,1099 21,1566 18,1566 Z "/>
+ <path fill="none" stroke="rgb(0,0,0)" stroke-width="19" stroke-linejoin="round" d="M 489,550 L 780,1796 "/>
+ <path fill="none" stroke="rgb(0,0,0)" stroke-width="19" stroke-linejoin="round" d="M 1005,386 L 1589,1531 "/>
+ <path fill="none" stroke="rgb(0,0,0)" stroke-width="19" stroke-linejoin="round" d="M 937,109 L 1476,1108 "/>
+ <path fill="none" stroke="rgb(0,0,0)" stroke-width="19" stroke-linejoin="round" stroke-dasharray="88,88,88,88" d="M 166,109 L 282,1095 "/>
+ <path fill="none" stroke="rgb(0,0,0)" stroke-width="19" stroke-linejoin="round" d="M 2,409 L 14,1566 "/>
+ <path fill="none" stroke="rgb(0,0,0)" stroke-width="19" stroke-linejoin="round" stroke-dasharray="88,88,88,88" d="M 573,0 L 915,935 "/>
+ <path fill="none" stroke="rgb(0,0,0)" stroke-width="19" stroke-linejoin="round" d="M 1596,1535 L 1476,1104 "/>
+ <path fill="none" stroke="rgb(0,0,0)" stroke-width="19" stroke-linejoin="round" d="M 12,1566 L 780,1804 "/>
+ <path fill="none" stroke="rgb(0,0,0)" stroke-width="19" stroke-linejoin="round" d="M 1596,1536 L 780,1803 "/>
+</svg>

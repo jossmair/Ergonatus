@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+.pytest_cache/
+.ruff_cache/
+build/
+dist/
+vendor/
+*.egg-info/
+*.part
+/Transcri-1.0.0-Setup.spec
+/Uninstall-Transcri.spec
+

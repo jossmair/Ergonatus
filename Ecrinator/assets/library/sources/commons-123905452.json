@@ -1,0 +1,84 @@
+{
+  "timestamp": "2022-10-08T06:25:46Z",
+  "size": 1617644,
+  "width": 3972,
+  "height": 2419,
+  "url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Blank_Gomberg_World_map.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Blank_Gomberg_World_map.png",
+  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=123905452",
+  "extmetadata": {
+    "DateTime": {
+      "value": "2022-10-08 06:25:46",
+      "source": "mediawiki-metadata",
+      "hidden": ""
+    },
+    "ObjectName": {
+      "value": "Blank Gomberg World map",
+      "source": "mediawiki-metadata"
+    },
+    "CommonsMetadataExtension": {
+      "value": 1.2,
+      "source": "extension",
+      "hidden": ""
+    },
+    "Categories": {
+      "value": "Outline of the Post-War New World Map|Self-published work|Aliased blank maps of the world with subnational borders|Political maps of the world|Maps of the world with Mercator projection",
+      "source": "commons-categories",
+      "hidden": ""
+    },
+    "Assessments": {
+      "value": "",
+      "source": "commons-categories",
+      "hidden": ""
+    },
+    "ImageDescription": {
+      "value": "A blank version of \"Maurice Gomberg's Outline of the Post-War New World Map\" self-published by himself. The map shows his proposed division of the world after Allied victory in WWII.",
+      "source": "commons-desc-page"
+    },
+    "DateTimeOriginal": {
+      "value": "2022-03-08",
+      "source": "commons-desc-page"
+    },
+    "Credit": {
+      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+      "source": "commons-desc-page"
+    },
+    "Artist": {
+      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Josemite\" title=\"User:Josemite\">Josemite</a>",
+      "source": "commons-desc-page"
+    },
+    "LicenseShortName": {
+      "value": "CC BY-SA 3.0",
+      "source": "commons-desc-page",
+      "hidden": ""
+    },
+    "UsageTerms": {
+      "value": "Creative Commons Attribution-Share Alike 3.0",
+      "source": "commons-desc-page"
+    },
+    "AttributionRequired": {
+      "value": "true",
+      "source": "commons-desc-page",
+      "hidden": ""
+    },
+    "LicenseUrl": {
+      "value": "https://creativecommons.org/licenses/by-sa/3.0",
+      "source": "commons-desc-page"
+    },
+    "Copyrighted": {
+      "value": "True",
+      "source": "commons-desc-page",
+      "hidden": ""
+    },
+    "Restrictions": {
+      "value": "",
+      "source": "commons-desc-page",
+      "hidden": ""
+    },
+    "License": {
+      "value": "cc-by-sa-3.0",
+      "source": "commons-templates",
+      "hidden": ""
+    }
+  }
+}

@@ -1,0 +1,1 @@
+Orbs vectorielles Ergonatus, 24 octobre 2026. Sources SVG + PNG/ICO dérivés. Glyphes simplifiés pour 36 px ; les couleurs APP_THEMES sont conservées. Aucun modèle génératif nécessaire pour ces symboles déterministes.

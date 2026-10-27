@@ -1,0 +1,103 @@
+{
+  "timestamp": "2016-02-11T23:09:09Z",
+  "size": 452064,
+  "width": 907,
+  "height": 966,
+  "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Respiratory_system_complete_fr.svg/1280px-Respiratory_system_complete_fr.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "thumbwidth": 1200,
+  "thumbheight": 1278,
+  "responsiveUrls": {
+    "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Respiratory_system_complete_fr.svg/3840px-Respiratory_system_complete_fr.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "thumbattribs": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Respiratory_system_complete_fr.svg/1280px-Respiratory_system_complete_fr.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "decoding": "async",
+    "loading": "lazy",
+    "width": 1200,
+    "height": 1278,
+    "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Respiratory_system_complete_fr.svg/3840px-Respiratory_system_complete_fr.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+  },
+  "url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Respiratory_system_complete_fr.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Respiratory_system_complete_fr.svg",
+  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=6321728",
+  "extmetadata": {
+    "DateTime": {
+      "value": "2016-02-11 23:09:09",
+      "source": "mediawiki-metadata",
+      "hidden": ""
+    },
+    "ObjectName": {
+      "value": "Respiratory system complete fr",
+      "source": "mediawiki-metadata"
+    },
+    "CommonsMetadataExtension": {
+      "value": 1.2,
+      "source": "extension",
+      "hidden": ""
+    },
+    "Categories": {
+      "value": "GFDL|License migration redundant|Self-published work|Unspec SVG created with Inkscape|Translation possible - SVG|SVG human respiratory system|Unspec New SVG created with Inkscape|Unchecked SVG validity|French-language SVG diagrams|Anatomical plates and drawings in French",
+      "source": "commons-categories",
+      "hidden": ""
+    },
+    "Assessments": {
+      "value": "",
+      "source": "commons-categories",
+      "hidden": ""
+    },
+    "ImageDescription": {
+      "value": "the respiratory system consists of the airways, the lungs, and the respiratory muscles that mediate the movement of air into and out of the body.",
+      "source": "commons-desc-page"
+    },
+    "DateTimeOriginal": {
+      "value": "2007-12-13",
+      "source": "commons-desc-page"
+    },
+    "Credit": {
+      "value": "The image i did myself as sources i used the books: Sobotta \"atlas der anatomie des menschen\" ISBN. 3 541 02828 9 , Churchill livingstone \"gray's anatomy\" ISBN. 0 433 01505 8, Interamericana. McGraw-hill \"atlas forografico de anatomia del cuerpo humano\" ISBN. 968 25 1677 3. Also used several online diagrams like (<a rel=\"nofollow\" class=\"external autonumber\" href=\"http://ewake.wfubmc.edu:88/library/Models/CHARTS/IMAGESCHART/wf_17_r434_2000.jpg\">[1]</a> and <a rel=\"nofollow\" class=\"external autonumber\" href=\"http://cancerinfo.tri-kobe.org/for_patient/pdq/Media/EN/CDR0000466533.jpg\">[2]</a>)",
+      "source": "commons-desc-page"
+    },
+    "Artist": {
+      "value": "<a href=\"//commons.wikimedia.org/wiki/User:LadyofHats\" title=\"User:LadyofHats\">LadyofHats</a> traduction by <a href=\"//commons.wikimedia.org/wiki/User:Berrucomons\" title=\"User:Berrucomons\">Berru</a>, <a href=\"//commons.wikimedia.org/w/index.php?title=User:Jmarch&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Jmarch (page does not exist)\">Jmarchn</a>",
+      "source": "commons-desc-page"
+    },
+    "Permission": {
+      "value": "You may select the license of your choice.",
+      "source": "commons-desc-page",
+      "hidden": ""
+    },
+    "LicenseShortName": {
+      "value": "CC BY-SA 3.0",
+      "source": "commons-desc-page",
+      "hidden": ""
+    },
+    "UsageTerms": {
+      "value": "Creative Commons Attribution-Share Alike 3.0",
+      "source": "commons-desc-page"
+    },
+    "AttributionRequired": {
+      "value": "true",
+      "source": "commons-desc-page",
+      "hidden": ""
+    },
+    "LicenseUrl": {
+      "value": "https://creativecommons.org/licenses/by-sa/3.0",
+      "source": "commons-desc-page"
+    },
+    "Copyrighted": {
+      "value": "True",
+      "source": "commons-desc-page",
+      "hidden": ""
+    },
+    "Restrictions": {
+      "value": "",
+      "source": "commons-desc-page",
+      "hidden": ""
+    },
+    "License": {
+      "value": "cc-by-sa-3.0",
+      "source": "commons-templates",
+      "hidden": ""
+    }
+  }
+}

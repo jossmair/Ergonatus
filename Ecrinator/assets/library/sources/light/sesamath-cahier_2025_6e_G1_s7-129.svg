@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="23mm" height="21mm" viewBox="0 0 2300 2100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" stroke-width="28.222" stroke-linejoin="round" xml:space="preserve">
+ <path fill="none" stroke="rgb(0,128,0)" stroke-width="19" stroke-linejoin="round" d="M 808,531 C 804,589 787,644 758,693 743,720 723,746 700,769 "/>
+ <path fill="none" stroke="rgb(0,128,0)" stroke-width="19" stroke-linejoin="round" d="M 803,845 C 801,847 799,848 799,850 766,905 720,951 663,982 614,1011 561,1027 504,1030 "/>
+ <path fill="none" stroke="rgb(0,128,0)" stroke-width="19" stroke-linejoin="round" d="M 681,600 L 885,683 "/>
+ <path fill="none" stroke="rgb(0,128,0)" stroke-width="19" stroke-linejoin="round" d="M 616,914 L 714,1062 "/>
+ <text class="SVGTextShape"><tspan class="TextParagraph"><tspan class="TextPosition" x="-9" y="390"><tspan font-family="Bitstream Vera Sans, sans-serif" font-size="318px" font-weight="400" lengthAdjust="spacingAndGlyphs" textLength="249" fill="rgb(0,0,0)" stroke="none" style="white-space: pre">O</tspan></tspan></tspan></text>
+ <text class="SVGTextShape"><tspan class="TextParagraph"><tspan class="TextPosition" x="2041" y="686"><tspan font-family="Times New Roman, serif" font-size="388px" font-style="italic" font-weight="400" lengthAdjust="spacingAndGlyphs" textLength="171" fill="rgb(0,0,0)" stroke="none" style="white-space: pre">x</tspan></tspan></tspan></text>
+ <text class="SVGTextShape"><tspan class="TextParagraph"><tspan class="TextPosition" x="510" y="1870"><tspan font-family="Times New Roman, serif" font-size="388px" font-style="italic" font-weight="400" lengthAdjust="spacingAndGlyphs" textLength="171" fill="rgb(0,0,0)" stroke="none" style="white-space: pre">y</tspan></tspan></tspan></text>
+ <path fill="none" stroke="rgb(0,0,0)" stroke-width="19" stroke-linejoin="round" d="M 270,427 L 788,1801 "/>
+ <path fill="none" stroke="rgb(0,0,0)" stroke-width="19" stroke-linejoin="round" d="M 270,427 L 2274,766 "/>
+ <path fill="none" stroke="rgb(0,0,0)" stroke-width="19" stroke-linejoin="round" d="M 270,427 L 1831,1700 "/>
+ <text class="SVGTextShape"><tspan class="TextParagraph"><tspan class="TextPosition" x="1713" y="1558"><tspan font-family="Times New Roman, serif" font-size="388px" font-style="italic" font-weight="400" lengthAdjust="spacingAndGlyphs" textLength="108" fill="rgb(0,0,0)" stroke="none" style="white-space: pre">t</tspan></tspan></tspan></text>
+</svg>

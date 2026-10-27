@@ -1,0 +1,6 @@
+comtypes 1.4.17
+
+
+Source, https://github.com/enthought/comtypes
+Download, https://github.com/enthought/comtypes/releases
+Issues, https://github.com/enthought/comtypes/issues

@@ -1,0 +1,23 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "claviernator"
+version = "1.3.10"
+description = "Clavier adapté et accessibilité motrice pour Windows"
+requires-python = ">=3.11"
+dependencies = ["PySide6-Essentials>=6.8,<7"]
+
+[project.optional-dependencies]
+dev = ["pytest>=8", "pyinstaller>=6", "pillow>=10", "comtypes"]
+
+[project.scripts]
+claviernator = "fortinatus.main:main"
+fortinatus = "fortinatus.main:main"
+
+[tool.setuptools.packages.find]
+include = ["fortinatus*"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="18mm" height="10mm" viewBox="0 0 1800 1000" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" stroke-width="28.222" stroke-linejoin="round" xml:space="preserve">
+ <text class="SVGTextShape" transform="rotate(-19.9 309 654)"><tspan class="TextParagraph"><tspan class="TextPosition" x="309" y="654"><tspan font-family="Bitstream Vera Sans, sans-serif" font-size="318px" font-weight="400" lengthAdjust="spacingAndGlyphs" textLength="1122" fill="rgb(0,0,0)" stroke="none" style="white-space: pre">18 mm</tspan></tspan></tspan></text>
+ <path fill="none" stroke="rgb(0,0,0)" stroke-width="19" stroke-linejoin="round" d="M 58,887 L 1693,293 "/>
+ <path fill="rgb(0,0,0)" stroke="none" d="M 69,1005 L 42,935 18,863 -9,790 0,787 9,783 19,780 46,852 71,924 97,995 88,998 79,1002 69,1005 Z "/>
+ <path fill="rgb(0,0,0)" stroke="none" d="M 1683,175 L 1709,247 1736,318 1760,390 1752,393 1743,397 1732,400 1707,328 1681,258 1655,185 1663,182 1672,178 1683,175 Z "/>
+</svg>

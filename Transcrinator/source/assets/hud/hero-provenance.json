@@ -1,0 +1,24 @@
+{
+  "generator": "Built-in image_gen",
+  "generatedOn": "2026-10-15",
+  "assets": [
+    {
+      "file": "core-main-v1.png",
+      "originalPath": "C:\\Users\\Josselin\\.codex\\generated_images\\01a13e16-e343-78f2-a4fa-52f423c8f829\\exec-49ddd012-5172-4ffe-94c8-a0e2021b645e.png",
+      "prompt": "Use case: stylized-concept\nAsset type: production transparent raster artwork for a futuristic desktop AI assistant, a single holographic energy core cutout.\nPrimary request: an exquisite original cyan and ice-blue holographic AI energy core, complete centered orb, layered translucent optical-glass volume with intricate luminous filaments and fine concentric instruments inside its spherical body. Beautiful sculptural depth, sophisticated cinematic science-fiction instrument craft, delicate rich visual details readable at 280 pixels.\nComposition: square canvas, complete centered orb with 12% genuinely transparent padding on all sides, focus volume in central 65% of image. No surrounding large orbital hoops: those will be rendered separately. The core should float alone with a crisp complete silhouette, no clipped glow or rim.\nMaterials and palette: cyan #5cecf7, ice-blue luminous glass, subtle navy internal depth, cool white highlights, restrained balanced emission, fine engineered detail.\nLighting: premium cinematic holographic light, dimensional and elegant, tuned for display on deep navy #06111c.\nBackground: genuinely transparent background with alpha; no baked backdrop, no floor, no rectangle, no checkerboard.\nConstraints: artwork only, no interface, no mockup, no text, no letters, no numbers, no logos, no watermark, no helmet, no character, no extra objects. Transparent cutout with empty transparent padding.",
+      "width": 1254,
+      "height": 1254,
+      "transparentBackground": true,
+      "attempts": 1
+    },
+    {
+      "file": "orbit-overlay-v1.png",
+      "originalPath": "C:\\Users\\Josselin\\.codex\\generated_images\\01a13e16-e343-78f2-a4fa-52f423c8f829\\exec-62db6c3f-b742-443a-9426-7c527d74463f.png",
+      "prompt": "Use case: stylized-concept\nAsset type: final production transparent PNG orbital halo overlay for a premium cinematic desktop AI assistant.\nPrimary request: one DELICATE THIN luminous cyan optical-glass orbital halo, an airy perfectly circular front-facing instrument with slender broken arcs, fine radial ticks and several subtle concentric luminous filaments. The annulus must be elegant and visually light, not a heavy metal portal or thick mechanical ring. Original refined science-fiction design, beautiful cyan #5cecf7 and ice-blue optical glass and cool white glints.\nComposition: SQUARE canvas. Crucial: the WHOLE OUTER HALO INCLUDING ALL GLOW must fit within the central 70% of the canvas, leaving a very generous 15% absolutely transparent safety margin on every edge. The centered aperture has a diameter of 56% of the whole canvas and is COMPLETELY EMPTY TRANSPARENT. Halo decoration lives only in the thin annular band between 56% and 70% diameter. No core, no center dot, no central glow, no crossing lines, no spokes. Balanced circle, the top, bottom, left and right of the full rim all completely visible and far away from the canvas edges.\nMaterial and lighting: luminous holographic optical glass, subtle dimensional depth, delicate interrupted cyan light arcs, restrained emission that reads clearly at 280 pixels on deep navy #06111c. Very fine crisp engineered detail without clutter.\nBackground: genuinely transparent alpha background, both the large empty center and generous outer margin must be fully transparent. No baked backdrop, no floor, no rectangle, no checkerboard.\nConstraints: asset artwork only, no interface, no mockup, no text, no numbers, no letters, no labels, no logos, no watermark, no extra objects, no clipped glow or rim. Do not fill the canvas with the circle: preserve the large 15% transparent margin.",
+      "width": 1254,
+      "height": 1254,
+      "transparentBackground": true,
+      "attempts": 2
+    }
+  ]
+}

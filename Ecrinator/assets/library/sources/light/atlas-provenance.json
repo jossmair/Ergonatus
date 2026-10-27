@@ -1,0 +1,28 @@
+{
+  "downloads": {
+    "admin1.geojson": {
+      "url": "https://raw.githubusercontent.com/nvkelso/natural-earth-vector/master/geojson/ne_10m_admin_1_states_provinces.geojson",
+      "sha256": "22d0e3ad85eb3e27f17cabf8ba2d50e554fbc27a87796ff891d958185da62fb5"
+    },
+    "countries.geojson": {
+      "url": "https://raw.githubusercontent.com/nvkelso/natural-earth-vector/master/geojson/ne_10m_admin_0_countries.geojson",
+      "sha256": "239eec57ac17f100a11e2536cffc56752c318b50ae765b0918ff7aab4ce8f255"
+    },
+    "communes.geojson": {
+      "url": "https://etalab-datasets.geo.data.gouv.fr/contours-administratifs/latest/geojson/communes-1000m.geojson",
+      "sha256": "1dd98d1f2bc1b57557977ec8e3dfc0c9cfdb6fafac8c1cbbec82a0d0c502e624"
+    },
+    "communes-metadata.json": {
+      "url": "https://unpkg.com/@etalab/decoupage-administratif/data/communes.json",
+      "sha256": "6cafec09b4e127d08edc47f366b28261bee70cca323fbfcb957dd169fcad9284"
+    },
+    "ne-terms.html": {
+      "url": "https://www.naturalearthdata.com/about/terms-of-use/",
+      "sha256": "bb3d1e0e8a6d63064b77a143197a780058584fc4869bd0e94f31c82a6e4c892e"
+    }
+  },
+  "maps": 5563,
+  "projection": "Local equirectangular with latitude compensation",
+  "simplification": "bounding box span / 1100; topology preserved",
+  "license": "Natural Earth public domain; Etalab Licence Ouverte 2.0"
+}

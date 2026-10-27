@@ -1,0 +1,318 @@
+{
+  "operation": "cell extraction, recentering and size normalization only",
+  "artwork_generator": "built-in image_gen",
+  "exports": [
+    {
+      "file": "assets/hud-orange/frames/core-00.png",
+      "atlas": "assets/hud-orange/atlases/core-loop-v1.png",
+      "source_cell": [
+        0,
+        0,
+        627,
+        627
+      ],
+      "alignment_bounds": [
+        127,
+        142,
+        531,
+        540
+      ],
+      "scale": 0.4752475247524752,
+      "origin": [
+        -28,
+        -34
+      ],
+      "size": [
+        256,
+        256
+      ],
+      "bytes": 80104
+    },
+    {
+      "file": "assets/hud-orange/frames/core-01.png",
+      "atlas": "assets/hud-orange/atlases/core-loop-v1.png",
+      "source_cell": [
+        627,
+        0,
+        627,
+        627
+      ],
+      "alignment_bounds": [
+        98,
+        141,
+        501,
+        540
+      ],
+      "scale": 0.47642679900744417,
+      "origin": [
+        -15,
+        -34
+      ],
+      "size": [
+        256,
+        256
+      ],
+      "bytes": 79803
+    },
+    {
+      "file": "assets/hud-orange/frames/core-02.png",
+      "atlas": "assets/hud-orange/atlases/core-loop-v1.png",
+      "source_cell": [
+        0,
+        627,
+        627,
+        627
+      ],
+      "alignment_bounds": [
+        126,
+        88,
+        532,
+        488
+      ],
+      "scale": 0.4729064039408867,
+      "origin": [
+        -28,
+        -8
+      ],
+      "size": [
+        256,
+        256
+      ],
+      "bytes": 79740
+    },
+    {
+      "file": "assets/hud-orange/frames/core-03.png",
+      "atlas": "assets/hud-orange/atlases/core-loop-v1.png",
+      "source_cell": [
+        627,
+        627,
+        627,
+        627
+      ],
+      "alignment_bounds": [
+        98,
+        88,
+        503,
+        488
+      ],
+      "scale": 0.4740740740740741,
+      "origin": [
+        -14,
+        -9
+      ],
+      "size": [
+        256,
+        256
+      ],
+      "bytes": 80889
+    },
+    {
+      "file": "assets/hud-orange/frames/orbit-00.png",
+      "atlas": "assets/hud-orange/atlases/orbit-loop-v1.png",
+      "source_cell": [
+        0,
+        0,
+        627,
+        627
+      ],
+      "alignment_bounds": [
+        76,
+        79,
+        573,
+        574
+      ],
+      "scale": 0.4225352112676056,
+      "origin": [
+        -9,
+        -10
+      ],
+      "size": [
+        256,
+        256
+      ],
+      "bytes": 72317
+    },
+    {
+      "file": "assets/hud-orange/frames/orbit-01.png",
+      "atlas": "assets/hud-orange/atlases/orbit-loop-v1.png",
+      "source_cell": [
+        627,
+        0,
+        627,
+        627
+      ],
+      "alignment_bounds": [
+        55,
+        80,
+        558,
+        574
+      ],
+      "scale": 0.41749502982107356,
+      "origin": [
+        0,
+        -9
+      ],
+      "size": [
+        256,
+        256
+      ],
+      "bytes": 71095
+    },
+    {
+      "file": "assets/hud-orange/frames/orbit-02.png",
+      "atlas": "assets/hud-orange/atlases/orbit-loop-v1.png",
+      "source_cell": [
+        0,
+        627,
+        627,
+        627
+      ],
+      "alignment_bounds": [
+        72,
+        53,
+        573,
+        549
+      ],
+      "scale": 0.41916167664670656,
+      "origin": [
+        -7,
+        2
+      ],
+      "size": [
+        256,
+        256
+      ],
+      "bytes": 73204
+    },
+    {
+      "file": "assets/hud-orange/frames/orbit-03.png",
+      "atlas": "assets/hud-orange/atlases/orbit-loop-v1.png",
+      "source_cell": [
+        627,
+        627,
+        627,
+        627
+      ],
+      "alignment_bounds": [
+        50,
+        55,
+        551,
+        548
+      ],
+      "scale": 0.41916167664670656,
+      "origin": [
+        2,
+        2
+      ],
+      "size": [
+        256,
+        256
+      ],
+      "bytes": 72028
+    },
+    {
+      "file": "assets/hud-orange/frames/flare-00.png",
+      "atlas": "assets/hud-orange/atlases/flare-loop-v1.png",
+      "source_cell": [
+        0,
+        0,
+        627,
+        627
+      ],
+      "alignment_bounds": [
+        100,
+        100,
+        565,
+        561
+      ],
+      "scale": 0.4817204301075269,
+      "origin": [
+        -32,
+        -31
+      ],
+      "size": [
+        256,
+        256
+      ],
+      "bytes": 83998
+    },
+    {
+      "file": "assets/hud-orange/frames/flare-01.png",
+      "atlas": "assets/hud-orange/atlases/flare-loop-v1.png",
+      "source_cell": [
+        627,
+        0,
+        627,
+        627
+      ],
+      "alignment_bounds": [
+        78,
+        97,
+        548,
+        564
+      ],
+      "scale": 0.4765957446808511,
+      "origin": [
+        -21,
+        -30
+      ],
+      "size": [
+        256,
+        256
+      ],
+      "bytes": 81412
+    },
+    {
+      "file": "assets/hud-orange/frames/flare-02.png",
+      "atlas": "assets/hud-orange/atlases/flare-loop-v1.png",
+      "source_cell": [
+        0,
+        627,
+        627,
+        627
+      ],
+      "alignment_bounds": [
+        92,
+        66,
+        565,
+        527
+      ],
+      "scale": 0.47357293868921774,
+      "origin": [
+        -28,
+        -12
+      ],
+      "size": [
+        256,
+        256
+      ],
+      "bytes": 81682
+    },
+    {
+      "file": "assets/hud-orange/frames/flare-03.png",
+      "atlas": "assets/hud-orange/atlases/flare-loop-v1.png",
+      "source_cell": [
+        627,
+        627,
+        627,
+        627
+      ],
+      "alignment_bounds": [
+        73,
+        70,
+        548,
+        525
+      ],
+      "scale": 0.47157894736842104,
+      "origin": [
+        -18,
+        -12
+      ],
+      "size": [
+        256,
+        256
+      ],
+      "bytes": 79731
+    }
+  ]
+}

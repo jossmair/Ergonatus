@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="27mm" height="15mm" viewBox="0 0 2700 1500" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" stroke-width="28.222" stroke-linejoin="round" xml:space="preserve">
+ <path fill="rgb(237,196,227)" stroke="none" d="M 2000,2 L 2515,305 2671,956 2000,1501 1499,501 2000,2 Z "/>
+ <path fill="none" stroke="rgb(0,0,0)" stroke-width="19" stroke-linejoin="round" d="M 2000,2 L 2515,305 2671,956 2000,1501 1499,501 2000,2 Z "/>
+ <path fill="rgb(237,196,227)" stroke="none" d="M 499,2 L 1016,305 1171,956 499,1501 0,501 499,2 Z "/>
+ <path fill="none" stroke="rgb(255,255,255)" stroke-width="19" stroke-linejoin="round" d="M 499,2 L 1016,305 1171,956 499,1501 0,501 499,2 Z "/>
+ <path fill="none" stroke="rgb(0,0,0)" stroke-width="19" stroke-linejoin="round" d="M 2000,2 L 499,2 "/>
+ <path fill="none" stroke="rgb(0,0,0)" stroke-width="19" stroke-linejoin="round" d="M 1499,501 L 0,501 "/>
+ <path fill="none" stroke="rgb(0,0,0)" stroke-width="19" stroke-linejoin="round" d="M 2000,1501 L 499,1501 "/>
+ <path fill="none" stroke="rgb(0,0,0)" stroke-width="19" stroke-linejoin="round" stroke-dasharray="21,21" d="M 2515,305 L 1016,305 "/>
+ <path fill="none" stroke="rgb(0,0,0)" stroke-width="19" stroke-linejoin="round" stroke-dasharray="21,21" d="M 2671,956 L 1171,956 "/>
+ <path fill="none" stroke="rgb(0,0,0)" stroke-width="19" stroke-linejoin="round" d="M 0,501 L 499,1501 "/>
+ <path fill="none" stroke="rgb(0,0,0)" stroke-width="19" stroke-linejoin="round" d="M 499,2 L 0,501 "/>
+ <path fill="none" stroke="rgb(0,0,0)" stroke-width="19" stroke-linejoin="round" stroke-dasharray="21,21" d="M 1016,305 L 499,2 "/>
+ <path fill="none" stroke="rgb(0,0,0)" stroke-width="19" stroke-linejoin="round" stroke-dasharray="21,21" d="M 1016,305 L 1171,956 "/>
+ <path fill="none" stroke="rgb(0,0,0)" stroke-width="19" stroke-linejoin="round" stroke-dasharray="21,21" d="M 1171,956 L 499,1501 "/>
+</svg>

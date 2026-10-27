@@ -1,0 +1,4 @@
+certifi 2026.7.22
+MPL-2.0
+https://github.com/certifi/python-certifi
+Source, https://github.com/certifi/python-certifi

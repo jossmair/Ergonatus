@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="31mm" height="30mm" viewBox="0 0 3100 3000" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" stroke-width="28.222" stroke-linejoin="round" xml:space="preserve">
+ <path fill="none" stroke="rgb(0,0,0)" stroke-width="19" stroke-linejoin="round" d="M 1520,1812 L 1217,1812 1217,1207 1824,1207 1824,1812 1520,1812 Z "/>
+ <path fill="none" stroke="rgb(0,0,0)" stroke-width="19" stroke-linejoin="round" d="M 1215,1208 L 1822,0 "/>
+ <path fill="none" stroke="rgb(0,0,0)" stroke-width="19" stroke-linejoin="round" d="M 1824,0 L 1824,1208 "/>
+ <path fill="none" stroke="rgb(0,0,0)" stroke-width="19" stroke-linejoin="round" d="M 1824,1208 L 3037,1208 "/>
+ <path fill="none" stroke="rgb(0,0,0)" stroke-width="19" stroke-linejoin="round" d="M 3037,1208 L 1824,1813 "/>
+ <path fill="none" stroke="rgb(0,0,0)" stroke-width="19" stroke-linejoin="round" d="M 1217,1813 L 2,1813 "/>
+ <path fill="none" stroke="rgb(0,0,0)" stroke-width="19" stroke-linejoin="round" d="M 1217,1208 L 2,1813 "/>
+ <path fill="none" stroke="rgb(0,0,0)" stroke-width="19" stroke-linejoin="round" d="M 1215,1813 L 1215,3025 "/>
+ <path fill="none" stroke="rgb(0,0,0)" stroke-width="19" stroke-linejoin="round" d="M 1215,3025 L 1822,1813 "/>
+ <text class="SVGTextShape" transform="rotate(-153.6 1692 587)"><tspan class="TextParagraph"><tspan class="TextPosition" x="1692" y="587"><tspan font-family="Wingdings 2" font-size="318px" font-weight="400" lengthAdjust="spacingAndGlyphs" textLength="282" fill="rgb(0,0,0)" stroke="none" style="white-space: pre"></tspan></tspan></tspan></text>
+ <text class="SVGTextShape" transform="rotate(-153.7 1794 2201)"><tspan class="TextParagraph"><tspan class="TextPosition" x="1794" y="2201"><tspan font-family="Wingdings 2" font-size="318px" font-weight="400" lengthAdjust="spacingAndGlyphs" textLength="282" fill="rgb(0,0,0)" stroke="none" style="white-space: pre"></tspan></tspan></tspan></text>
+ <text class="SVGTextShape" transform="rotate(-153.6 2501 1533)"><tspan class="TextParagraph"><tspan class="TextPosition" x="2501" y="1533"><tspan font-family="Wingdings 2" font-size="318px" font-weight="400" lengthAdjust="spacingAndGlyphs" textLength="282" fill="rgb(0,0,0)" stroke="none" style="white-space: pre"></tspan></tspan></tspan></text>
+ <text class="SVGTextShape" transform="rotate(-153.7 979 1393)"><tspan class="TextParagraph"><tspan class="TextPosition" x="979" y="1393"><tspan font-family="Wingdings 2" font-size="318px" font-weight="400" lengthAdjust="spacingAndGlyphs" textLength="282" fill="rgb(0,0,0)" stroke="none" style="white-space: pre"></tspan></tspan></tspan></text>
+ <text class="SVGTextShape" transform="rotate(-20.2 1766 799)"><tspan class="TextParagraph"><tspan class="TextPosition" x="1766" y="799"><tspan font-family="Bitstream Vera Sans, sans-serif" font-size="318px" font-weight="400" lengthAdjust="spacingAndGlyphs" textLength="265" fill="rgb(0,0,0)" stroke="none" style="white-space: pre">≈</tspan></tspan></tspan></text>
+ <text class="SVGTextShape" transform="rotate(-91.4 2535 1388)"><tspan class="TextParagraph"><tspan class="TextPosition" x="2535" y="1388"><tspan font-family="Bitstream Vera Sans, sans-serif" font-size="318px" font-weight="400" lengthAdjust="spacingAndGlyphs" textLength="265" fill="rgb(0,0,0)" stroke="none" style="white-space: pre">≈</tspan></tspan></tspan></text>
+ <text class="SVGTextShape" transform="rotate(-81.3 997 1930)"><tspan class="TextParagraph"><tspan class="TextPosition" x="997" y="1930"><tspan font-family="Bitstream Vera Sans, sans-serif" font-size="318px" font-weight="400" lengthAdjust="spacingAndGlyphs" textLength="265" fill="rgb(0,0,0)" stroke="none" style="white-space: pre">≈</tspan></tspan></tspan></text>
+ <text class="SVGTextShape" transform="rotate(-20.3 1166 2425)"><tspan class="TextParagraph"><tspan class="TextPosition" x="1166" y="2425"><tspan font-family="Bitstream Vera Sans, sans-serif" font-size="318px" font-weight="400" lengthAdjust="spacingAndGlyphs" textLength="265" fill="rgb(0,0,0)" stroke="none" style="white-space: pre">≈</tspan></tspan></tspan></text>
+ <path fill="rgb(51,163,163)" fill-opacity="0.4" stroke="none" d="M 1833,9 L 1819,1222 3037,1222 1804,1810 1228,3036 1217,1810 39,1822 1244,1208 1847,9 1833,9 Z "/>
+</svg>

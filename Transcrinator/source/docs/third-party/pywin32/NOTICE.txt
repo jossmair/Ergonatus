@@ -1,0 +1,9 @@
+pywin32 312
+PSF
+
+Homepage, https://github.com/mhammond/pywin32
+Changes, https://github.com/mhammond/pywin32/blob/main/CHANGES.md
+Docs, https://mhammond.github.io/pywin32/
+Bugs, https://github.com/mhammond/pywin32/issues
+Support Requests, https://github.com/mhammond/pywin32/discussions
+Mailing List, https://mail.python.org/mailman/listinfo/python-win32

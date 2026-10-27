@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="79mm" height="50mm" viewBox="0 0 7900 5000" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" stroke-width="28.222" stroke-linejoin="round" xml:space="preserve">
+ <path fill="none" stroke="rgb(0,0,0)" stroke-width="28" stroke-linejoin="round" d="M 4008,2462 C 4008,2813 3916,3157 3739,3463 3563,3766 3311,4018 3007,4195 2702,4371 2358,4463 2007,4463 1655,4463 1311,4371 1005,4195 702,4018 450,3766 273,3463 97,3157 5,2813 5,2462 5,2110 97,1766 273,1461 450,1157 702,905 1005,728 1311,552 1655,460 2007,460 2358,460 2702,552 3007,728 3311,905 3563,1157 3739,1461 3916,1766 4008,2110 4008,2462 Z "/>
+ <path fill="none" stroke="rgb(0,0,0)" stroke-width="28" stroke-linejoin="round" d="M 3507,1099 L 3507,3859 "/>
+ <text class="SVGTextShape" transform="rotate(90.4 3283 2307)"><tspan class="TextParagraph"><tspan class="TextPosition" x="3283" y="2307"><tspan font-family="Liberation Sans, sans-serif" font-size="635px" font-weight="400" lengthAdjust="spacingAndGlyphs" textLength="353" fill="rgb(157,15,137)" stroke="none" style="white-space: pre">§</tspan></tspan></tspan></text>
+ <path fill="none" stroke="rgb(0,0,0)" stroke-width="28" stroke-linejoin="round" d="M 5025,480 L 7786,483 "/>
+ <path fill="none" stroke="rgb(0,0,0)" stroke-width="28" stroke-linejoin="round" d="M 5025,4477 L 7786,4480 "/>
+ <path fill="none" stroke="rgb(0,0,0)" stroke-width="28" stroke-linejoin="round" d="M 5027,4475 L 5008,457 "/>
+ <path fill="none" stroke="rgb(0,0,0)" stroke-width="28" stroke-linejoin="round" d="M 7826,4480 L 7805,462 "/>
+ <text class="SVGTextShape" transform="rotate(-0.5 6198 720)"><tspan class="TextParagraph"><tspan class="TextPosition" x="6198" y="720"><tspan font-family="Liberation Sans, sans-serif" font-size="635px" font-weight="400" lengthAdjust="spacingAndGlyphs" textLength="353" fill="rgb(157,15,137)" stroke="none" style="white-space: pre">§</tspan></tspan></tspan></text>
+ <text class="SVGTextShape" transform="rotate(-0.4 6197 4718)"><tspan class="TextParagraph"><tspan class="TextPosition" x="6197" y="4718"><tspan font-family="Liberation Sans, sans-serif" font-size="635px" font-weight="400" lengthAdjust="spacingAndGlyphs" textLength="353" fill="rgb(157,15,137)" stroke="none" style="white-space: pre">§</tspan></tspan></tspan></text>
+</svg>

@@ -1,0 +1,85 @@
+{
+  "timestamp": "2011-07-28T03:54:16Z",
+  "size": 57092,
+  "width": 1425,
+  "height": 625,
+  "url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Blank-map-world-south-up.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Blank-map-world-south-up.png",
+  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=31996153",
+  "extmetadata": {
+    "DateTime": {
+      "value": "2011-07-28 03:54:16",
+      "source": "mediawiki-metadata",
+      "hidden": ""
+    },
+    "ObjectName": {
+      "value": "Blank-map-world-south-up",
+      "source": "mediawiki-metadata"
+    },
+    "CommonsMetadataExtension": {
+      "value": 1.2,
+      "source": "extension",
+      "hidden": ""
+    },
+    "Categories": {
+      "value": "PD-user|Political maps of the world|Maps of the world facing South",
+      "source": "commons-categories",
+      "hidden": ""
+    },
+    "Assessments": {
+      "value": "",
+      "source": "commons-categories",
+      "hidden": ""
+    },
+    "ImageDescription": {
+      "value": "South-up map of the world with political borders",
+      "source": "commons-desc-page"
+    },
+    "DateTimeOriginal": {
+      "value": "2008-06-06",
+      "source": "commons-desc-page"
+    },
+    "Credit": {
+      "value": "<a class=\"external free\" data-mw-original-href=\"http://commons.wikimedia.org/wiki/Image:Blank-map-world-reversed.png\" href=\"https://commons.wikimedia.org/wiki/Image:Blank-map-world-reversed.png\">http://commons.wikimedia.org/wiki/Image:Blank-map-world-reversed.png</a>",
+      "source": "commons-desc-page"
+    },
+    "Artist": {
+      "value": "CaseyPenk, Vardion",
+      "source": "commons-desc-page"
+    },
+    "Permission": {
+      "value": "Released into the public domain by original author",
+      "source": "commons-desc-page",
+      "hidden": ""
+    },
+    "LicenseShortName": {
+      "value": "Public domain",
+      "source": "commons-desc-page",
+      "hidden": ""
+    },
+    "UsageTerms": {
+      "value": "Public domain",
+      "source": "commons-desc-page"
+    },
+    "AttributionRequired": {
+      "value": "false",
+      "source": "commons-desc-page",
+      "hidden": ""
+    },
+    "Copyrighted": {
+      "value": "False",
+      "source": "commons-desc-page",
+      "hidden": ""
+    },
+    "Restrictions": {
+      "value": "",
+      "source": "commons-desc-page",
+      "hidden": ""
+    },
+    "License": {
+      "value": "pd",
+      "source": "commons-templates",
+      "hidden": ""
+    }
+  }
+}

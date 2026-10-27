@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="40mm" height="19mm" viewBox="0 0 4000 1900" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" stroke-width="28.222" stroke-linejoin="round" xml:space="preserve">
+ <path fill="none" stroke="rgb(0,0,0)" stroke-linejoin="round" d="M 559,898 L 3328,898 "/>
+ <path fill="none" stroke="rgb(0,0,0)" stroke-linejoin="round" d="M 2175,824 L 2175,974 "/>
+ <path fill="none" stroke="rgb(0,0,0)" stroke-linejoin="round" d="M 559,824 L 559,974 "/>
+ <path fill="none" stroke="rgb(0,0,0)" stroke-linejoin="round" d="M 3327,824 L 3327,974 "/>
+ <path fill="none" stroke="rgb(0,0,0)" stroke-linejoin="round" d="M 838,1272 L 1894,1272 "/>
+ <path fill="rgb(0,0,0)" stroke="none" d="M 822,1192 L 838,1173 559,1272 838,1372 822,1351 811,1328 803,1302 799,1274 803,1245 810,1217 822,1192 Z "/>
+ <path fill="rgb(0,0,0)" stroke="none" d="M 1909,1351 L 1894,1372 2171,1272 1894,1173 1909,1192 1921,1215 1928,1242 1931,1270 1930,1298 1921,1326 1909,1351 Z "/>
+ <path fill="none" stroke="rgb(0,0,0)" stroke-linejoin="round" d="M 2454,519 L 3052,519 "/>
+ <path fill="rgb(0,0,0)" stroke="none" d="M 2438,439 L 2454,418 2175,519 2454,617 2439,598 2427,573 2418,547 2415,519 2418,490 2425,464 2438,439 Z "/>
+ <path fill="rgb(0,0,0)" stroke="none" d="M 3067,596 L 3052,617 3330,517 3052,418 3067,437 3078,462 3087,489 3090,517 3087,545 3080,572 3067,596 Z "/>
+ <text class="SVGTextShape"><tspan class="TextParagraph"><tspan class="TextPosition" x="242" y="1009"><tspan font-family="Bitstream Vera Sans, sans-serif" font-size="353px" font-style="italic" font-weight="400" lengthAdjust="spacingAndGlyphs" textLength="272" fill="rgb(0,0,0)" stroke="none" style="white-space: pre">G</tspan></tspan></tspan></text>
+ <text class="SVGTextShape"><tspan class="TextParagraph"><tspan class="TextPosition" x="3452" y="1028"><tspan font-family="Bitstream Vera Sans, sans-serif" font-size="353px" font-style="italic" font-weight="400" lengthAdjust="spacingAndGlyphs" textLength="277" fill="rgb(0,0,0)" stroke="none" style="white-space: pre">O</tspan></tspan></tspan></text>
+ <text class="SVGTextShape"><tspan class="TextParagraph"><tspan class="TextPosition" x="2750" y="445"><tspan font-family="Bitstream Vera Sans, sans-serif" font-size="353px" font-weight="400" lengthAdjust="spacingAndGlyphs" textLength="224" fill="rgb(0,0,0)" stroke="none" style="white-space: pre">5</tspan></tspan></tspan></text>
+ <text class="SVGTextShape"><tspan class="TextParagraph"><tspan class="TextPosition" x="1372" y="1617"><tspan font-family="Times New Roman, serif" font-size="423px" font-style="italic" font-weight="400" lengthAdjust="spacingAndGlyphs" textLength="187" fill="rgb(0,0,0)" stroke="none" style="white-space: pre">x</tspan></tspan></tspan></text>
+</svg>

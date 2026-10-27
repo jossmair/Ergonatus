@@ -1,0 +1,85 @@
+{
+  "generator": "Built-in ImageGen",
+  "date": "2026-10-23",
+  "originals_preserved": true,
+  "assets": [
+    {
+      "slug": "mathematics",
+      "subject": "Mathématiques",
+      "prompt": "Use case: scientific-educational. Asset type: production illustration for the compact subject banner in ÉCRINATOR, a French middle-school word processor. Generate ONE polished, distinctive MATHEMATICS illustration: a precise blue geometry compass, a translucent set square, a small three-dimensional geometric solid and a graceful curved mathematical line. No notebook, no open book. Style: refined educational editorial illustration, softly shaded gouache with crisp dark navy ink outlines, restrained cobalt and icy blue highlights, professional and calm, age 11–15. Horizontal isolated compact cluster, roughly 2:1, complete objects, generous transparent padding, legible at 140 by 65 pixels. Genuine transparent background, no white rectangle, no panel, no UI, no text, no numbers, no lettering, no watermark, no glow, no mascot, no decorative confetti. The artwork must be an actual finished image for use inside the app, not a mockup.",
+      "file": "assets/subjects/mathematics.png"
+    },
+    {
+      "slug": "french",
+      "subject": "FRANÇAIS",
+      "prompt": "Use case: scientific-educational. Asset type: a final production illustration for a compact subject banner in ÉCRINATOR, a French middle-school word processor. Generate ONE refined educational editorial illustration, soft gouache shading with crisp dark navy ink outlines, restrained professional colours, calm and elegant, age 11–15. Horizontal isolated compact cluster approximately 2:1, complete objects, transparent padding, clearly legible when displayed at 140 by 65 pixels. Genuine transparent background. No white rectangle, no panel, no UI, no captions, no letters, no numbers, no watermark, no mascot, no glow, no confetti. Each subject illustration must have its own distinct meaningful objects. Subject: FRANÇAIS. Objects: an elegant burgundy fountain pen, an open literary book with completely blank pages, and a small folded manuscript sheet. Palette: muted coral, burgundy and warm cream. Keep a matching visual style to a luxury, lightly painted educational stationery illustration, while using the specified unique scene.",
+      "file": "assets/subjects/french.png"
+    },
+    {
+      "slug": "english",
+      "subject": "ANGLAIS",
+      "prompt": "Use case: scientific-educational. Asset type: a final production illustration for a compact subject banner in ÉCRINATOR, a French middle-school word processor. Generate ONE refined educational editorial illustration, soft gouache shading with crisp dark navy ink outlines, restrained professional colours, calm and elegant, age 11–15. Horizontal isolated compact cluster approximately 2:1, complete objects, transparent padding, clearly legible when displayed at 140 by 65 pixels. Genuine transparent background. No white rectangle, no panel, no UI, no captions, no letters, no numbers, no watermark, no mascot, no glow, no confetti. Each subject illustration must have its own distinct meaningful objects. Subject: ANGLAIS. Objects: a recognizable small London clock tower, a red telephone box and a little language phrasebook with a blank cover. Palette: restrained red, indigo and ivory. Keep a matching visual style to a luxury, lightly painted educational stationery illustration, while using the specified unique scene.",
+      "file": "assets/subjects/english.png"
+    },
+    {
+      "slug": "history",
+      "subject": "HISTOIRE-GÉOGRAPHIE",
+      "prompt": "Use case: scientific-educational. Asset type: a final production illustration for a compact subject banner in ÉCRINATOR, a French middle-school word processor. Generate ONE refined educational editorial illustration, soft gouache shading with crisp dark navy ink outlines, restrained professional colours, calm and elegant, age 11–15. Horizontal isolated compact cluster approximately 2:1, complete objects, transparent padding, clearly legible when displayed at 140 by 65 pixels. Genuine transparent background. No white rectangle, no panel, no UI, no captions, no letters, no numbers, no watermark, no mascot, no glow, no confetti. Each subject illustration must have its own distinct meaningful objects. Subject: HISTOIRE-GÉOGRAPHIE. Objects: a small historical castle tower beside a folded world map and a blue terrestrial globe. Palette: ochre, sandstone and muted ocean blue. Keep a matching visual style to a luxury, lightly painted educational stationery illustration, while using the specified unique scene.",
+      "file": "assets/subjects/history.png"
+    },
+    {
+      "slug": "spanish",
+      "subject": "ESPAGNOL",
+      "prompt": "Use case: scientific-educational. Asset type: a final production illustration for a compact subject banner in ÉCRINATOR, a French middle-school word processor. Generate ONE refined educational editorial illustration, soft gouache shading with crisp dark navy ink outlines, restrained professional colours, calm and elegant, age 11–15. Horizontal isolated compact cluster approximately 2:1, complete objects, transparent padding, clearly legible when displayed at 140 by 65 pixels. Genuine transparent background. No white rectangle, no panel, no UI, no captions, no letters, no numbers, no watermark, no mascot, no glow, no confetti. Each subject illustration must have its own distinct meaningful objects. Subject: ESPAGNOL. Objects: a warm Spanish architectural arch, a small classical guitar and a folded ornamental fan. Palette: terracotta, coral and muted gold. Keep a matching visual style to a luxury, lightly painted educational stationery illustration, while using the specified unique scene.",
+      "file": "assets/subjects/spanish.png"
+    },
+    {
+      "slug": "german",
+      "subject": "ALLEMAND",
+      "prompt": "Use case: scientific-educational. Asset type: a final production illustration for a compact subject banner in ÉCRINATOR, a French middle-school word processor. Generate ONE refined educational editorial illustration, soft gouache shading with crisp dark navy ink outlines, restrained professional colours, calm and elegant, age 11–15. Horizontal isolated compact cluster approximately 2:1, complete objects, transparent padding, clearly legible when displayed at 140 by 65 pixels. Genuine transparent background. No white rectangle, no panel, no UI, no captions, no letters, no numbers, no watermark, no mascot, no glow, no confetti. Each subject illustration must have its own distinct meaningful objects. Subject: ALLEMAND. Objects: a small Brandenburg Gate, a language book with blank cover and a neat autumn oak branch. Palette: warm gold, dark graphite and restrained red. Keep a matching visual style to a luxury, lightly painted educational stationery illustration, while using the specified unique scene.",
+      "file": "assets/subjects/german.png"
+    },
+    {
+      "slug": "physics",
+      "subject": "PHYSIQUE-CHIMIE",
+      "prompt": "Use case: scientific-educational. Asset type: a final production illustration for a compact subject banner in ÉCRINATOR, a French middle-school word processor. Generate ONE refined educational editorial illustration, soft gouache shading with crisp dark navy ink outlines, restrained professional colours, calm and elegant, age 11–15. Horizontal isolated compact cluster approximately 2:1, complete objects, transparent padding, clearly legible when displayed at 140 by 65 pixels. Genuine transparent background. No white rectangle, no panel, no UI, no captions, no letters, no numbers, no watermark, no mascot, no glow, no confetti. Each subject illustration must have its own distinct meaningful objects. Subject: PHYSIQUE-CHIMIE. Objects: a clear glass beaker with blue liquid, an Erlenmeyer flask and a small elegant atomic model. Palette: cyan, turquoise and restrained violet. Keep a matching visual style to a luxury, lightly painted educational stationery illustration, while using the specified unique scene.",
+      "file": "assets/subjects/physics.png"
+    },
+    {
+      "slug": "emc",
+      "subject": "EMC, civic education",
+      "prompt": "Use case: scientific-educational. Asset type: a final production illustration for a compact subject banner in ÉCRINATOR, a French middle-school word processor. Generate ONE refined educational editorial illustration, soft gouache shading with crisp dark navy ink outlines, restrained professional colours, calm and elegant, age 11–15. Horizontal isolated compact cluster approximately 2:1, complete objects, transparent padding, clearly legible when displayed at 140 by 65 pixels. Genuine transparent background. No white rectangle, no panel, no UI, no captions, no letters, no numbers, no watermark, no mascot, no glow, no confetti. Each subject illustration must have its own distinct meaningful objects. Subject: EMC, civic education. Objects: two different hands gently supporting a small balanced scale and a simple protective shield. Palette: teal, navy and soft warm gold. Keep a matching visual style to a luxury, lightly painted educational stationery illustration, while using the specified unique scene.",
+      "file": "assets/subjects/emc.png"
+    },
+    {
+      "slug": "biology",
+      "subject": "SVT, life and earth sciences",
+      "prompt": "Use case: scientific-educational. Asset type: a final production illustration for a compact subject banner in ÉCRINATOR, a French middle-school word processor. Generate ONE refined educational editorial illustration, soft gouache shading with crisp dark navy ink outlines, restrained professional colours, calm and elegant, age 11–15. Horizontal isolated compact cluster approximately 2:1, complete objects, transparent padding, clearly legible when displayed at 140 by 65 pixels. Genuine transparent background. No white rectangle, no panel, no UI, no captions, no letters, no numbers, no watermark, no mascot, no glow, no confetti. Each subject illustration must have its own distinct meaningful objects. Subject: SVT, life and earth sciences. Objects: a compact microscope, fresh green leaves and a simplified cutaway living cell. Palette: emerald, sage and soft teal. Keep a matching visual style to a luxury, lightly painted educational stationery illustration, while using the specified unique scene.",
+      "file": "assets/subjects/biology.png"
+    },
+    {
+      "slug": "art",
+      "subject": "ARTS PLASTIQUES",
+      "prompt": "Use case: scientific-educational. Asset type: a final production illustration for a compact subject banner in ÉCRINATOR, a French middle-school word processor. Generate ONE refined educational editorial illustration, soft gouache shading with crisp dark navy ink outlines, restrained professional colours, calm and elegant, age 11–15. Horizontal isolated compact cluster approximately 2:1, complete objects, transparent padding, clearly legible when displayed at 140 by 65 pixels. Genuine transparent background. No white rectangle, no panel, no UI, no captions, no letters, no numbers, no watermark, no mascot, no glow, no confetti. Each subject illustration must have its own distinct meaningful objects. Subject: ARTS PLASTIQUES. Objects: an artist's wooden palette with a few paint wells, two graceful brushes and three coloured pencils. Palette: magenta, turquoise, ultramarine and warm ochre. Keep a matching visual style to a luxury, lightly painted educational stationery illustration, while using the specified unique scene.",
+      "file": "assets/subjects/art.png"
+    },
+    {
+      "slug": "music",
+      "subject": "ÉDUCATION MUSICALE",
+      "prompt": "Use case: scientific-educational. Asset type: a final production illustration for a compact subject banner in ÉCRINATOR, a French middle-school word processor. Generate ONE refined educational editorial illustration, soft gouache shading with crisp dark navy ink outlines, restrained professional colours, calm and elegant, age 11–15. Horizontal isolated compact cluster approximately 2:1, complete objects, transparent padding, clearly legible when displayed at 140 by 65 pixels. Genuine transparent background. No white rectangle, no panel, no UI, no captions, no letters, no numbers, no watermark, no mascot, no glow, no confetti. Each subject illustration must have its own distinct meaningful objects. Subject: ÉDUCATION MUSICALE. Objects: an elegant treble clef with a few musical notes, a short curved staff and compact over-ear headphones. Palette: violet, indigo and soft coral. Keep a matching visual style to a luxury, lightly painted educational stationery illustration, while using the specified unique scene.",
+      "file": "assets/subjects/music.png"
+    },
+    {
+      "slug": "technology",
+      "subject": "TECHNOLOGIE",
+      "prompt": "Use case: scientific-educational. Asset type: a final production illustration for a compact subject banner in ÉCRINATOR, a French middle-school word processor. Generate ONE refined educational editorial illustration, soft gouache shading with crisp dark navy ink outlines, restrained professional colours, calm and elegant, age 11–15. Horizontal isolated compact cluster approximately 2:1, complete objects, transparent padding, clearly legible when displayed at 140 by 65 pixels. Genuine transparent background. No white rectangle, no panel, no UI, no captions, no letters, no numbers, no watermark, no mascot, no glow, no confetti. Each subject illustration must have its own distinct meaningful objects. Subject: TECHNOLOGIE. Objects: a compact circuit board, two interlocking gears and a precise screwdriver. Palette: slate blue, teal and small warm orange accents. Keep a matching visual style to a luxury, lightly painted educational stationery illustration, while using the specified unique scene.",
+      "file": "assets/subjects/technology.png"
+    },
+    {
+      "slug": "other",
+      "subject": "AUTRE MATIÈRE, general school work",
+      "prompt": "Use case: scientific-educational. Asset type: a final production illustration for a compact subject banner in ÉCRINATOR, a French middle-school word processor. Generate ONE refined educational editorial illustration, soft gouache shading with crisp dark navy ink outlines, restrained professional colours, calm and elegant, age 11–15. Horizontal isolated compact cluster approximately 2:1, complete objects, transparent padding, clearly legible when displayed at 140 by 65 pixels. Genuine transparent background. No white rectangle, no panel, no UI, no captions, no letters, no numbers, no watermark, no mascot, no glow, no confetti. Each subject illustration must have its own distinct meaningful objects. Subject: AUTRE MATIÈRE, general school work. Objects: a small open laptop with a completely blank screen, a closed notebook, a pencil and a folded worksheet. Palette: muted teal, ochre and soft slate. Keep a matching visual style to a luxury, lightly painted educational stationery illustration, while using the specified unique scene.",
+      "file": "assets/subjects/other.png"
+    }
+  ]
+}

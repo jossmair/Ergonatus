@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="18mm" height="13mm" viewBox="0 0 1800 1300" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" stroke-width="28.222" stroke-linejoin="round" xml:space="preserve">
+ <path fill="rgb(255,255,255)" stroke="none" d="M 2,1325 L 1325,1325 1767,885 443,885 2,1325 Z "/>
+ <path fill="none" stroke="rgb(0,0,0)" stroke-width="19" stroke-linejoin="round" stroke-dasharray="19,11" d="M 2,1325 L 1325,1325 1767,885 443,885 2,1325 Z "/>
+ <path fill="none" stroke="rgb(0,0,0)" stroke-width="19" stroke-linejoin="round" d="M 2,1323 L 885,0 "/>
+ <path fill="none" stroke="rgb(0,0,0)" stroke-width="19" stroke-linejoin="round" d="M 1325,1323 L 885,0 "/>
+ <path fill="none" stroke="rgb(0,0,0)" stroke-width="19" stroke-linejoin="round" stroke-dasharray="19,11" d="M 443,884 L 885,0 "/>
+ <path fill="none" stroke="rgb(0,0,0)" stroke-width="19" stroke-linejoin="round" d="M 2,1323 L 1325,1323 "/>
+ <path fill="none" stroke="rgb(0,0,0)" stroke-width="19" stroke-linejoin="round" d="M 1325,1325 L 1767,885 "/>
+ <path fill="none" stroke="rgb(0,0,0)" stroke-width="19" stroke-linejoin="round" d="M 885,0 L 1767,884 "/>
+ <path fill="rgb(255,204,153)" fill-opacity="0.502" stroke="none" d="M 2,1323 L 1325,1323 885,0 2,1323 Z "/>
+ <path fill="rgb(255,204,153)" fill-opacity="0.502" stroke="none" d="M 1325,1323 L 1767,884 885,0 1325,1323 Z "/>
+ <path fill="none" stroke="rgb(0,0,0)" stroke-width="19" stroke-linejoin="round" d="M 1325,1323 L 1767,884 885,0 1325,1323 Z "/>
+ <path fill="none" stroke="rgb(0,0,0)" stroke-width="19" stroke-linejoin="round" d="M 19,1326 L 1351,1326 "/>
+ <path fill="none" stroke="rgb(0,0,0)" stroke-width="19" stroke-linejoin="round" d="M 1767,894 L 1335,1326 "/>
+</svg>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="36mm" height="18mm" viewBox="0 0 3600 1800" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" stroke-width="28.222" stroke-linejoin="round" xml:space="preserve">
+ <path fill="none" stroke="rgb(0,0,0)" stroke-width="19" stroke-linejoin="round" d="M 1270,1235 L 699,1235 699,95 1840,95 1840,1235 1270,1235 Z "/>
+ <path fill="rgb(179,179,179)" stroke="none" d="M 2693,1235 L 1838,1235 1838,95 3549,95 3549,1235 2693,1235 Z "/>
+ <path fill="none" stroke="rgb(0,0,0)" stroke-width="19" stroke-linejoin="round" d="M 2693,1235 L 1838,1235 1838,95 3549,95 3549,1235 2693,1235 Z "/>
+ <path fill="none" stroke="rgb(0,0,0)" stroke-width="19" stroke-linejoin="round" d="M 1048,1404 L 3254,1404 "/>
+ <path fill="rgb(0,0,0)" stroke="none" d="M 1030,1312 L 1048,1289 727,1404 1048,1519 1030,1494 1016,1468 1007,1438 1004,1404 1005,1372 1016,1341 1030,1312 Z "/>
+ <path fill="rgb(0,0,0)" stroke="none" d="M 3272,1494 L 3254,1519 3574,1402 3254,1289 3270,1312 3284,1339 3293,1369 3297,1402 3295,1434 3286,1466 3272,1494 Z "/>
+ <text class="SVGTextShape"><tspan class="TextParagraph"><tspan class="TextPosition" x="1602" y="1707"><tspan font-family="Bitstream Vera Sans, sans-serif" font-size="318px" font-weight="400" lengthAdjust="spacingAndGlyphs" textLength="988" fill="rgb(0,0,0)" stroke="none" style="white-space: pre">12 cm</tspan></tspan></tspan></text>
+ <text class="SVGTextShape" transform="rotate(-90 288 1217)"><tspan class="TextParagraph"><tspan class="TextPosition" x="288" y="1217"><tspan font-family="Bitstream Vera Sans, sans-serif" font-size="318px" font-weight="400" lengthAdjust="spacingAndGlyphs" textLength="1088" fill="rgb(0,0,0)" stroke="none" style="white-space: pre">2,4 cm</tspan></tspan></tspan></text>
+ <path fill="none" stroke="rgb(0,0,0)" stroke-width="19" stroke-linejoin="round" d="M 494,416 L 494,915 "/>
+ <path fill="rgb(0,0,0)" stroke="none" d="M 584,399 L 609,416 494,97 379,416 402,399 430,386 460,376 492,372 526,376 556,385 584,399 Z "/>
+ <path fill="rgb(0,0,0)" stroke="none" d="M 404,933 L 379,915 494,1235 609,915 586,931 557,945 527,956 496,960 462,956 432,947 404,933 Z "/>
+ <path fill="none" stroke="rgb(0,0,0)" stroke-width="19" stroke-linejoin="round" d="M 1159,176 L 1335,2 "/>
+ <path fill="none" stroke="rgb(0,0,0)" stroke-width="19" stroke-linejoin="round" d="M 607,751 L 787,575 "/>
+</svg>

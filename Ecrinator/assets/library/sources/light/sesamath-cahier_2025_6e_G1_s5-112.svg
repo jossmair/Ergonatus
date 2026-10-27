@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="38mm" height="24mm" viewBox="0 0 3800 2400" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" stroke-width="28.222" stroke-linejoin="round" xml:space="preserve">
+ <path fill="none" stroke="rgb(179,179,179)" stroke-width="19" stroke-linejoin="round" d="M 0,2371 L 3796,2371 "/>
+ <path fill="none" stroke="rgb(179,179,179)" stroke-width="19" stroke-linejoin="round" d="M 0,2134 L 3796,2134 "/>
+ <path fill="none" stroke="rgb(179,179,179)" stroke-width="19" stroke-linejoin="round" d="M 0,1896 L 3796,1896 "/>
+ <path fill="none" stroke="rgb(179,179,179)" stroke-width="19" stroke-linejoin="round" d="M 0,1662 L 3796,1662 "/>
+ <path fill="none" stroke="rgb(179,179,179)" stroke-width="19" stroke-linejoin="round" d="M 0,1185 L 3796,1185 "/>
+ <path fill="none" stroke="rgb(179,179,179)" stroke-width="19" stroke-linejoin="round" d="M 0,949 L 3796,949 "/>
+ <path fill="none" stroke="rgb(179,179,179)" stroke-width="19" stroke-linejoin="round" d="M 0,713 L 3796,713 "/>
+ <path fill="none" stroke="rgb(179,179,179)" stroke-width="19" stroke-linejoin="round" d="M 0,474 L 3796,474 "/>
+ <path fill="none" stroke="rgb(179,179,179)" stroke-width="19" stroke-linejoin="round" d="M 0,236 L 3796,236 "/>
+ <path fill="none" stroke="rgb(179,179,179)" stroke-width="19" stroke-linejoin="round" d="M 0,2 L 3796,2 "/>
+ <path fill="none" stroke="rgb(179,179,179)" stroke-width="19" stroke-linejoin="round" d="M 0,2 L 0,2372 "/>
+ <path fill="none" stroke="rgb(179,179,179)" stroke-width="19" stroke-linejoin="round" d="M 235,2 L 235,2372 "/>
+ <path fill="none" stroke="rgb(179,179,179)" stroke-width="19" stroke-linejoin="round" d="M 473,2 L 473,2371 "/>
+ <path fill="none" stroke="rgb(179,179,179)" stroke-width="19" stroke-linejoin="round" d="M 713,2 L 713,2371 "/>
+ <path fill="none" stroke="rgb(179,179,179)" stroke-width="19" stroke-linejoin="round" d="M 951,2 L 951,2371 "/>
+ <path fill="none" stroke="rgb(179,179,179)" stroke-width="19" stroke-linejoin="round" d="M 1189,2 L 1189,2371 "/>
+ <path fill="none" stroke="rgb(179,179,179)" stroke-width="19" stroke-linejoin="round" d="M 1422,2 L 1422,2371 "/>
+ <path fill="none" stroke="rgb(179,179,179)" stroke-width="19" stroke-linejoin="round" d="M 1662,2 L 1662,2371 "/>
+ <path fill="none" stroke="rgb(179,179,179)" stroke-width="19" stroke-linejoin="round" d="M 1900,2 L 1900,2371 "/>
+ <path fill="none" stroke="rgb(179,179,179)" stroke-width="19" stroke-linejoin="round" d="M 2136,2 L 2136,2371 "/>
+ <path fill="none" stroke="rgb(179,179,179)" stroke-width="19" stroke-linejoin="round" d="M 2371,2 L 2371,2371 "/>
+ <path fill="none" stroke="rgb(179,179,179)" stroke-width="19" stroke-linejoin="round" d="M 2611,2 L 2611,2371 "/>
+ <path fill="none" stroke="rgb(179,179,179)" stroke-width="19" stroke-linejoin="round" d="M 2849,2 L 2849,2371 "/>
+ <path fill="none" stroke="rgb(179,179,179)" stroke-width="19" stroke-linejoin="round" d="M 3087,2 L 3087,2371 "/>
+ <path fill="none" stroke="rgb(179,179,179)" stroke-width="19" stroke-linejoin="round" d="M 3320,2 L 3320,2371 "/>
+ <path fill="none" stroke="rgb(179,179,179)" stroke-width="19" stroke-linejoin="round" d="M 3560,2 L 3560,2371 "/>
+ <path fill="none" stroke="rgb(179,179,179)" stroke-width="19" stroke-linejoin="round" d="M 3798,2 L 3798,2371 "/>
+ <path fill="none" stroke="rgb(179,179,179)" stroke-width="19" stroke-linejoin="round" d="M 0,1423 L 3796,1423 "/>
+ <path fill="none" stroke="rgb(0,0,0)" stroke-width="41" stroke-linejoin="round" d="M 1177,702 L 1790,702 "/>
+ <path fill="none" stroke="rgb(0,0,0)" stroke-width="41" stroke-linejoin="round" d="M 1787,700 L 2372,459 "/>
+ <path fill="none" stroke="rgb(0,0,0)" stroke-width="41" stroke-linejoin="round" d="M 1785,699 L 1981,935 "/>
+ <path fill="none" stroke="rgb(0,0,0)" stroke-width="41" stroke-linejoin="round" d="M 1976,935 L 2381,933 "/>
+ <path fill="none" stroke="rgb(0,0,0)" stroke-width="41" stroke-linejoin="round" d="M 2364,455 L 2365,586 "/>
+ <path fill="none" stroke="rgb(0,0,0)" stroke-width="41" stroke-linejoin="round" d="M 2371,926 L 2372,1057 "/>
+ <path fill="none" stroke="rgb(0,0,0)" stroke-width="41" stroke-linejoin="round" d="M 1085,797 C 1102,797 1120,792 1136,781 1152,771 1164,755 1173,737 1182,718 1187,697 1187,676 1187,654 1182,633 1173,614 1164,596 1152,580 1136,570 1120,557 1102,552 1083,552 1065,552 1048,557 1032,568 1016,579 1004,594 995,612 986,631 981,653 981,674 981,695 986,716 995,736 1004,753 1016,769 1032,780 1048,792 1065,797 1085,797 Z "/>
+ <path fill="none" stroke="rgb(0,0,0)" stroke-width="41" stroke-linejoin="round" d="M 1782,367 L 1378,601 "/>
+ <path fill="none" stroke="rgb(0,0,0)" stroke-width="41" stroke-linejoin="round" d="M 1378,596 L 1378,824 "/>
+ <path fill="none" stroke="rgb(0,0,0)" stroke-width="41" stroke-linejoin="round" d="M 1376,811 L 1122,1069 "/>
+ <path fill="none" stroke="rgb(0,0,0)" stroke-width="41" stroke-linejoin="round" d="M 1177,1531 L 1790,1531 "/>
+ <path fill="none" stroke="rgb(0,0,0)" stroke-width="41" stroke-linejoin="round" d="M 1785,1535 L 2369,1776 "/>
+ <path fill="none" stroke="rgb(0,0,0)" stroke-width="41" stroke-linejoin="round" d="M 1780,1536 L 1977,1298 "/>
+ <path fill="none" stroke="rgb(0,0,0)" stroke-width="41" stroke-linejoin="round" d="M 1976,1298 L 2381,1300 "/>
+ <path fill="none" stroke="rgb(0,0,0)" stroke-width="41" stroke-linejoin="round" d="M 2364,1776 L 2365,1647 "/>
+ <path fill="none" stroke="rgb(0,0,0)" stroke-width="41" stroke-linejoin="round" d="M 2369,1305 L 2372,1177 "/>
+ <path fill="none" stroke="rgb(0,0,0)" stroke-width="41" stroke-linejoin="round" d="M 1035,1371 C 1053,1371 1071,1376 1087,1386 1102,1397 1115,1413 1124,1431 1132,1450 1138,1471 1138,1492 1138,1513 1132,1535 1124,1552 1115,1572 1102,1588 1087,1598 1071,1609 1053,1614 1035,1614 1018,1614 1000,1609 984,1598 968,1588 956,1572 947,1554 938,1535 933,1513 933,1492 933,1471 938,1450 947,1432 956,1413 968,1397 984,1386 1000,1376 1018,1371 1035,1371 Z "/>
+ <path fill="none" stroke="rgb(0,0,0)" stroke-width="41" stroke-linejoin="round" d="M 1787,1870 L 1378,1632 "/>
+ <path fill="none" stroke="rgb(0,0,0)" stroke-width="41" stroke-linejoin="round" d="M 1379,1637 L 1378,1411 "/>
+ <path fill="none" stroke="rgb(0,0,0)" stroke-width="41" stroke-linejoin="round" d="M 1372,1420 L 1124,1173 "/>
+</svg>

@@ -1,0 +1,10 @@
+[project]
+name = "redactor"
+version = "0.4.1"
+description = "Assistant de rédaction local et accessible pour Windows"
+requires-python = ">=3.12,<3.13"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["."]
+addopts = "-q"

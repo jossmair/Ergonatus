@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="64mm" height="33mm" viewBox="0 0 6400 3300" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" stroke-width="28.222" stroke-linejoin="round" xml:space="preserve">
+ <path fill="none" stroke="rgb(0,152,204)" stroke-width="30" stroke-linejoin="round" d="M 9,3247 C 9,3235 9,3221 9,3209 9,2646 155,2094 432,1607 709,1120 1106,716 1586,434 2066,153 2611,5 3164,5 3717,5 4262,153 4741,434 5221,716 5618,1120 5895,1607 6172,2094 6318,2646 6318,3209 6318,3221 6318,3231 6318,3244 L 9,3247 Z "/>
+ <path fill="none" stroke="rgb(173,100,154)" stroke-width="30" stroke-linejoin="round" d="M 9,3249 C 9,3240 9,3231 9,3224 9,2865 102,2514 279,2203 457,1893 711,1635 1018,1457 1325,1277 1672,1184 2027,1184 2379,1184 2727,1277 3034,1457 3341,1635 3595,1893 3773,2203 3949,2514 4043,2865 4043,3224 4043,3231 4043,3239 4043,3246 L 9,3249 Z "/>
+ <path fill="none" stroke="rgb(173,100,154)" stroke-width="30" stroke-linejoin="round" d="M 4043,3251 C 4043,3246 4043,3242 4043,3237 4043,3037 4096,2840 4195,2667 4295,2494 4438,2350 4613,2251 4785,2150 4981,2097 5181,2097 5380,2097 5576,2150 5750,2251 5923,2350 6066,2494 6167,2667 6265,2840 6318,3037 6318,3237 6318,3240 6318,3246 6318,3249 L 4043,3251 Z "/>
+ <path fill="none" stroke="rgb(0,0,0)" stroke-width="41" stroke-linejoin="round" d="M 12,3251 L 6385,3251 "/>
+</svg>

@@ -1,0 +1,27 @@
+{
+  "mode": "built-in image_gen",
+  "saved_path": "C:\\Users\\Josselin\\Desktop\\transcri\\Transcri\\assets\\hud-orange\\atlases\\flare-loop-v1.png",
+  "edit_target": "C:\\Users\\Josselin\\Desktop\\transcri\\Transcri\\assets\\hud-orange\\halo-v1.png",
+  "original_generated_path": "C:\\Users\\Josselin\\.codex\\generated_images\\01a13e50-364b-7123-9e5f-62584459d2f5\\exec-b54b0e79-8d1d-456f-964f-cf3bd9724777.png",
+  "final_generated_path": "C:\\Users\\Josselin\\.codex\\generated_images\\01a13e50-364b-7123-9e5f-62584459d2f5\\exec-223d3084-d463-47c2-b13e-392cb8b43420.png",
+  "prompt": "Use case: style-transfer\nAsset type: ONE real production animation sprite atlas of four sequential frames, arranged EXACTLY 2 columns by 2 rows on a square transparent canvas. This is an animation asset for a desktop voice hub, not four design proposals and not a contact sheet.\nInput image 1: visual material and color reference for the same orange energy corona. Preserve this spectacular amber-orange and warm ivory plasma/lightning aesthetic, but make the ring thinner and the empty inner circle larger.\nPrimary request: FOUR SEQUENTIAL ANIMATION FRAMES of the SAME thin vivid amber-orange energy corona. Fine bright plasma wisps and lightning threads swirl clockwise in a looping motion. Frame sequence reading order top-left 0 degrees, top-right 90 degrees, bottom-left 180 degrees, bottom-right 270 degrees; the next frame returns seamlessly to first. Every frame is the exact same camera, fixed position, fixed outer radius, fixed overall ring geometry and controlled brightness. Animate the plasma wisps along the circle, not a different ring design.\nLayout: square canvas subdivided into exactly four EQUAL square cells, 2 columns x 2 rows, with no visible grid. In EACH cell one ring is perfectly centered and surrounded by 20 percent genuinely transparent padding. All ring centers must align at the cell quarter positions. No overlap between cells. Ring center remains fully empty and transparent, more than 50 percent of the ring outer diameter. Plasma only in a thin annular band around that empty center.\nColor palette: vivid amber-orange #ff9d45, golden amber #ffbf69, very bright warm ivory lightning highlights. No blue, cyan or purple.\nBackground: genuinely transparent alpha everywhere outside plasma and in the center holes, including transparent gutters; not black, not checkerboard baked in.\nConstraints: exactly FOUR sequential sprite frames, same circular energy corona in all four cells. No text, numbers, labels, borders, visible grid, UI, icons, words, objects, symbols or watermarks. Square atlas. Real transparency is essential.",
+  "correction_prompt": "Use case: precise-object-edit\nAsset type: final production 2x2 animation sprite atlas. Input image is the edit target, a real four-frame animation atlas; keep the same 2 columns and 2 rows, same amber-orange corona material and lighting, same phase sequence and camera.\nCRITICAL CORRECTION: Each ring is currently MUCH TOO BIG within its cell. Shrink EACH of the four complete rings uniformly to just SIXTY PERCENT of its own square cell width and height, precisely centered in that cell, creating a visibly wide genuinely transparent empty margin of TWENTY PERCENT of the cell width on each of the four sides. Do not enlarge the rings. No plasma can touch the cell boundaries or neighboring ring. Make the actual glowing plasma annular band thinner so the empty transparent center hole is sixty percent of the ring outer diameter. The same exact outer diameter in all four frames. Preserve four clockwise swirling phases in reading order 0,90,180,270 degrees.\nKeep the square canvas and equal 2x2 grid geometry. No visible grid, no borders, no labels. Actual transparent alpha in all gutters, cell padding and center holes, not black or baked checkerboard. Fine vivid amber-orange plasma threads, warm ivory sparks only, no blue/cyan/purple. No text, logos, icons or extra objects. This is one production animation atlas, never a presentation mockup.",
+  "validation": {
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "bytes": 1453534,
+    "alpha_extrema": [
+      0,
+      254
+    ],
+    "layout": "2 columns x 2 rows, four complete distinct phase rings, four transparent center pixels",
+    "cell_dimensions": [
+      627,
+      627
+    ],
+    "limitations": "Generated ring positions/radii vary a little between cells, padding is closer to 12-16% rather than requested20%; nearly transparent diffuse wisps extend through gutters. Normalize center/scale while extracting small sprite PNGs; parent handles extraction. Two built-in calls used."
+  }
+}

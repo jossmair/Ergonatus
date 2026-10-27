@@ -1,0 +1,9 @@
+.venv/
+.tools/
+.test-tmp/
+.pytest_cache/
+__pycache__/
+*.pyc
+build/
+dist/
+docs/test-settings/

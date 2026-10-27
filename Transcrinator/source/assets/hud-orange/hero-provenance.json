@@ -1,0 +1,28 @@
+{
+  "generator": "Built-in image_gen",
+  "generatedOn": "2026-10-15",
+  "mode": "edit",
+  "assets": [
+    {
+      "file": "core-main-v1.png",
+      "inputPath": "C:\\Users\\Josselin\\Desktop\\transcri\\Transcri\\assets\\hud\\core-main-v1.png",
+      "originalGeneratedPath": "C:\\Users\\Josselin\\.codex\\generated_images\\01a13e16-e343-78f2-a4fa-52f423c8f829\\exec-283955e6-59b4-404b-80e9-94c26a1a4b1b.png",
+      "prompt": "Use case: lighting-weather\nAsset type: edit of the provided production transparent holographic AI core raster asset.\nInput image 1: edit target. Preserve its exact centered orb geometry, layered glass volume, detailed optical machinery, luminous filaments, energy center, original complexity, position, silhouette, composition, scale, transparent padding and alpha background.\nChange ONLY its color palette and lighting from cyan/blue to luminous warm orange #ff9d45 and amber #ffbf69, with controlled warm ivory highlights and deep warm bronze/espresso internal shadows. Retain all fine details and three-dimensional sculptural glass depth. Same original design and shapes, now orange.\nReplace every cyan, blue and purple coloration including reflections, internal shadows and edge glows with warm orange/amber/bronze. No cyan, blue or purple remaining anywhere.\nPreserve genuine background transparency and the existing transparent margins; do not add any backdrop, floor, opaque plate or rectangle. No new elements, no text, numbers, letters, labels, logos or watermark. Output the isolated orange core on true transparent alpha.",
+      "width": 1254,
+      "height": 1254,
+      "transparentBackground": true,
+      "attempts": 1,
+      "bytes": 1992920
+    },
+    {
+      "file": "orbit-overlay-v1.png",
+      "inputPath": "C:\\Users\\Josselin\\Desktop\\transcri\\Transcri\\assets\\hud\\orbit-overlay-v1.png",
+      "originalGeneratedPath": "C:\\Users\\Josselin\\.codex\\generated_images\\01a13e16-e343-78f2-a4fa-52f423c8f829\\exec-5b6c7b09-41a5-4654-8a97-52a4bd5f8bcb.png",
+      "prompt": "Use case: lighting-weather\nAsset type: edit of the provided production transparent holographic orbital halo overlay.\nInput image 1: edit target. Preserve its same original circular geometry, thin layered optical-glass arcs, microfilaments, instrument detail, four subtle cardinal highlights, position, silhouette, composition, scale, complexity, central empty aperture, transparent margins and alpha background.\nChange ONLY its color palette and lighting from cyan/blue to luminous warm orange #ff9d45 and amber #ffbf69, with controlled warm ivory highlights and deep warm bronze internal shadows. Keep all original detail, glass depth and radial balance. Same design and exact shape, now orange.\nReplace every cyan, blue and purple coloration including reflections, edge glows and internal details with warm orange/amber/bronze. No cyan, blue or purple remaining anywhere.\nPreserve genuine alpha transparency of the original, especially the fully empty center and outer padding. No added center dot, core, central lines, central haze or central glow. Do not add a backdrop, floor, opaque plate, rectangle or checkerboard. No new elements, no text, numbers, letters, labels, logos or watermark. Output the isolated orange orbital halo on true transparent alpha.",
+      "width": 1254,
+      "height": 1254,
+      "transparentBackground": true,
+      "attempts": 1
+    }
+  ]
+}

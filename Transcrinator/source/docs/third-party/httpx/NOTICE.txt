@@ -1,0 +1,7 @@
+httpx 0.28.1
+BSD-3-Clause
+
+Changelog, https://github.com/encode/httpx/blob/master/CHANGELOG.md
+Documentation, https://www.python-httpx.org
+Homepage, https://github.com/encode/httpx
+Source, https://github.com/encode/httpx

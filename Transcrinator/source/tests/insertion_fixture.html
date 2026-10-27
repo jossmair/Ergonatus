@@ -1,0 +1,21 @@
+<!doctype html>
+<html lang="fr">
+<meta charset="utf-8">
+<title>Transcri — validation de l’insertion</title>
+<style>
+  body { font: 18px system-ui; margin: 32px; max-width: 850px; }
+  label { display: block; margin: 20px 0 8px; }
+  textarea, input, [contenteditable] { font: inherit; width: 100%; box-sizing: border-box; }
+  textarea, [contenteditable] { min-height: 90px; padding: 12px; border: 1px solid #777; }
+</style>
+<h1>Validation locale Transcri</h1>
+<p>Champs de test uniquement. Aucune transmission ni sauvegarde.</p>
+<label for="plain">Zone de texte standard</label>
+<textarea id="plain" aria-label="Zone de texte standard"></textarea>
+<label for="rich">Éditeur enrichi</label>
+<div id="rich" contenteditable="true" role="textbox" aria-multiline="true" aria-label="Éditeur enrichi"></div>
+<label for="password">Mot de passe : insertion à refuser</label>
+<input id="password" type="password" aria-label="Mot de passe de test">
+<label for="readonly">Lecture seule : insertion à refuser</label>
+<textarea id="readonly" readonly aria-label="Lecture seule">Champ protégé de test.</textarea>
+</html>

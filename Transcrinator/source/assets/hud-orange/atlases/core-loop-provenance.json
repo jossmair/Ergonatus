@@ -1,0 +1,147 @@
+{
+  "schema_version": 1,
+  "tool": "built-in image_gen.imagegen",
+  "generated_on": "2026-10-15",
+  "asset_path": "assets/hud-orange/atlases/core-loop-v1.png",
+  "source_design_path": "C:\\Users\\Josselin\\Desktop\\transcri\\Transcri\\assets\\hud-orange\\core-hub-v1.png",
+  "generated_original_path": "C:\\Users\\Josselin\\.codex\\generated_images\\01a13e16-fd8f-7520-9c36-febbc4586ed2\\exec-9f4a8f53-78cd-4a45-818b-ccbaf357c90c.png",
+  "prompt": "Use case: stylized-concept\nAsset type: PRODUCTION 2x2 ANIMATION SPRITE ATLAS for slicing into four equal square PNG cells, not a visual proposal/contact sheet.\nInput roles: Image 1 is the original orange glass voice sphere, an exact asset design reference. Image 2 is the existing 2x2 animation atlas to correct.\nRequired targeted edit to Image 2: shrink each of its four spheres by one third, while keeping each sphere perfectly centered within its respective equal quadrant. The sphere should occupy ONLY 60 percent of its cell width, NOT 90 percent. This is the critical correction. Each equal square cell MUST have fully transparent padding equal to 20 percent of cell width on all four sides. Make every sphere diameter exactly identical. Their centers must be at canvas positions (25%,25%), (75%,25%), (25%,75%), (75%,75%). No glow, particles or energy may extend outside each sphere's bounded silhouette into gutters.\nKeep exactly two columns and two rows. All four spheres fully inside their cells with large clean transparent gaps, no overlap or cropping. Do not draw grid lines or cell boundaries.\nAnimation: same camera and SAME stationary circular glass exterior shell matching Image 1 in all four quadrants, with outer shell highlights and geometry identical. Animate ONLY internal plasma filaments through four sequential quarter-turn phases in reading order: 0,90,180,270 degrees. Four frames of one seamless loop, never four alternative designs. Maintain original tonal depth, optical glass and brightness.\nPalette: luminous warm orange #ff9d45, amber #ffbf69 and warm ivory only. No blue/cyan/teal/purple/magenta.\nTransparency: real alpha background, entirely transparent borders, large gutters and all space outside the spheres. No black/white square, baked-in checkerboard, floor, shadow, environment or backdrop.\nConstraints: exactly four same-size orange holographic spheres, no extra objects, text, labels, numbers, logos, symbols or watermarks. Preserve sharp clean production edges, stable alignment and generously spaced equal cells.",
+  "transparent_background": true,
+  "input_paths": [
+    "C:\\Users\\Josselin\\Desktop\\transcri\\Transcri\\assets\\hud-orange\\core-hub-v1.png",
+    "C:\\Users\\Josselin\\.codex\\generated_images\\01a13e16-fd8f-7520-9c36-febbc4586ed2\\exec-de4bb557-934f-4fc1-962d-017f88ff050a.png"
+  ],
+  "width": 1254,
+  "height": 1254,
+  "bytes": 1298002,
+  "pixel_format": "Format32bppArgb",
+  "columns": 2,
+  "rows": 2,
+  "cell_width": 627,
+  "cell_height": 627,
+  "alpha_corners_and_center": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "frame_metrics": {
+    "measurement": "Approximate bounds of alpha >=128 sampled every 3 pixels; coordinates local to each cell.",
+    "frames": [
+      {
+        "index": 0,
+        "cell_origin": [
+          0,
+          0
+        ],
+        "bounds": [
+          129,
+          144,
+          528,
+          537
+        ],
+        "center": [
+          328.5,
+          340.5
+        ],
+        "size": [
+          400,
+          394
+        ]
+      },
+      {
+        "index": 1,
+        "cell_origin": [
+          627,
+          0
+        ],
+        "bounds": [
+          99,
+          141,
+          498,
+          537
+        ],
+        "center": [
+          298.5,
+          339
+        ],
+        "size": [
+          400,
+          397
+        ]
+      },
+      {
+        "index": 2,
+        "cell_origin": [
+          0,
+          627
+        ],
+        "bounds": [
+          126,
+          90,
+          531,
+          486
+        ],
+        "center": [
+          328.5,
+          288
+        ],
+        "size": [
+          406,
+          397
+        ]
+      },
+      {
+        "index": 3,
+        "cell_origin": [
+          627,
+          627
+        ],
+        "bounds": [
+          99,
+          90,
+          501,
+          486
+        ],
+        "center": [
+          300,
+          288
+        ],
+        "size": [
+          403,
+          397
+        ]
+      }
+    ]
+  },
+  "visual_inspection": "Four warm-orange/amber/ivory glass spheres with changing internal plasma phases, transparent outer padding and gutters, no text/grid/borders. All four quadrants inspected at full atlas size.",
+  "attempts": [
+    {
+      "index": 1,
+      "prompt": "Use case: stylized-concept\nAsset type: PRODUCTION ANIMATION SPRITE ATLAS, exactly 2 columns by 2 rows of equal square animation cells, intended for programmatic slicing into four PNG frames. This is ONE animation asset, not a presentation, comparison board, design proposal, UI mockup or contact sheet.\nEdit target and invariants: use the referenced existing warm orange holographic glass sphere as the exact character/asset design. Preserve the same front-facing camera, sphere silhouette, outer glass shell, optical depth, color palette, illumination intensity, proportions and scale in EVERY cell. The outer circular glass shell is perfectly stable from frame to frame. Each frame is the SAME sphere in the SAME position inside its cell.\nAnimation: create four sequential frames of one smooth looping plasma animation in reading order. Top left: internal plasma filament phase 0 degrees. Top right: the same internal plasma filaments at phase 90 degrees. Bottom left: phase 180 degrees. Bottom right: phase 270 degrees. Only the internal luminous plasma filaments change rotation phase and subtly flow. Keep exterior glass shell, highlights, sphere center and diameter consistent. The frames should connect into a seamless repeating loop.\nExact atlas layout: square canvas divided geometrically into EXACTLY two equal columns and EXACTLY two equal rows, four equal square cells. One sphere precisely centered in each quadrant at normalized centers (25%,25%), (75%,25%), (25%,75%), (75%,75%). Every sphere is exactly the same size, with diameter 60 percent of its cell width, leaving 20 percent fully transparent padding on every side inside its own cell. No overlaps, no cropping, no extra spheres. Clear fully transparent gutters separate all four spheres.\nColor: luminous orange #ff9d45, amber #ffbf69 and controlled warm ivory highlights only. No cyan, blue, teal, purple, magenta or cool highlights.\nTransparency: genuinely transparent alpha background with fully transparent outer padding, gutters and empty space. No floor, shadow plate, backdrop, black square, white square, checkerboard baked into image or environment.\nConstraints: exactly four same-sphere animation frames in a precisely aligned 2x2 grid. No visible grid lines, borders, labels, numbers, text, logos, symbols, watermark, interface graphics or additional objects. Do not vary sphere design between frames. Preserve sharp production-ready cutout edges with semi-transparent glass detail.",
+      "input_paths": [
+        "C:\\Users\\Josselin\\Desktop\\transcri\\Transcri\\assets\\hud-orange\\core-hub-v1.png"
+      ],
+      "generated_original_path": "C:\\Users\\Josselin\\.codex\\generated_images\\01a13e16-fd8f-7520-9c36-febbc4586ed2\\exec-de4bb557-934f-4fc1-962d-017f88ff050a.png",
+      "selected": false,
+      "reason": "Four-frame grid was correct but each sphere occupied approximately 88% of its cell instead of 60%, leaving insufficient production padding."
+    },
+    {
+      "index": 2,
+      "selected": true,
+      "reason": "Improved padding to approximately 64% sphere diameter relative to cell; transparent 2x2 production atlas."
+    }
+  ],
+  "limitations": [
+    "Generated sphere centers drift by approximately 15–27px relative to the exact cell centers. Recenter and normalize scale when exporting individual production PNG frames.",
+    "Outer glass shell highlights and facets vary subtly between frames; generator did not guarantee pixel-identical shell geometry.",
+    "Four plasma phases vary visually but exact mathematical 0/90/180/270-degree rotation and seamless loop cannot be guaranteed from generation alone.",
+    "Trace low-alpha wisps outside primary sphere bounds remain; transparent gutters are clear at sampled center and all corners."
+  ],
+  "notes": [
+    "No extraction, manual raster processing or app code edits performed. Parent handles PNG frame export.",
+    "Original output copied without alpha transformation.",
+    "No CLI, API key or external image service used."
+  ]
+}

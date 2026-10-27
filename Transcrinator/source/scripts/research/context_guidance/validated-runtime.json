@@ -1,0 +1,18 @@
+{
+  "production_enabled": true,
+  "filename": "parakeet-context-sm75.dll",
+  "sha256": "4073941ad1d69760efc98f3c5a0bb8480c121c894454f66abb031e72df8c212f",
+  "bytes": 199468544,
+  "backend": "cuda",
+  "compute_capability": 7.5,
+  "abi": 10,
+  "parakeet_version": "0.6.1",
+  "model": "Ultra Q8_0",
+  "cuda_toolkit": "12.4",
+  "compiler": "MSVC 19.50.35721",
+  "windows_sdk": "10.0.26100.0",
+  "host_optimization": "/O2 /Ob2 /DNDEBUG /EHsc",
+  "cuda_architectures": "75 (SASS and PTX)",
+  "no_ggml_source_patches": true,
+  "validation": "docs/validation/context-guidance-1313.json"
+}

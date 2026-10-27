@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="48mm" height="49mm" viewBox="0 0 4800 4900" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" stroke-width="28.222" stroke-linejoin="round" xml:space="preserve">
+ <g>
+  <defs>
+   <pattern id="pattern1" x="531" y="714" width="2783" height="2778" patternUnits="userSpaceOnUse">
+    <g transform="translate(-531,-714)">
+     <line fill="rgb(0,0,0)" stroke="rgb(0,0,0)" x1="531" y1="829" x2="646" y2="714"/>
+     <line fill="rgb(0,0,0)" stroke="rgb(0,0,0)" x1="531" y1="979" x2="796" y2="714"/>
+     <line fill="rgb(0,0,0)" stroke="rgb(0,0,0)" x1="531" y1="1129" x2="945" y2="714"/>
+     <line fill="rgb(0,0,0)" stroke="rgb(0,0,0)" x1="531" y1="1279" x2="1095" y2="714"/>
+     <line fill="rgb(0,0,0)" stroke="rgb(0,0,0)" x1="531" y1="1429" x2="1245" y2="714"/>
+     <line fill="rgb(0,0,0)" stroke="rgb(0,0,0)" x1="531" y1="1579" x2="1395" y2="714"/>
+     <line fill="rgb(0,0,0)" stroke="rgb(0,0,0)" x1="531" y1="1729" x2="1545" y2="714"/>
+     <line fill="rgb(0,0,0)" stroke="rgb(0,0,0)" x1="531" y1="1879" x2="1695" y2="714"/>
+     <line fill="rgb(0,0,0)" stroke="rgb(0,0,0)" x1="531" y1="2028" x2="1845" y2="714"/>
+     <line fill="rgb(0,0,0)" stroke="rgb(0,0,0)" x1="531" y1="2178" x2="1995" y2="714"/>
+     <line fill="rgb(0,0,0)" stroke="rgb(0,0,0)" x1="531" y1="2328" x2="2145" y2="714"/>
+     <line fill="rgb(0,0,0)" stroke="rgb(0,0,0)" x1="531" y1="2478" x2="2295" y2="714"/>
+     <line fill="rgb(0,0,0)" stroke="rgb(0,0,0)" x1="531" y1="2628" x2="2445" y2="714"/>
+     <line fill="rgb(0,0,0)" stroke="rgb(0,0,0)" x1="531" y1="2778" x2="2595" y2="714"/>
+     <line fill="rgb(0,0,0)" stroke="rgb(0,0,0)" x1="531" y1="2928" x2="2745" y2="714"/>
+     <line fill="rgb(0,0,0)" stroke="rgb(0,0,0)" x1="531" y1="3078" x2="2895" y2="714"/>
+     <line fill="rgb(0,0,0)" stroke="rgb(0,0,0)" x1="531" y1="3228" x2="3044" y2="714"/>
+     <line fill="rgb(0,0,0)" stroke="rgb(0,0,0)" x1="531" y1="3378" x2="3194" y2="714"/>
+     <line fill="rgb(0,0,0)" stroke="rgb(0,0,0)" x1="568" y1="3491" x2="3313" y2="746"/>
+     <line fill="rgb(0,0,0)" stroke="rgb(0,0,0)" x1="718" y1="3491" x2="3313" y2="896"/>
+     <line fill="rgb(0,0,0)" stroke="rgb(0,0,0)" x1="868" y1="3491" x2="3313" y2="1046"/>
+     <line fill="rgb(0,0,0)" stroke="rgb(0,0,0)" x1="1018" y1="3491" x2="3313" y2="1196"/>
+     <line fill="rgb(0,0,0)" stroke="rgb(0,0,0)" x1="1168" y1="3491" x2="3313" y2="1346"/>
+     <line fill="rgb(0,0,0)" stroke="rgb(0,0,0)" x1="1318" y1="3491" x2="3313" y2="1496"/>
+     <line fill="rgb(0,0,0)" stroke="rgb(0,0,0)" x1="1468" y1="3491" x2="3313" y2="1646"/>
+     <line fill="rgb(0,0,0)" stroke="rgb(0,0,0)" x1="1617" y1="3491" x2="3313" y2="1796"/>
+     <line fill="rgb(0,0,0)" stroke="rgb(0,0,0)" x1="1767" y1="3491" x2="3313" y2="1946"/>
+     <line fill="rgb(0,0,0)" stroke="rgb(0,0,0)" x1="1917" y1="3491" x2="3313" y2="2096"/>
+     <line fill="rgb(0,0,0)" stroke="rgb(0,0,0)" x1="2067" y1="3491" x2="3313" y2="2245"/>
+     <line fill="rgb(0,0,0)" stroke="rgb(0,0,0)" x1="2217" y1="3491" x2="3313" y2="2395"/>
+     <line fill="rgb(0,0,0)" stroke="rgb(0,0,0)" x1="2367" y1="3491" x2="3313" y2="2545"/>
+     <line fill="rgb(0,0,0)" stroke="rgb(0,0,0)" x1="2517" y1="3491" x2="3313" y2="2695"/>
+     <line fill="rgb(0,0,0)" stroke="rgb(0,0,0)" x1="2667" y1="3491" x2="3313" y2="2845"/>
+     <line fill="rgb(0,0,0)" stroke="rgb(0,0,0)" x1="2817" y1="3491" x2="3313" y2="2995"/>
+     <line fill="rgb(0,0,0)" stroke="rgb(0,0,0)" x1="2967" y1="3491" x2="3313" y2="3145"/>
+     <line fill="rgb(0,0,0)" stroke="rgb(0,0,0)" x1="3117" y1="3491" x2="3313" y2="3295"/>
+     <line fill="rgb(0,0,0)" stroke="rgb(0,0,0)" x1="3267" y1="3491" x2="3313" y2="3445"/>
+    </g>
+   </pattern>
+  </defs>
+  <path style="fill:url(#pattern1)" d="M 3313,714 L 3313,3491 531,3491 531,714 3313,714 Z "/>
+ </g>
+ <path fill="none" stroke="rgb(0,0,0)" stroke-width="19" stroke-linejoin="round" d="M 3313,714 L 3313,3491 531,3491 531,714 3313,714 Z "/>
+ <text class="SVGTextShape"><tspan class="TextParagraph"><tspan class="TextPosition" x="242" y="681"><tspan font-family="Bitstream Vera Sans, sans-serif" font-size="318px" font-weight="400" lengthAdjust="spacingAndGlyphs" textLength="418" fill="rgb(0,0,0)" stroke="none" style="white-space: pre">A  </tspan></tspan></tspan></text>
+ <text class="SVGTextShape"><tspan class="TextParagraph"><tspan class="TextPosition" x="4274" y="681"><tspan font-family="Bitstream Vera Sans, sans-serif" font-size="318px" font-weight="400" lengthAdjust="spacingAndGlyphs" textLength="217" fill="rgb(0,0,0)" stroke="none" style="white-space: pre">B</tspan></tspan></tspan></text>
+ <text class="SVGTextShape"><tspan class="TextParagraph"><tspan class="TextPosition" x="4115" y="4727"><tspan font-family="Bitstream Vera Sans, sans-serif" font-size="318px" font-weight="400" lengthAdjust="spacingAndGlyphs" textLength="220" fill="rgb(0,0,0)" stroke="none" style="white-space: pre">C</tspan></tspan></tspan></text>
+ <text class="SVGTextShape"><tspan class="TextParagraph"><tspan class="TextPosition" x="252" y="4727"><tspan font-family="Bitstream Vera Sans, sans-serif" font-size="318px" font-weight="400" lengthAdjust="spacingAndGlyphs" textLength="243" fill="rgb(0,0,0)" stroke="none" style="white-space: pre">D</tspan></tspan></tspan></text>
+ <path fill="none" stroke="rgb(0,0,0)" stroke-width="19" stroke-linejoin="round" d="M 531,714 L 4216,714 4216,4392 531,4392 531,714 Z "/>
+ <text class="SVGTextShape"><tspan class="TextParagraph"><tspan class="TextPosition" x="2438" y="681"><tspan font-family="Bitstream Vera Sans, sans-serif" font-size="318px" font-weight="400" lengthAdjust="spacingAndGlyphs" textLength="199" fill="rgb(0,0,0)" stroke="none" style="white-space: pre">E</tspan></tspan></tspan></text>
+ <path fill="rgb(255,255,255)" stroke="none" d="M 531,714 L 2372,714 2372,2552 531,2552 531,714 Z "/>
+ <path fill="none" stroke="rgb(0,0,0)" stroke-width="19" stroke-linejoin="round" d="M 531,714 L 2372,714 2372,2552 531,2552 531,714 Z "/>
+ <text class="SVGTextShape"><tspan class="TextParagraph"><tspan class="TextPosition" x="3030" y="681"><tspan font-family="Bitstream Vera Sans, sans-serif" font-size="318px" font-weight="400" lengthAdjust="spacingAndGlyphs" textLength="238" fill="rgb(0,0,0)" stroke="none" style="white-space: pre">H</tspan></tspan></tspan></text>
+ <text class="SVGTextShape"><tspan class="TextParagraph"><tspan class="TextPosition" x="3270" y="3803"><tspan font-family="Bitstream Vera Sans, sans-serif" font-size="318px" font-weight="400" lengthAdjust="spacingAndGlyphs" textLength="93" fill="rgb(0,0,0)" stroke="none" style="white-space: pre">I</tspan></tspan></tspan></text>
+ <text class="SVGTextShape"><tspan class="TextParagraph"><tspan class="TextPosition" x="598" y="3803"><tspan font-family="Bitstream Vera Sans, sans-serif" font-size="318px" font-weight="400" lengthAdjust="spacingAndGlyphs" textLength="93" fill="rgb(0,0,0)" stroke="none" style="white-space: pre">J</tspan></tspan></tspan></text>
+ <text class="SVGTextShape"><tspan class="TextParagraph"><tspan class="TextPosition" x="1365" y="453"><tspan font-family="Bitstream Vera Sans, sans-serif" font-size="353px" font-weight="400" lengthAdjust="spacingAndGlyphs" textLength="222" fill="rgb(0,0,0)" stroke="none" style="white-space: pre">2</tspan><tspan font-family="Bitstream Vera Sans, sans-serif" font-size="494px" font-weight="400" lengthAdjust="spacingAndGlyphs" textLength="157" fill="rgb(0,0,0)" stroke="none" style="white-space: pre"> </tspan></tspan></tspan></text>
+ <text class="SVGTextShape"><tspan class="TextParagraph"><tspan class="TextPosition" x="2152" y="2540"><tspan font-family="Bitstream Vera Sans, sans-serif" font-size="318px" font-weight="400" lengthAdjust="spacingAndGlyphs" textLength="182" fill="rgb(0,0,0)" stroke="none" style="white-space: pre">F</tspan></tspan></tspan></text>
+ <text class="SVGTextShape"><tspan class="TextParagraph"><tspan class="TextPosition" x="557" y="2544"><tspan font-family="Bitstream Vera Sans, sans-serif" font-size="318px" font-weight="400" lengthAdjust="spacingAndGlyphs" textLength="245" fill="rgb(0,0,0)" stroke="none" style="white-space: pre">G</tspan></tspan></tspan></text>
+ <path fill="none" stroke="rgb(0,0,0)" stroke-width="19" stroke-linejoin="round" stroke-dasharray="51,51,51,51" d="M 531,714 L 531,347 "/>
+ <path fill="none" stroke="rgb(0,0,0)" stroke-width="19" stroke-linejoin="round" stroke-dasharray="51,51,51,51" d="M 531,714 L 161,714 "/>
+ <path fill="none" stroke="rgb(0,0,0)" stroke-width="19" stroke-linejoin="round" stroke-dasharray="51,51,51,51" d="M 531,4396 L 161,4396 "/>
+ <path fill="none" stroke="rgb(0,0,0)" stroke-width="19" stroke-linejoin="round" stroke-dasharray="51,51,51,51" d="M 2372,714 L 2372,347 "/>
+ <path fill="none" stroke="rgb(0,0,0)" stroke-width="19" stroke-linejoin="round" stroke-dasharray="51,51,51,51" d="M 4216,714 L 4216,347 "/>
+ <path fill="none" stroke="rgb(0,0,0)" stroke-width="19" stroke-linejoin="round" stroke-dasharray="51,51,51,51" d="M 3313,714 L 3313,347 "/>
+ <path fill="none" stroke="rgb(0,0,0)" stroke-width="19" stroke-linejoin="round" d="M 808,526 L 2096,526 "/>
+ <path fill="rgb(0,0,0)" stroke="none" d="M 794,446 L 808,425 531,526 808,624 794,605 781,580 774,554 771,526 773,497 781,471 794,446 Z "/>
+ <path fill="rgb(0,0,0)" stroke="none" d="M 2110,603 L 2096,624 2372,526 2096,425 2110,446 2122,469 2129,496 2133,524 2131,552 2122,579 2110,603 Z "/>
+ <path fill="none" stroke="rgb(0,0,0)" stroke-width="19" stroke-linejoin="round" d="M 3591,526 L 3937,526 "/>
+ <path fill="rgb(0,0,0)" stroke="none" d="M 3575,446 L 3591,425 3313,526 3591,624 3577,605 3565,580 3556,554 3554,526 3556,497 3565,471 3575,446 Z "/>
+ <path fill="rgb(0,0,0)" stroke="none" d="M 3953,603 L 3937,624 4216,526 3937,425 3953,446 3965,469 3972,496 3976,524 3974,552 3965,579 3953,603 Z "/>
+ <path fill="none" stroke="rgb(0,0,0)" stroke-width="19" stroke-linejoin="round" d="M 344,4113 L 344,993 "/>
+ <path fill="rgb(0,0,0)" stroke="none" d="M 265,4129 L 243,4113 344,4392 443,4113 423,4129 399,4140 372,4149 344,4152 316,4149 289,4142 265,4129 Z "/>
+ <path fill="rgb(0,0,0)" stroke="none" d="M 422,977 L 443,993 342,714 243,993 263,979 288,967 314,958 342,956 370,958 397,967 422,977 Z "/>
+ <text class="SVGTextShape"><tspan class="TextParagraph"><tspan class="TextPosition" x="34" y="2625"><tspan font-family="Bitstream Vera Sans, sans-serif" font-size="353px" font-weight="400" lengthAdjust="spacingAndGlyphs" textLength="222" fill="rgb(0,0,0)" stroke="none" style="white-space: pre">4</tspan><tspan font-family="Bitstream Vera Sans, sans-serif" font-size="494px" font-weight="400" lengthAdjust="spacingAndGlyphs" textLength="157" fill="rgb(0,0,0)" stroke="none" style="white-space: pre"> </tspan></tspan></tspan></text>
+ <text class="SVGTextShape"><tspan class="TextParagraph"><tspan class="TextPosition" x="3701" y="455"><tspan font-family="Times New Roman, serif" font-size="423px" font-style="italic" font-weight="400" lengthAdjust="spacingAndGlyphs" textLength="187" fill="rgb(0,0,0)" stroke="none" style="white-space: pre">x</tspan><tspan font-family="Bitstream Vera Sans, sans-serif" font-size="494px" font-weight="400" lengthAdjust="spacingAndGlyphs" textLength="157" fill="rgb(0,0,0)" stroke="none" style="white-space: pre"> </tspan></tspan></tspan></text>
+</svg>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="53mm" height="45mm" viewBox="0 0 5300 4500" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" stroke-width="28.222" stroke-linejoin="round" xml:space="preserve">
+ <path fill="rgb(157,15,137)" stroke="none" d="M 2170,3171 L 2300,2575 C 2367,2589 2431,2612 2491,2644 2588,2699 2669,2775 2725,2868 2760,2925 2785,2988 2799,3055 L 2170,3171 Z "/>
+ <defs>
+  <radialGradient id="Gradient_29" gradientUnits="userSpaceOnUse" cx="2534" cy="1778" r="435.744">
+   <stop offset="0" stop-color="rgb(0,155,181)"/>
+   <stop offset="1" stop-color="rgb(126,210,237)"/>
+  </radialGradient>
+ </defs>
+ <path fill="url(#Gradient_29)" stroke="none" d="M 2533,1778 L 2402,2376 2376,2371 2351,2364 2327,2357 2304,2348 2279,2339 2256,2330 2233,2318 2210,2307 2175,2286 2141,2261 2108,2237 2078,2210 2048,2180 2021,2150 1997,2117 1976,2083 1963,2060 1951,2039 1940,2016 1930,1991 1921,1969 1914,1944 1907,1919 1901,1894 2533,1778 Z "/>
+ <text class="SVGTextShape"><tspan class="TextParagraph"><tspan class="TextPosition" x="2108" y="1706"><tspan font-family="Bitstream Vera Sans, sans-serif" font-size="318px" font-weight="400" lengthAdjust="spacingAndGlyphs" textLength="245" fill="rgb(0,0,0)" stroke="none" style="white-space: pre">G</tspan></tspan></tspan></text>
+ <text class="SVGTextShape"><tspan class="TextParagraph"><tspan class="TextPosition" x="4921" y="2997"><tspan font-family="Times New Roman, serif" font-size="318px" font-style="italic" font-weight="400" lengthAdjust="spacingAndGlyphs" textLength="139" fill="rgb(0,0,0)" stroke="none" style="white-space: pre">y</tspan></tspan></tspan></text>
+ <defs>
+  <radialGradient id="Gradient_30" gradientUnits="userSpaceOnUse" cx="2542" cy="1754" r="433.967">
+   <stop offset="0" stop-color="rgb(117,171,36)"/>
+   <stop offset="1" stop-color="rgb(181,224,135)"/>
+  </radialGradient>
+ </defs>
+ <path fill="url(#Gradient_30)" stroke="none" d="M 2542,1753 L 2672,1157 2697,1162 2722,1169 2746,1177 2769,1185 2794,1194 2817,1203 2840,1215 2863,1226 2898,1247 2932,1270 2965,1296 2995,1323 3025,1351 3052,1383 3076,1415 3097,1448 3110,1471 3122,1492 3133,1515 3143,1540 3152,1563 3159,1586 3166,1610 3171,1635 2542,1753 Z "/>
+ <path fill="none" stroke="rgb(0,0,0)" stroke-width="19" stroke-linejoin="round" d="M 2873,303 L 1916,4251 "/>
+ <path fill="none" stroke="rgb(0,0,0)" stroke-width="19" stroke-linejoin="round" d="M 58,2256 L 5152,1229 "/>
+ <text class="SVGTextShape"><tspan class="TextParagraph"><tspan class="TextPosition" x="2152" y="3533"><tspan font-family="Bitstream Vera Sans, sans-serif" font-size="318px" font-weight="400" lengthAdjust="spacingAndGlyphs" textLength="199" fill="rgb(0,0,0)" stroke="none" style="white-space: pre">E</tspan></tspan></tspan></text>
+ <text class="SVGTextShape"><tspan class="TextParagraph"><tspan class="TextPosition" x="102" y="3482"><tspan font-family="Times New Roman, serif" font-size="318px" font-style="italic" font-weight="400" lengthAdjust="spacingAndGlyphs" textLength="159" fill="rgb(0,0,0)" stroke="none" style="white-space: pre">u</tspan></tspan></tspan></text>
+ <text class="SVGTextShape"><tspan class="TextParagraph"><tspan class="TextPosition" x="122" y="2177"><tspan font-family="Times New Roman, serif" font-size="318px" font-style="italic" font-weight="400" lengthAdjust="spacingAndGlyphs" textLength="139" fill="rgb(0,0,0)" stroke="none" style="white-space: pre">v</tspan></tspan></tspan></text>
+ <text class="SVGTextShape"><tspan class="TextParagraph"><tspan class="TextPosition" x="1538" y="4186"><tspan font-family="Times New Roman, serif" font-size="318px" font-style="italic" font-weight="400" lengthAdjust="spacingAndGlyphs" textLength="212" fill="rgb(0,0,0)" stroke="none" style="white-space: pre">w</tspan></tspan></tspan></text>
+ <text class="SVGTextShape"><tspan class="TextParagraph"><tspan class="TextPosition" x="3060" y="1238"><tspan font-family="Bitstream Vera Sans, sans-serif" font-size="318px" font-weight="400" lengthAdjust="spacingAndGlyphs" textLength="563" fill="rgb(0,0,0)" stroke="none" style="white-space: pre">72°</tspan></tspan></tspan></text>
+ <path fill="none" stroke="rgb(0,0,0)" stroke-width="19" stroke-linejoin="round" d="M 58,3607 L 5149,2579 "/>
+ <path fill="rgb(28,162,184)" stroke="none" d="M 2533,1778 L 2402,2376 C 2335,2362 2270,2339 2210,2307 2113,2252 2032,2177 1976,2083 1940,2025 1916,1961 1901,1894 L 2533,1778 Z "/>
+ <path fill="rgb(127,178,65)" stroke="none" d="M 2542,1753 L 2672,1157 C 2739,1171 2803,1194 2863,1226 2960,1279 3041,1356 3097,1448 3133,1506 3157,1570 3171,1635 L 2542,1753 Z "/>
+ <path fill="none" stroke="rgb(0,0,0)" stroke-width="71" stroke-linejoin="round" d="M 2873,303 L 1916,4251 "/>
+ <path fill="none" stroke="rgb(0,0,0)" stroke-width="71" stroke-linejoin="round" d="M 58,2256 L 5152,1229 "/>
+ <text class="SVGTextShape"><tspan class="TextParagraph"><tspan class="TextPosition" x="5013" y="1646"><tspan font-family="Times New Roman, serif" font-size="318px" font-style="italic" font-weight="400" lengthAdjust="spacingAndGlyphs" textLength="88" fill="rgb(0,0,0)" stroke="none" style="white-space: pre">t</tspan></tspan></tspan></text>
+ <text class="SVGTextShape"><tspan class="TextParagraph"><tspan class="TextPosition" x="2642" y="413"><tspan font-family="Times New Roman, serif" font-size="318px" font-style="italic" font-weight="400" lengthAdjust="spacingAndGlyphs" textLength="123" fill="rgb(0,0,0)" stroke="none" style="white-space: pre">z</tspan></tspan></tspan></text>
+ <path fill="none" stroke="rgb(0,0,0)" stroke-width="71" stroke-linejoin="round" d="M 58,3607 L 5149,2579 "/>
+</svg>

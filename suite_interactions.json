@@ -1,0 +1,134 @@
+{
+  "ergonatus": {
+    "name": "Ergonatus",
+    "description": "Votre centre de contrôle",
+    "accent": "#253B70",
+    "gestures": "Clic : tous les logiciels. Double-clic : le hub. Clic droit : menu."
+  },
+  "claviernator": {
+    "name": "Claviernator",
+    "description": "Clavier adapté et défilement",
+    "accent": "#81E2C6",
+    "gestures": "Clic : afficher ou masquer le clavier. Clic droit : menu et réglages."
+  },
+  "precisionator": {
+    "name": "Precisionator",
+    "description": "Loupe dynamique et précision",
+    "accent": "#9164E8",
+    "gestures": "Clic : activer ou arrêter la loupe. Clic droit : menu et réglages."
+  },
+  "transcrinator": {
+    "name": "Transcrinator",
+    "description": "Dictée vocale locale",
+    "accent": "#D5914E",
+    "gestures": "Clic : démarrer ou arrêter la dictée. Clic droit : menu et réglages."
+  },
+  "redactor": {
+    "name": "Redactor",
+    "description": "Rédiger, reformuler ou résumer avec une IA locale.",
+    "accent": "#C84448",
+    "gestures": "Clic : ouvrir la rédaction. Clic droit : menu et réglages."
+  },
+  "scanator": {
+    "name": "Scanator",
+    "description": "Capturer une zone de l’écran et récupérer son texte.",
+    "accent": "#D84C86",
+    "gestures": "Clic : capturer une zone de texte. Clic droit : ouvrir le logiciel et ses commandes."
+  },
+  "ecrinator": {
+    "name": "Écrinator",
+    "description": "Écrire et mettre en page ses cours.",
+    "accent": "#0B57ED",
+    "gestures": "Clic : ouvrir le traitement de texte. Clic droit : menu et aide."
+  },
+  "organisator": {
+    "name": "Organisator",
+    "description": "Classer ses fichiers et consulter son classeur.",
+    "accent": "#368453",
+    "gestures": "Clic : le classeur. Double-clic : gérer les fichiers. Clic droit : menu."
+  },
+  "lector": {
+    "name": "Lector",
+    "description": "Faire lire un texte à voix haute.",
+    "accent": "#6C9F36",
+    "gestures": "Clic : lire une sélection. Double-clic : capturer une zone et lire son texte. Clic droit : menu."
+  },
+  "applinator": {
+    "name": "Applinator",
+    "description": "Lancer ses applications favorites.",
+    "accent": "#008FB7",
+    "gestures": "Clic : afficher ou masquer les raccourcis. Double-clic : les choisir. Clic droit : menu."
+  },
+  "temporator": {
+    "name": "Temporator",
+    "description": "Voir le temps restant avec un minuteur.",
+    "accent": "#DB6850",
+    "gestures": "Clic : afficher ou masquer le minuteur. Double-clic : les réglages. Clic droit : menu."
+  },
+  "concentrator": {
+    "name": "Concentrator",
+    "description": "Assombrir l’écran autour d’une zone de travail.",
+    "accent": "#5758B8",
+    "gestures": "Clic : délimiter une zone de travail. Clic droit : ouvrir les réglages."
+  },
+  "pdfinator": {
+    "name": "PDFinator",
+    "description": "Lire, annoter et modifier les PDF.",
+    "accent": "#5D49DF",
+    "gestures": "Clic : ouvrir le lecteur PDF. Clic droit : menu et aide."
+  },
+  "calculinator": {
+    "name": "Calculinator",
+    "description": "Calculer avec des fractions ou des expressions.",
+    "accent": "#487DA1",
+    "gestures": "Clic : ouvrir la calculatrice. Clic droit : menu."
+  },
+  "communicator": {
+    "name": "Communicator",
+    "description": "Exprimer ses besoins avec des cartes et une voix.",
+    "accent": "#AE4FA6",
+    "gestures": "Clic : ouvrir les cartes de communication. Clic droit : menu."
+  },
+  "memorinator": {
+    "name": "Memorinator",
+    "description": "Créer, déplacer et annoter ses notes.",
+    "accent": "#36A68B",
+    "gestures": "Clic : afficher ou masquer le mur de notes. Clic droit : menu."
+  },
+  "planinator": {
+    "name": "Planinator",
+    "description": "Organiser ses journées, ses cours et ses devoirs.",
+    "accent": "#A77A38",
+    "gestures": "Clic : aujourd’hui et demain. Double-clic : l’agenda. Clic droit : menu."
+  },
+  "traductor": {
+    "name": "Traductor",
+    "description": "Traduire des messages et écouter leur traduction.",
+    "accent": "#249BCB",
+    "gestures": "Clic : ouvrir la traduction. Clic droit : menu."
+  },
+  "corrector": {
+    "name": "Corrector",
+    "description": "Corriger l’orthographe et la grammaire d’un texte.",
+    "accent": "#159B64",
+    "gestures": "Clic : corriger une sélection. Double-clic : ouvrir. Clic droit : menu."
+  },
+  "dictionnator": {
+    "name": "Dictionnator",
+    "description": "Trouver les définitions d’un mot, hors ligne et sans IA.",
+    "accent": "#326B9E",
+    "gestures": "Clic : ouvrir le dictionnaire. Clic droit : menu."
+  },
+  "explicator": {
+    "name": "Explicator",
+    "description": "Comprendre un exercice par indices, sans sa solution.",
+    "accent": "#C07726",
+    "gestures": "Clic : capturer une zone. Double-clic : ouvrir. Clic droit : menu."
+  },
+  "tablinator": {
+    "name": "Tablinator",
+    "description": "Toutes les tables de 1 à 12 avec des cases à retourner.",
+    "accent": "#218C83",
+    "gestures": "Clic : afficher ou masquer les tables. Double-clic : ouvrir. Clic droit : menu."
+  }
+}

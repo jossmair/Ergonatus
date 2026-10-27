@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="30mm" height="23mm" viewBox="0 0 3000 2300" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" stroke-width="28.222" stroke-linejoin="round" xml:space="preserve">
+ <path fill="none" stroke="rgb(0,0,0)" stroke-linejoin="round" d="M 1506,161 L 1506,2320 "/>
+ <text class="SVGTextShape"><tspan class="TextParagraph"><tspan class="TextPosition" x="1600" y="411"><tspan font-family="Bitstream Vera Sans, sans-serif" font-size="318px" font-weight="400" lengthAdjust="spacingAndGlyphs" textLength="448" fill="rgb(0,0,0)" stroke="none" style="white-space: pre">(d)</tspan></tspan></tspan></text>
+ <path fill="rgb(181,224,135)" stroke="none" d="M 991,699 L -7,699 -7,2198 492,2198 492,1699 492,1198 991,1699 991,699 Z "/>
+ <path fill="none" stroke="rgb(0,0,0)" stroke-linejoin="round" d="M 991,699 L -7,699 -7,2198 492,2198 492,1699 492,1198 991,1699 991,699 Z "/>
+ <path fill="rgb(214,168,20)" stroke="none" d="M 2992,699 L 1991,699 1991,2198 2492,2198 2492,1699 2492,1198 2992,1699 2992,699 Z "/>
+ <path fill="none" stroke="rgb(0,0,0)" stroke-linejoin="round" d="M 2992,699 L 1991,699 1991,2198 2492,2198 2492,1699 2492,1198 2992,1699 2992,699 Z "/>
+</svg>

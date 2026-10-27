@@ -1,0 +1,6 @@
+idna 3.20
+
+
+Changelog, https://github.com/kjd/idna/blob/master/HISTORY.md
+Issue tracker, https://github.com/kjd/idna/issues
+Source, https://github.com/kjd/idna

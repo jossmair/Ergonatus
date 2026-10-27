@@ -1,0 +1,98 @@
+{
+  "timestamp": "2024-09-24T13:42:02Z",
+  "size": 1248141,
+  "width": 680,
+  "height": 540,
+  "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/Blank_Europe_Map.svg/1280px-Blank_Europe_Map.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "thumbwidth": 1200,
+  "thumbheight": 953,
+  "responsiveUrls": {
+    "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/Blank_Europe_Map.svg/3840px-Blank_Europe_Map.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "thumbattribs": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/Blank_Europe_Map.svg/1280px-Blank_Europe_Map.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "decoding": "async",
+    "loading": "lazy",
+    "width": 1200,
+    "height": 953,
+    "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/Blank_Europe_Map.svg/3840px-Blank_Europe_Map.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+  },
+  "url": "https://upload.wikimedia.org/wikipedia/commons/0/06/Blank_Europe_Map.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Blank_Europe_Map.svg",
+  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=153086320",
+  "extmetadata": {
+    "DateTime": {
+      "value": "2024-09-24 13:42:02",
+      "source": "mediawiki-metadata",
+      "hidden": ""
+    },
+    "ObjectName": {
+      "value": "Blank Europe Map",
+      "source": "mediawiki-metadata"
+    },
+    "CommonsMetadataExtension": {
+      "value": 1.2,
+      "source": "extension",
+      "hidden": ""
+    },
+    "Categories": {
+      "value": "Self-published work|SVG blank maps of Europe",
+      "source": "commons-categories",
+      "hidden": ""
+    },
+    "Assessments": {
+      "value": "",
+      "source": "commons-categories",
+      "hidden": ""
+    },
+    "ImageDescription": {
+      "value": "Template for making \"File:Location X Europe.svg\" maps",
+      "source": "commons-desc-page"
+    },
+    "DateTimeOriginal": {
+      "value": "2024-09-22",
+      "source": "commons-desc-page"
+    },
+    "Credit": {
+      "value": "<a href=\"//commons.wikimedia.org/wiki/File:Eurovision_events_Map_2024-present.svg\" class=\"mw-redirect\" title=\"File:Eurovision events Map 2024-present.svg\">File:Eurovision events Map 2024-present.svg</a> <span typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/File:Eurovision_events_Map_2024-2026.svg\" class=\"mw-file-description\" title=\"mini\"><img alt=\"mini\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Eurovision_events_Map_2024-2026.svg/120px-Eurovision_events_Map_2024-2026.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"100\" height=\"100\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Eurovision_events_Map_2024-2026.svg/250px-Eurovision_events_Map_2024-2026.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"680\" data-file-height=\"680\"></a></span>",
+      "source": "commons-desc-page"
+    },
+    "Artist": {
+      "value": "<a href=\"//commons.wikimedia.org/wiki/User:ImStevan\" title=\"User:ImStevan\">ImStevan</a>",
+      "source": "commons-desc-page"
+    },
+    "LicenseShortName": {
+      "value": "CC BY 4.0",
+      "source": "commons-desc-page",
+      "hidden": ""
+    },
+    "UsageTerms": {
+      "value": "Creative Commons Attribution 4.0",
+      "source": "commons-desc-page"
+    },
+    "AttributionRequired": {
+      "value": "true",
+      "source": "commons-desc-page",
+      "hidden": ""
+    },
+    "LicenseUrl": {
+      "value": "https://creativecommons.org/licenses/by/4.0",
+      "source": "commons-desc-page"
+    },
+    "Copyrighted": {
+      "value": "True",
+      "source": "commons-desc-page",
+      "hidden": ""
+    },
+    "Restrictions": {
+      "value": "",
+      "source": "commons-desc-page",
+      "hidden": ""
+    },
+    "License": {
+      "value": "cc-by-4.0",
+      "source": "commons-templates",
+      "hidden": ""
+    }
+  }
+}

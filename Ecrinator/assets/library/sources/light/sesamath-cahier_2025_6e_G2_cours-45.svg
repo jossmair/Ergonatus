@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="23mm" height="24mm" viewBox="0 0 2300 2400" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" stroke-width="28.222" stroke-linejoin="round" xml:space="preserve">
+ <path fill="rgb(0,155,181)" stroke="none" d="M 1132,2358 C 933,2358 739,2350 566,2334 393,2318 250,2295 152,2268 53,2240 0,2208 0,2177 0,2145 53,2113 152,2087 250,2058 393,2036 566,2020 739,2004 933,1995 1132,1995 1332,1995 1526,2004 1699,2020 1871,2036 2014,2058 2113,2087 2212,2113 2265,2145 2265,2177 2265,2208 2212,2240 2113,2268 2014,2295 1871,2318 1699,2334 1526,2350 1332,2358 1132,2358 L 1132,2358 Z "/>
+ <path fill="none" stroke="rgb(0,0,0)" stroke-width="19" stroke-linejoin="round" d="M 1132,2358 C 933,2358 739,2350 566,2334 393,2318 250,2295 152,2268 53,2240 0,2208 0,2177 0,2145 53,2113 152,2087 250,2058 393,2036 566,2020 739,2004 933,1995 1132,1995 1332,1995 1526,2004 1699,2020 1871,2036 2014,2058 2113,2087 2212,2113 2265,2145 2265,2177 2265,2208 2212,2240 2113,2268 2014,2295 1871,2318 1699,2334 1526,2350 1332,2358 1132,2358 Z "/>
+ <path fill="none" stroke="rgb(0,0,0)" stroke-width="19" stroke-linejoin="round" d="M 1131,0 L 0,2184 "/>
+ <path fill="none" stroke="rgb(0,0,0)" stroke-width="19" stroke-linejoin="round" d="M 1129,0 L 2260,2184 "/>
+</svg>

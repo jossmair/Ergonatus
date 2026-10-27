@@ -1,0 +1,1 @@
+"""Inference locale uniquement."""

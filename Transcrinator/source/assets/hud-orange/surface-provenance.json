@@ -1,0 +1,25 @@
+{
+  "mode": "built-in image_gen",
+  "assets": [
+    {
+      "saved_path": "C:\\Users\\Josselin\\Desktop\\transcri\\Transcri\\assets\\hud-orange\\surface-main-v1.png",
+      "edit_target": "C:\\Users\\Josselin\\Desktop\\transcri\\Transcri\\assets\\hud\\surface-main-v1.png",
+      "original_path": "C:\\Users\\Josselin\\.codex\\generated_images\\01a13e50-364b-7123-9e5f-62584459d2f5\\exec-4e8d5afe-2b45-4ad8-818d-ee0baa3a1751.png",
+      "dimensions": [
+        1448,
+        1086
+      ],
+      "prompt": "Use case: style-transfer\nAsset type: production bitmap material background for a futuristic native desktop voice assistant.\nInput image 1: edit target; preserve its exact framing, 4:3 composition, optical glass geometry, etched traces, and spacious dark negative space.\nPrimary request: recolor ONLY the supplied artwork from navy/cyan to warm near-black charcoal and vivid sophisticated amber-orange. Replace navy-black with #100c0b, cyan light traces with amber-orange #ff9d45 and warm golden amber #ffbf69. Glass highlights become controlled warm ivory reflections.\nConstraints: preserve precisely the same curved glass structure along RIGHT and BOTTOM perimeters; preserve empty LEFT 65 percent and center, dark background, geometry, material depth and overall brightness hierarchy. Keep the center calm and dark enough for native text. No blue, cyan, turquoise or purple anywhere. No new objects, no orb, no extra glow objects, no framing change, no crop. No words, letters, numbers, logos, watermarks, icons, controls, charts, or UI elements. Opaque rectangular background. Change palette only."
+    },
+    {
+      "saved_path": "C:\\Users\\Josselin\\Desktop\\transcri\\Transcri\\assets\\hud-orange\\surface-hub-v1.png",
+      "edit_target": "C:\\Users\\Josselin\\Desktop\\transcri\\Transcri\\assets\\hud\\surface-hub-v1.png",
+      "original_path": "C:\\Users\\Josselin\\.codex\\generated_images\\01a13e50-364b-7123-9e5f-62584459d2f5\\exec-eed1ff3d-43bf-4df0-bd10-f2cf1ddea31f.png",
+      "dimensions": [
+        2172,
+        724
+      ],
+      "prompt": "Use case: style-transfer\nAsset type: production raster smoked-glass background strip for a native futuristic desktop voice hub.\nInput image 1: edit target. Preserve the exact VERY WIDE 3:1 aspect ratio, composition, glass geometry, dark empty center and all existing edge details.\nPrimary request: change ONLY the palette of the existing supplied artwork to warm near-black charcoal #100c0b with sophisticated amber-orange light traces #ff9d45 and #ffbf69. Replace every navy and blue tint by warm charcoal and dark amber, replace cyan reflections by orange/amber, use controlled warm ivory highlights in glass.\nConstraints: preserve same upper/lower edge glass ribbons and microcircuit traces, unchanged framing and sculpted material geometry, unchanged wide calm dark center across 80 percent width for a native live waveform overlay. No blue, cyan, turquoise or purple anywhere. No new objects, no central orb, no UI panels, no charts, gauges or waveforms. No crop, no reframe. No text, numbers, letters, symbols, controls, icons, screen, logo or watermark. Opaque rectangular full-bleed material image. Palette change only."
+    }
+  ]
+}

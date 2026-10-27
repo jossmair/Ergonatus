@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="44mm" height="32mm" viewBox="0 0 4400 3200" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" stroke-width="28.222" stroke-linejoin="round" xml:space="preserve">
+ <path fill="none" stroke="rgb(211,128,44)" stroke-width="19" stroke-linejoin="round" d="M 1482,2771 L 326,2771 326,1236 2637,1236 2637,2771 1482,2771 Z "/>
+ <path fill="none" stroke="rgb(211,128,44)" stroke-width="19" stroke-linejoin="round" d="M 323,1236 L 1861,318 "/>
+ <path fill="none" stroke="rgb(211,128,44)" stroke-width="19" stroke-linejoin="round" d="M 2635,1236 L 4172,318 "/>
+ <path fill="none" stroke="rgb(211,128,44)" stroke-width="19" stroke-linejoin="round" d="M 2635,2769 L 4172,1850 "/>
+ <path fill="none" stroke="rgb(211,128,44)" stroke-width="19" stroke-linejoin="round" d="M 1861,318 L 4170,318 "/>
+ <path fill="none" stroke="rgb(211,128,44)" stroke-width="19" stroke-linejoin="round" stroke-dasharray="48,48,48,48" d="M 1861,1850 L 4170,1850 "/>
+ <path fill="none" stroke="rgb(211,128,44)" stroke-width="19" stroke-linejoin="round" d="M 4170,1850 L 4170,318 "/>
+ <path fill="none" stroke="rgb(211,128,44)" stroke-width="19" stroke-linejoin="round" stroke-dasharray="48,48,48,48" d="M 1861,1850 L 1861,318 "/>
+ <path fill="none" stroke="rgb(211,128,44)" stroke-width="19" stroke-linejoin="round" stroke-dasharray="48,48,48,48" d="M 323,2769 L 1861,1850 "/>
+ <text class="SVGTextShape"><tspan class="TextParagraph"><tspan class="TextPosition" x="3953" y="286"><tspan font-family="Bitstream Vera Sans, sans-serif" font-size="318px" font-weight="400" lengthAdjust="spacingAndGlyphs" textLength="191" fill="rgb(0,0,0)" stroke="none" style="white-space: pre">P</tspan></tspan></tspan></text>
+ <text class="SVGTextShape"><tspan class="TextParagraph"><tspan class="TextPosition" x="1616" y="1797"><tspan font-family="Bitstream Vera Sans, sans-serif" font-size="318px" font-weight="400" lengthAdjust="spacingAndGlyphs" textLength="220" fill="rgb(0,0,0)" stroke="none" style="white-space: pre">R</tspan></tspan></tspan></text>
+ <text class="SVGTextShape"><tspan class="TextParagraph"><tspan class="TextPosition" x="1610" y="310"><tspan font-family="Bitstream Vera Sans, sans-serif" font-size="318px" font-weight="400" lengthAdjust="spacingAndGlyphs" textLength="249" fill="rgb(0,0,0)" stroke="none" style="white-space: pre">O</tspan></tspan></tspan></text>
+ <text class="SVGTextShape"><tspan class="TextParagraph"><tspan class="TextPosition" x="-9" y="3115"><tspan font-family="Bitstream Vera Sans, sans-serif" font-size="318px" font-weight="400" lengthAdjust="spacingAndGlyphs" textLength="236" fill="rgb(0,0,0)" stroke="none" style="white-space: pre">N</tspan></tspan></tspan></text>
+ <text class="SVGTextShape"><tspan class="TextParagraph"><tspan class="TextPosition" x="2341" y="3115"><tspan font-family="Bitstream Vera Sans, sans-serif" font-size="318px" font-weight="400" lengthAdjust="spacingAndGlyphs" textLength="273" fill="rgb(0,0,0)" stroke="none" style="white-space: pre">M</tspan></tspan></tspan></text>
+ <text class="SVGTextShape"><tspan class="TextParagraph"><tspan class="TextPosition" x="41" y="1240"><tspan font-family="Bitstream Vera Sans, sans-serif" font-size="318px" font-weight="400" lengthAdjust="spacingAndGlyphs" textLength="208" fill="rgb(0,0,0)" stroke="none" style="white-space: pre">K</tspan></tspan></tspan></text>
+ <text class="SVGTextShape"><tspan class="TextParagraph"><tspan class="TextPosition" x="2379" y="1598"><tspan font-family="Bitstream Vera Sans, sans-serif" font-size="318px" font-weight="400" lengthAdjust="spacingAndGlyphs" textLength="176" fill="rgb(0,0,0)" stroke="none" style="white-space: pre">L</tspan></tspan></tspan></text>
+ <text class="SVGTextShape"><tspan class="TextParagraph"><tspan class="TextPosition" x="3854" y="1767"><tspan font-family="Bitstream Vera Sans, sans-serif" font-size="318px" font-weight="400" lengthAdjust="spacingAndGlyphs" textLength="249" fill="rgb(0,0,0)" stroke="none" style="white-space: pre">Q</tspan></tspan></tspan></text>
+</svg>

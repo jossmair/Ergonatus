@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="32mm" height="32mm" viewBox="0 0 3200 3200" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" stroke-width="28.222" stroke-linejoin="round" xml:space="preserve">
+ <path fill="rgb(255,227,153)" stroke="none" d="M 256,1595 L 721,670 713,670 1605,229 2538,679 2988,1595 2531,2494 1605,2969 699,2487 265,1595 256,1595 Z "/>
+ <path fill="none" stroke="rgb(0,0,0)" stroke-width="19" stroke-linejoin="round" d="M 1607,2496 L 695,2496 695,674 2517,674 2517,2496 1607,2496 Z "/>
+ <path fill="none" stroke="rgb(0,0,0)" stroke-width="19" stroke-linejoin="round" d="M 697,677 L 1607,220 "/>
+ <path fill="none" stroke="rgb(0,0,0)" stroke-width="19" stroke-linejoin="round" d="M 1607,220 L 2519,677 "/>
+ <path fill="none" stroke="rgb(0,0,0)" stroke-width="19" stroke-linejoin="round" d="M 2519,676 L 2976,1586 "/>
+ <path fill="none" stroke="rgb(0,0,0)" stroke-width="19" stroke-linejoin="round" d="M 2976,1588 L 2519,2499 "/>
+ <path fill="none" stroke="rgb(0,0,0)" stroke-width="19" stroke-linejoin="round" d="M 2519,2498 L 1607,2953 "/>
+ <path fill="none" stroke="rgb(0,0,0)" stroke-width="19" stroke-linejoin="round" d="M 1607,2953 L 697,2498 "/>
+ <path fill="none" stroke="rgb(0,0,0)" stroke-width="19" stroke-linejoin="round" d="M 697,676 L 240,1586 "/>
+ <path fill="none" stroke="rgb(0,0,0)" stroke-width="19" stroke-linejoin="round" d="M 240,1588 L 697,2499 "/>
+ <text class="SVGTextShape" transform="rotate(-125 2194 2776)"><tspan class="TextParagraph"><tspan class="TextPosition" x="2194" y="2776"><tspan font-family="Bitstream Vera Sans, sans-serif" font-size="318px" font-weight="400" lengthAdjust="spacingAndGlyphs" textLength="265" fill="rgb(0,0,0)" stroke="none" style="white-space: pre">=</tspan></tspan></tspan></text>
+ <text class="SVGTextShape" transform="rotate(-125 563 1298)"><tspan class="TextParagraph"><tspan class="TextPosition" x="563" y="1298"><tspan font-family="Bitstream Vera Sans, sans-serif" font-size="318px" font-weight="400" lengthAdjust="spacingAndGlyphs" textLength="265" fill="rgb(0,0,0)" stroke="none" style="white-space: pre">=</tspan></tspan></tspan></text>
+ <text class="SVGTextShape" transform="rotate(-125 2970 1956)"><tspan class="TextParagraph"><tspan class="TextPosition" x="2970" y="1956"><tspan font-family="Bitstream Vera Sans, sans-serif" font-size="318px" font-weight="400" lengthAdjust="spacingAndGlyphs" textLength="265" fill="rgb(0,0,0)" stroke="none" style="white-space: pre">=</tspan></tspan></tspan></text>
+ <text class="SVGTextShape" transform="rotate(147.2 448 1783)"><tspan class="TextParagraph"><tspan class="TextPosition" x="448" y="1783"><tspan font-family="Bitstream Vera Sans, sans-serif" font-size="318px" font-weight="400" lengthAdjust="spacingAndGlyphs" textLength="265" fill="rgb(0,0,0)" stroke="none" style="white-space: pre">=</tspan></tspan></tspan></text>
+ <text class="SVGTextShape" transform="rotate(147.2 1311 2626)"><tspan class="TextParagraph"><tspan class="TextPosition" x="1311" y="2626"><tspan font-family="Bitstream Vera Sans, sans-serif" font-size="318px" font-weight="400" lengthAdjust="spacingAndGlyphs" textLength="265" fill="rgb(0,0,0)" stroke="none" style="white-space: pre">=</tspan></tspan></tspan></text>
+ <text class="SVGTextShape" transform="rotate(147.2 2838 1074)"><tspan class="TextParagraph"><tspan class="TextPosition" x="2838" y="1074"><tspan font-family="Bitstream Vera Sans, sans-serif" font-size="318px" font-weight="400" lengthAdjust="spacingAndGlyphs" textLength="265" fill="rgb(0,0,0)" stroke="none" style="white-space: pre">=</tspan></tspan></tspan></text>
+ <text class="SVGTextShape" transform="rotate(-124.9 1393 441)"><tspan class="TextParagraph"><tspan class="TextPosition" x="1393" y="441"><tspan font-family="Bitstream Vera Sans, sans-serif" font-size="318px" font-weight="400" lengthAdjust="spacingAndGlyphs" textLength="265" fill="rgb(0,0,0)" stroke="none" style="white-space: pre">=</tspan></tspan></tspan></text>
+ <text class="SVGTextShape" transform="rotate(147.2 2020 258)"><tspan class="TextParagraph"><tspan class="TextPosition" x="2020" y="258"><tspan font-family="Bitstream Vera Sans, sans-serif" font-size="318px" font-weight="400" lengthAdjust="spacingAndGlyphs" textLength="265" fill="rgb(0,0,0)" stroke="none" style="white-space: pre">=</tspan></tspan></tspan></text>
+</svg>

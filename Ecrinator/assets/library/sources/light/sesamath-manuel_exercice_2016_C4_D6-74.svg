@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="18mm" height="18mm" viewBox="0 0 1800 1800" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" stroke-width="28.222" stroke-linejoin="round" xml:space="preserve">
+ <path fill="none" stroke="rgb(0,0,0)" stroke-width="19" stroke-linejoin="round" stroke-dasharray="88,88,88,88" d="M 1053,0 L 1053,1051 "/>
+ <path fill="rgb(0,152,204)" fill-opacity="0.2" stroke="none" d="M 2,702 L 1053,0 1755,351 1755,1402 2,1753 2,702 Z "/>
+ <path fill="none" stroke="rgb(0,0,0)" stroke-width="19" stroke-linejoin="round" d="M 2,702 L 1053,0 1755,351 1755,1402 2,1753 2,702 Z "/>
+ <path fill="rgb(0,184,255)" stroke="none" d="M 2,1755 L 1053,1053 1755,1404 2,1755 Z "/>
+ <path fill="none" stroke="rgb(0,0,0)" stroke-width="19" stroke-linejoin="round" stroke-dasharray="12,9" d="M 2,1755 L 1053,1053 1755,1404 2,1755 Z "/>
+ <path fill="rgb(0,152,204)" stroke="none" d="M 2,1755 L 1053,1053 1755,1404 2,1755 Z "/>
+ <path fill="none" stroke="rgb(0,0,0)" stroke-width="19" stroke-linejoin="round" stroke-dasharray="88,88,88,88" d="M 2,1755 L 1053,1053 1755,1404 2,1755 Z "/>
+ <path fill="none" stroke="rgb(0,0,0)" stroke-width="19" stroke-linejoin="round" d="M 1755,351 L 1755,1402 "/>
+ <path fill="none" stroke="rgb(0,0,0)" stroke-width="19" stroke-linejoin="round" d="M 2,702 L 2,1753 "/>
+ <path fill="rgb(35,184,220)" stroke="none" d="M 2,702 L 1053,0 1755,351 2,702 Z "/>
+ <path fill="none" stroke="rgb(0,0,0)" stroke-width="19" stroke-linejoin="round" d="M 2,702 L 1053,0 1755,351 2,702 Z "/>
+ <path fill="none" stroke="rgb(0,0,0)" stroke-width="19" stroke-linejoin="round" d="M 2,1755 L 1755,1404 "/>
+ <path fill="none" stroke="rgb(0,0,0)" stroke-width="19" stroke-linejoin="round" d="M 1755,351 L 1755,1402 "/>
+ <path fill="none" stroke="rgb(0,0,0)" stroke-width="19" stroke-linejoin="round" d="M 2,702 L 2,1753 "/>
+ <path fill="rgb(0,152,204)" stroke="none" d="M 2,702 L 1053,0 1755,351 2,702 Z "/>
+ <path fill="none" stroke="rgb(0,0,0)" stroke-width="19" stroke-linejoin="round" d="M 2,702 L 1053,0 1755,351 2,702 Z "/>
+ <path fill="none" stroke="rgb(0,0,0)" stroke-width="19" stroke-linejoin="round" d="M 2,1755 L 1755,1404 "/>
+ <path fill="none" stroke="rgb(0,0,0)" stroke-width="19" stroke-linejoin="round" stroke-dasharray="88,88,88,88" d="M 1053,0 L 1053,1051 "/>
+</svg>

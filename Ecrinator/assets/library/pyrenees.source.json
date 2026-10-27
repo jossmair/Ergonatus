@@ -1,0 +1,103 @@
+{
+  "timestamp": "2025-01-25T15:46:19Z",
+  "size": 6690214,
+  "width": 3200,
+  "height": 1900,
+  "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Pyrenees_topographic_map-fr.svg/1280px-Pyrenees_topographic_map-fr.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "thumbwidth": 1200,
+  "thumbheight": 713,
+  "responsiveUrls": {
+    "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Pyrenees_topographic_map-fr.svg/3840px-Pyrenees_topographic_map-fr.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "thumbattribs": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Pyrenees_topographic_map-fr.svg/1280px-Pyrenees_topographic_map-fr.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "decoding": "async",
+    "loading": "lazy",
+    "width": 1200,
+    "height": 713,
+    "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Pyrenees_topographic_map-fr.svg/3840px-Pyrenees_topographic_map-fr.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+  },
+  "url": "https://upload.wikimedia.org/wikipedia/commons/4/49/Pyrenees_topographic_map-fr.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Pyrenees_topographic_map-fr.svg",
+  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=2179105",
+  "extmetadata": {
+    "DateTime": {
+      "value": "2025-01-25 15:46:19",
+      "source": "mediawiki-metadata",
+      "hidden": ""
+    },
+    "ObjectName": {
+      "value": "Pyrenees topographic map-fr",
+      "source": "mediawiki-metadata"
+    },
+    "CommonsMetadataExtension": {
+      "value": 1.2,
+      "source": "extension",
+      "hidden": ""
+    },
+    "Categories": {
+      "value": "GFDL|CC-BY-SA-2.5,2.0,1.0|License migration redundant|Featured maps|Self-published work|French-language SVG maps|Map Lab-fr|SVG maps with topographic raster graphics|Maps of borders of France|Maps of borders of Spain|SVG topographic maps of Spain|SVG maps:Translation possible|Invalid SVG created with QGIS:Maps|Topographic maps of the Pyrenees|Location maps of the Pyrenees",
+      "source": "commons-categories",
+      "hidden": ""
+    },
+    "Assessments": {
+      "value": "featured|potd|poty",
+      "source": "commons-categories",
+      "hidden": ""
+    },
+    "ImageDescription": {
+      "value": "Topographic map in French of the <a href=\"https://en.wikipedia.org/wiki/Pyrenees\" class=\"extiw\" title=\"en:Pyrenees\">Pyrenees mountains</a>.<br><i>Note:</i> The shaded relief is a raster image embedded in the SVG file.",
+      "source": "commons-desc-page"
+    },
+    "DateTimeOriginal": {
+      "value": "May 2007 (modified September 2008)",
+      "source": "commons-desc-page"
+    },
+    "Credit": {
+      "value": "<p>Own work;<br>\n</p>\n<ul><li>Topographic data: <a rel=\"nofollow\" class=\"external text\" data-mw-original-href=\"http://www2.jpl.nasa.gov/srtm\" href=\"https://www2.jpl.nasa.gov/srtm\">NASA Shuttle Radar Topography Mission</a> (SRTM3 v.2) (public domain) edited with <a rel=\"nofollow\" class=\"external text\" href=\"http://www.visualizationsoftware.com/3dem.html\">3DEM</a> from Visualization Software LLC and vectorized with <a href=\"https://en.wikipedia.org/wiki/Inkscape\" class=\"extiw\" title=\"w:Inkscape\">Inkscape</a> ;<br></li>\n<li>Bathymetry: NGDC ETOPO1 ;<br></li>\n<li>Rivers, borders, cities: <a rel=\"nofollow\" class=\"external text\" href=\"http://www.demis.nl\">Demis</a> add-on for World Wind (see the <a href=\"https://de.wikipedia.org/wiki/Bild:Demis_Best%C3%A4tigung.gif\" class=\"extiw\" title=\"de:Bild:Demis Bestätigung.gif\">approval e-mail</a> and the <a rel=\"nofollow\" class=\"external text\" href=\"http://support.demis.nl/forums/thread/1664.aspx\">Demis forum</a>);<br></li>\n<li>Other references used:<br>\n<ul><li><a href=\"https://en.wikipedia.org/wiki/NASA_World_Wind\" class=\"extiw\" title=\"w:NASA World Wind\">NASA World Wind</a><br></li>\n<li><a rel=\"nofollow\" class=\"external text\" href=\"http://www.viamichelin.com\">ViaMichelin</a><br></li></ul></li></ul>",
+      "source": "commons-desc-page"
+    },
+    "Artist": {
+      "value": "<div class=\"fn value\">\nEric Gaba (<a href=\"//commons.wikimedia.org/wiki/User:Sting\" title=\"User:Sting\">Sting</a> - <a href=\"https://fr.wikipedia.org/wiki/Utilisateur:Sting\" class=\"extiw\" title=\"fr:Utilisateur:Sting\">fr:Sting</a>)</div>",
+      "source": "commons-desc-page"
+    },
+    "Permission": {
+      "value": "<table class=\"toccolours\" style=\"width:100%;margin-top:5px;background:#EEFAFF;-moz-border-radius:4px; cellpadding=2;\">\n\n<tbody><tr align=\"center\">\n<th><u>Attribution and Share-Alike required</u>\n</th></tr>\n<tr class=\"plainlinks\">\n<td>Any use of this map can be made as long as you credit me (Eric Gaba – <a class=\"external text\" data-mw-original-href=\"http://commons.wikimedia.org/wiki/User:Sting\" href=\"https://commons.wikimedia.org/wiki/User:Sting\">Wikimedia Commons user: Sting</a>) as the author and distribute the copies and derivative works under the same license(s) that the one(s) stated below. A <a class=\"external text\" data-mw-original-href=\"http://commons.wikimedia.org/w/index.php?title=User_talk:Sting&amp;action=edit&amp;section=new\" href=\"https://commons.wikimedia.org/w/index.php?title=User_talk:Sting&amp;action=edit&amp;section=new\">message</a> with a reply address would also be greatly appreciated.\n</td></tr></tbody></table>",
+      "source": "commons-desc-page",
+      "hidden": ""
+    },
+    "LicenseShortName": {
+      "value": "CC BY-SA 3.0",
+      "source": "commons-desc-page",
+      "hidden": ""
+    },
+    "UsageTerms": {
+      "value": "Creative Commons Attribution-Share Alike 3.0",
+      "source": "commons-desc-page"
+    },
+    "AttributionRequired": {
+      "value": "true",
+      "source": "commons-desc-page",
+      "hidden": ""
+    },
+    "LicenseUrl": {
+      "value": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "source": "commons-desc-page"
+    },
+    "Copyrighted": {
+      "value": "True",
+      "source": "commons-desc-page",
+      "hidden": ""
+    },
+    "Restrictions": {
+      "value": "",
+      "source": "commons-desc-page",
+      "hidden": ""
+    },
+    "License": {
+      "value": "cc-by-sa-3.0",
+      "source": "commons-templates",
+      "hidden": ""
+    }
+  }
+}

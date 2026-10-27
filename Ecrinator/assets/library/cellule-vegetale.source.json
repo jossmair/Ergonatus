@@ -1,0 +1,91 @@
+{
+  "timestamp": "2006-01-10T21:41:03Z",
+  "size": 337613,
+  "width": 1024,
+  "height": 815,
+  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Plant_cell_structure-fr.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "thumbwidth": 1200,
+  "thumbheight": 955,
+  "thumbattribs": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Plant_cell_structure-fr.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "decoding": "async",
+    "loading": "lazy",
+    "width": 1200,
+    "height": 955
+  },
+  "url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Plant_cell_structure-fr.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Plant_cell_structure-fr.png",
+  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=506700",
+  "extmetadata": {
+    "DateTime": {
+      "value": "2006-01-10 21:41:03",
+      "source": "mediawiki-metadata",
+      "hidden": ""
+    },
+    "ObjectName": {
+      "value": "Plant cell structure-fr",
+      "source": "mediawiki-metadata"
+    },
+    "CommonsMetadataExtension": {
+      "value": 1.2,
+      "source": "extension",
+      "hidden": ""
+    },
+    "Categories": {
+      "value": "PD-user|Graphic Lab-fr|Biology images that should use vector graphics|PNG that should use vector graphics|Plant cell diagrams|French-language diagrams|Anatomical plates and drawings in French",
+      "source": "commons-categories",
+      "hidden": ""
+    },
+    "Assessments": {
+      "value": "",
+      "source": "commons-categories",
+      "hidden": ""
+    },
+    "ImageDescription": {
+      "value": "Image traduite par Liquid_2003.",
+      "source": "commons-desc-page"
+    },
+    "Credit": {
+      "value": "<a rel=\"mw:WikiLink\" href=\"https://commons.wikimedia.org/wiki/File:Plant_cell_structure.png\" title=\"File:Plant cell structure.png\">File:Plant cell structure.png</a>",
+      "source": "commons-desc-page"
+    },
+    "Artist": {
+      "value": "Mariana Ruiz Villarreal <a rel=\"mw:WikiLink\" href=\"https://commons.wikimedia.org/wiki/User:LadyofHats\" title=\"User:LadyofHats\">LadyofHats</a>.Translated <a rel=\"mw:WikiLink\" href=\"https://commons.wikimedia.org/wiki/User:Liquid_2003/byLiquid\" title=\"User:Liquid 2003/byLiquid\">User:Liquid 2003/byLiquid</a>",
+      "source": "commons-desc-page"
+    },
+    "Permission": {
+      "value": "PD",
+      "source": "commons-desc-page",
+      "hidden": ""
+    },
+    "LicenseShortName": {
+      "value": "Public domain",
+      "source": "commons-desc-page",
+      "hidden": ""
+    },
+    "UsageTerms": {
+      "value": "Public domain",
+      "source": "commons-desc-page"
+    },
+    "AttributionRequired": {
+      "value": "false",
+      "source": "commons-desc-page",
+      "hidden": ""
+    },
+    "Copyrighted": {
+      "value": "False",
+      "source": "commons-desc-page",
+      "hidden": ""
+    },
+    "Restrictions": {
+      "value": "",
+      "source": "commons-desc-page",
+      "hidden": ""
+    },
+    "License": {
+      "value": "pd",
+      "source": "commons-templates",
+      "hidden": ""
+    }
+  }
+}

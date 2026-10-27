@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="102mm" height="42mm" viewBox="0 0 10200 4200" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" stroke-width="28.222" stroke-linejoin="round" xml:space="preserve">
+ <path fill="rgb(127,178,65)" stroke="none" d="M 1229,2764 L 0,2764 0,1901 2457,1901 2457,2764 1229,2764 Z "/>
+ <path fill="none" stroke="rgb(0,0,0)" stroke-width="19" stroke-linejoin="round" d="M 1229,2764 L 0,2764 0,1901 2457,1901 2457,2764 1229,2764 Z "/>
+ <text class="SVGTextShape"><tspan class="TextParagraph"><tspan class="TextPosition" x="101" y="2265"><tspan font-family="Bitstream Vera Sans, sans-serif" font-size="282px" font-weight="400" lengthAdjust="spacingAndGlyphs" textLength="2252" fill="rgb(255,255,255)" stroke="none" style="white-space: pre">Position relative</tspan></tspan><tspan class="TextPosition" x="101" y="2595"><tspan font-family="Bitstream Vera Sans, sans-serif" font-size="282px" font-weight="400" lengthAdjust="spacingAndGlyphs" textLength="2201" fill="rgb(255,255,255)" stroke="none" style="white-space: pre">de deux droites</tspan></tspan></tspan></text>
+ <path fill="rgb(182,211,145)" stroke="none" d="M 3835,1603 L 3087,1603 3087,1071 4583,1071 4583,1603 3835,1603 Z "/>
+ <path fill="none" stroke="rgb(0,0,0)" stroke-width="19" stroke-linejoin="round" d="M 3835,1603 L 3087,1603 3087,1071 4583,1071 4583,1603 3835,1603 Z "/>
+ <text class="SVGTextShape"><tspan class="TextParagraph"><tspan class="TextPosition" x="3187" y="1434"><tspan font-family="Bitstream Vera Sans, sans-serif" font-size="282px" font-weight="400" lengthAdjust="spacingAndGlyphs" textLength="1289" fill="rgb(255,255,255)" stroke="none" style="white-space: pre">Sécantes</tspan></tspan></tspan></text>
+ <path fill="rgb(182,211,145)" stroke="none" d="M 3863,3593 L 3085,3593 3085,3060 4639,3060 4639,3593 3863,3593 Z "/>
+ <path fill="none" stroke="rgb(0,0,0)" stroke-width="19" stroke-linejoin="round" d="M 3863,3593 L 3085,3593 3085,3060 4639,3060 4639,3593 3863,3593 Z "/>
+ <text class="SVGTextShape"><tspan class="TextParagraph"><tspan class="TextPosition" x="3186" y="3424"><tspan font-family="Bitstream Vera Sans, sans-serif" font-size="282px" font-weight="400" lengthAdjust="spacingAndGlyphs" textLength="1348" fill="rgb(255,255,255)" stroke="none" style="white-space: pre">Parallèles</tspan></tspan></tspan></text>
+ <path fill="rgb(242,255,191)" stroke="none" d="M 6537,1065 L 5267,1065 5267,533 7805,533 7805,1065 6537,1065 Z "/>
+ <path fill="none" stroke="rgb(0,0,0)" stroke-width="19" stroke-linejoin="round" d="M 6537,1065 L 5267,1065 5267,533 7805,533 7805,1065 6537,1065 Z "/>
+ <text class="SVGTextShape"><tspan class="TextParagraph"><tspan class="TextPosition" x="5368" y="896"><tspan font-family="Bitstream Vera Sans, sans-serif" font-size="282px" font-weight="400" lengthAdjust="spacingAndGlyphs" textLength="2332" fill="rgb(0,0,0)" stroke="none" style="white-space: pre">Perpendiculaires</tspan></tspan></tspan></text>
+ <path fill="rgb(242,255,191)" stroke="none" d="M 6854,2134 L 5249,2134 5249,1602 8458,1602 8458,2134 6854,2134 Z "/>
+ <path fill="none" stroke="rgb(0,0,0)" stroke-width="19" stroke-linejoin="round" d="M 6854,2134 L 5249,2134 5249,1602 8458,1602 8458,2134 6854,2134 Z "/>
+ <text class="SVGTextShape"><tspan class="TextParagraph"><tspan class="TextPosition" x="5350" y="1965"><tspan font-family="Bitstream Vera Sans, sans-serif" font-size="282px" font-weight="400" lengthAdjust="spacingAndGlyphs" textLength="3004" fill="rgb(0,0,0)" stroke="none" style="white-space: pre">Non perpendiculaires</tspan></tspan></tspan></text>
+ <path fill="rgb(242,255,191)" stroke="none" d="M 6227,3062 L 5285,3062 5285,2529 7167,2529 7167,3062 6227,3062 Z "/>
+ <path fill="none" stroke="rgb(0,0,0)" stroke-width="19" stroke-linejoin="round" d="M 6227,3062 L 5285,3062 5285,2529 7167,2529 7167,3062 6227,3062 Z "/>
+ <text class="SVGTextShape"><tspan class="TextParagraph"><tspan class="TextPosition" x="5385" y="2893"><tspan font-family="Bitstream Vera Sans, sans-serif" font-size="282px" font-weight="400" lengthAdjust="spacingAndGlyphs" textLength="1677" fill="rgb(0,0,0)" stroke="none" style="white-space: pre">Confondues</tspan></tspan></tspan></text>
+ <path fill="rgb(242,255,191)" stroke="none" d="M 6092,4131 L 5292,4131 5292,3598 6893,3598 6893,4131 6092,4131 Z "/>
+ <path fill="none" stroke="rgb(0,0,0)" stroke-width="19" stroke-linejoin="round" d="M 6092,4131 L 5292,4131 5292,3598 6893,3598 6893,4131 6092,4131 Z "/>
+ <text class="SVGTextShape"><tspan class="TextParagraph"><tspan class="TextPosition" x="5392" y="3962"><tspan font-family="Bitstream Vera Sans, sans-serif" font-size="282px" font-weight="400" lengthAdjust="spacingAndGlyphs" textLength="1397" fill="rgb(0,0,0)" stroke="none" style="white-space: pre">Distinctes</tspan></tspan></tspan></text>
+ <text class="SVGTextShape"><tspan class="TextParagraph"><tspan class="TextPosition" x="9931" y="894"><tspan font-family="Bitstream Vera Sans, sans-serif" font-size="282px" font-weight="700" lengthAdjust="spacingAndGlyphs" textLength="196" fill="rgb(127,178,65)" stroke="none" style="white-space: pre">1</tspan></tspan></tspan></text>
+ <text class="SVGTextShape"><tspan class="TextParagraph"><tspan class="TextPosition" x="9931" y="1963"><tspan font-family="Bitstream Vera Sans, sans-serif" font-size="282px" font-weight="700" lengthAdjust="spacingAndGlyphs" textLength="196" fill="rgb(127,178,65)" stroke="none" style="white-space: pre">1</tspan></tspan></tspan></text>
+ <text class="SVGTextShape"><tspan class="TextParagraph"><tspan class="TextPosition" x="8308" y="2895"><tspan font-family="Bitstream Vera Sans, sans-serif" font-size="282px" font-weight="700" lengthAdjust="spacingAndGlyphs" textLength="1850" fill="rgb(127,178,65)" stroke="none" style="white-space: pre">Une infinité</tspan></tspan></tspan></text>
+ <text class="SVGTextShape"><tspan class="TextParagraph"><tspan class="TextPosition" x="9931" y="3963"><tspan font-family="Bitstream Vera Sans, sans-serif" font-size="282px" font-weight="700" lengthAdjust="spacingAndGlyphs" textLength="196" fill="rgb(127,178,65)" stroke="none" style="white-space: pre">0</tspan></tspan></tspan></text>
+ <path fill="none" stroke="rgb(0,0,0)" stroke-width="19" stroke-linejoin="round" d="M 2383,1900 L 3087,1332 "/>
+ <path fill="none" stroke="rgb(0,0,0)" stroke-width="19" stroke-linejoin="round" d="M 2383,2759 L 3085,3383 "/>
+ <path fill="none" stroke="rgb(0,0,0)" stroke-width="19" stroke-linejoin="round" d="M 4533,1069 L 5267,794 "/>
+ <path fill="none" stroke="rgb(0,0,0)" stroke-width="19" stroke-linejoin="round" d="M 4533,1600 L 5249,1868 "/>
+ <path fill="none" stroke="rgb(0,0,0)" stroke-width="19" stroke-linejoin="round" d="M 4593,3060 L 5285,2789 "/>
+ <path fill="none" stroke="rgb(0,0,0)" stroke-width="19" stroke-linejoin="round" d="M 4593,3588 L 5292,3872 "/>
+ <path fill="none" stroke="rgb(0,0,0)" stroke-width="19" stroke-linejoin="round" d="M 7805,792 L 9234,792 "/>
+ <path fill="rgb(0,0,0)" stroke="none" d="M 9253,884 L 9234,907 9555,792 9234,677 9252,700 9266,728 9275,758 9278,790 9276,824 9266,854 9253,884 Z "/>
+ <path fill="none" stroke="rgb(0,0,0)" stroke-width="19" stroke-linejoin="round" d="M 8458,1875 L 9241,1875 "/>
+ <path fill="rgb(0,0,0)" stroke="none" d="M 9260,1967 L 9241,1990 9562,1875 9241,1760 9259,1783 9273,1812 9282,1842 9285,1873 9283,1907 9273,1937 9260,1967 Z "/>
+ <path fill="none" stroke="rgb(0,0,0)" stroke-width="19" stroke-linejoin="round" d="M 7167,2803 L 7664,2803 "/>
+ <path fill="rgb(0,0,0)" stroke="none" d="M 7684,2895 L 7664,2917 7985,2803 7664,2688 7682,2711 7696,2739 7705,2769 7708,2801 7706,2835 7696,2866 7684,2895 Z "/>
+ <path fill="none" stroke="rgb(0,0,0)" stroke-width="19" stroke-linejoin="round" d="M 6893,3877 L 9234,3877 "/>
+ <path fill="rgb(0,0,0)" stroke="none" d="M 9253,3969 L 9234,3992 9555,3877 9234,3762 9252,3785 9266,3814 9275,3844 9278,3875 9276,3909 9266,3939 9253,3969 Z "/>
+ <text class="SVGTextShape"><tspan class="TextParagraph"><tspan class="TextPosition" x="5770" y="254"><tspan font-family="Bitstream Vera Sans, sans-serif" font-size="282px" font-weight="700" lengthAdjust="spacingAndGlyphs" textLength="4459" fill="rgb(127,178,65)" stroke="none" style="white-space: pre">Nombre de points communs</tspan></tspan></tspan></text>
+</svg>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="27mm" height="25mm" viewBox="0 0 2700 2500" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" stroke-width="28.222" stroke-linejoin="round" xml:space="preserve">
+ <path fill="none" stroke="rgb(77,77,77)" stroke-width="30" stroke-linejoin="round" d="M 5,420 L 5,2489 "/>
+ <path fill="none" stroke="rgb(77,77,77)" stroke-width="30" stroke-linejoin="round" d="M 2081,420 L 2081,2489 "/>
+ <path fill="none" stroke="rgb(77,77,77)" stroke-width="30" stroke-linejoin="round" d="M 5,2489 L 2080,2489 "/>
+ <path fill="none" stroke="rgb(77,77,77)" stroke-width="30" stroke-linejoin="round" d="M 7,420 L 2083,420 "/>
+ <path fill="none" stroke="rgb(77,77,77)" stroke-width="30" stroke-linejoin="round" d="M 630,5 L 2704,5 "/>
+ <path fill="none" stroke="rgb(77,77,77)" stroke-width="30" stroke-linejoin="round" d="M 2706,5 L 2706,2074 "/>
+ <path fill="none" stroke="rgb(77,77,77)" stroke-width="30" stroke-linejoin="round" stroke-dasharray="34,34" d="M 631,5 L 631,2074 "/>
+ <path fill="none" stroke="rgb(77,77,77)" stroke-width="30" stroke-linejoin="round" stroke-dasharray="34,34" d="M 630,2074 L 2704,2074 "/>
+ <path fill="none" stroke="rgb(77,77,77)" stroke-width="30" stroke-linejoin="round" d="M 5,420 L 628,5 "/>
+ <path fill="none" stroke="rgb(77,77,77)" stroke-width="30" stroke-linejoin="round" d="M 2078,420 L 2701,5 "/>
+ <path fill="none" stroke="rgb(77,77,77)" stroke-width="30" stroke-linejoin="round" d="M 2085,2505 L 2706,2090 "/>
+ <path fill="none" stroke="rgb(77,77,77)" stroke-width="30" stroke-linejoin="round" stroke-dasharray="34,34" d="M 16,2489 L 639,2074 "/>
+</svg>

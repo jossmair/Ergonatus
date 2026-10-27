@@ -1,0 +1,111 @@
+--- a/CMakeLists.txt
++++ b/CMakeLists.txt
+@@ -140,6 +140,7 @@
+     src/ternary_kernels_x86.cpp
+     src/ternary_kernels_neon.cpp
+     src/tdt.cpp
++    src/context_bias.cpp
+     src/rnnt.cpp
+     src/transducer_batch.cpp
+     src/tokenizer.cpp
+@@ -204,3 +205,7 @@
+   enable_testing()
+   add_subdirectory(tests)
+ endif()
++
++add_executable(test_transcrinator_context tests/test_transcrinator_context.cpp src/context_bias.cpp)
++target_include_directories(test_transcrinator_context PRIVATE src)
++add_test(NAME transcrinator_context COMMAND test_transcrinator_context)
+--- a/src/tdt.cpp
++++ b/src/tdt.cpp
+@@ -1,4 +1,5 @@
+ #include "tdt.hpp"
++#include "context_bias.hpp"
+ #include "decode_common.hpp"
+ #include <algorithm>
+ #include <cassert>
+@@ -50,6 +51,8 @@
+     // the LSTM. See the RNN-T loop for the full rationale.
+     bool g_valid = false;
+ 
++    const ContextBias* context = active_context_bias;
++    int context_state = 0;
+     int t = 0;
+     while (t < T) {
+         int symbols_added = 0;
+@@ -78,7 +81,13 @@
+                               g.data(), (int)g.size(), logits);
+ 
+             // Split: token logits [0, token_count), duration logits [token_count, V_plus).
+-            const int k   = decode_argmax(logits.data(), token_count);
++            int k = decode_argmax(logits.data(), token_count);
++            if (context) {
++                int guided = context->select(context_state, logits.data(), token_count, k, blank_id);
++                if (guided != k) ++context_changes;
++                k = guided;
++                if (k != blank_id) context_state = context->advance(context_state, k);
++            }
+             const int d_k = decode_argmax(logits.data() + token_count, num_dur);
+             skip = durations[d_k];
+ 
+--- a/src/model.hpp
++++ b/src/model.hpp
+@@ -144,6 +144,7 @@
+         Decoder decoder = Decoder::kDefault,
+         const std::string& target_lang = "") const;
+ 
++    const std::vector<std::string>& context_tokenizer_pieces() const { return loader_.tokenizer_pieces(); }
+     const ParakeetConfig& config() const { return loader_.config(); }
+     // Per-frame speech probability from the model's own VAD head (80 ms frames,
+     // cfg.vad.frame_sec). `v` overrides the head wiring for experiments; nullptr
+--- a/src/parakeet_capi.cpp
++++ b/src/parakeet_capi.cpp
+@@ -1,4 +1,6 @@
+ #include "parakeet_capi.h"
++#include "context_bias.hpp"
++#include "ggml_graph.hpp"
+ #include "parakeet.h"     // pk::Decoder
+ #include "model.hpp"      // pk::Model
+ #include "diarization.hpp" // pk::DiarizationModel
+@@ -101,6 +103,8 @@
+ // sound-event taggers use `tagger`, voice-detect speaker encoders use `speaker`,
+ // Silero VAD models use `silero`.
+ struct parakeet_ctx {
++    std::shared_ptr<pk::ContextBias> transcrinator_context;
++    std::atomic<int> transcrinator_changes{0};
+     std::unique_ptr<pk::Model> model;
+     std::unique_ptr<pk::Model> vad_model;    // VAD-only slice (parakeet.arch "vad"): VAD calls only
+     std::unique_ptr<pk::DiarizationModel> diar;
+@@ -2628,3 +2632,32 @@
+     float accept_threshold, float margin) {
+     return diarize_named_pcm_json(true, diar, speaker, reg, samples, n_samples, sample_rate, accept_threshold, margin);
+ }
++
++// Transcrinator experiment: additive API, existing ABI and entry points unchanged.
++extern "C" int transcrinator_context_set(parakeet_ctx* ctx, const char* phrases, float strength, int prefix) {
++    if (!ctx || !ctx->model) return 1;
++    try {
++        std::shared_ptr<pk::ContextBias> graph;
++        if (phrases && phrases[0] && strength > 0)
++            graph = std::make_shared<pk::ContextBias>(ctx->model->context_tokenizer_pieces(), phrases, strength, prefix);
++        std::atomic_store(&ctx->transcrinator_context, std::move(graph));
++        return 0;
++    } catch (const std::exception& error) { ctx->last_error = error.what(); return 1; }
++    catch (...) { ctx->last_error = "context compilation failed"; return 1; }
++}
++extern "C" char* transcrinator_transcribe_guided(parakeet_ctx* ctx, const float* samples,
++                                                 int count, int rate, int decoder) {
++    if (!ctx) return nullptr;
++    const auto graph = std::atomic_load(&ctx->transcrinator_context);
++    pk::ContextScope scope(graph.get());
++    char* result = parakeet_capi_transcribe_pcm(ctx, samples, count, rate, decoder);
++    ctx->transcrinator_changes.store(pk::context_changes);
++    return result;
++}
++extern "C" int transcrinator_context_last_changes(parakeet_ctx* ctx) {
++    return ctx ? ctx->transcrinator_changes.load() : 0;
++}
++// Call only after all model contexts have been freed and inference has stopped.
++extern "C" void transcrinator_shutdown_backend() {
++    pk::shutdown_backend();
++}

@@ -1,0 +1,64 @@
+{
+  "schema_version": 1,
+  "tool": "built-in image_gen.imagegen",
+  "generated_on": "2026-10-15",
+  "mode": "Palette and illumination edit from existing cyan production PNGs",
+  "color_targets": [
+    "#ff9d45",
+    "#ffbf69",
+    "warm ivory"
+  ],
+  "notes": [
+    "Cyan originals retained unchanged.",
+    "Generated output copied without raster processing, preserving generated alpha.",
+    "No app code edited. No CLI or API key used.",
+    "Generative palette edits preserve the visual geometry and composition, not pixel-identical source data."
+  ],
+  "assets": [
+    {
+      "asset_path": "assets/hud-orange/core-hub-v1.png",
+      "input_original_path": "C:\\Users\\Josselin\\Desktop\\transcri\\Transcri\\assets\\hud\\core-hub-v1.png",
+      "generated_original_path": "C:\\Users\\Josselin\\.codex\\generated_images\\01a13e16-fd8f-7520-9c36-febbc4586ed2\\exec-e277eb04-134c-48bc-b137-f784b578ecff.png",
+      "prompt": "Use case: lighting-weather\nAsset type: final production transparent bitmap for the Transcri futuristic desktop app.\nEdit target: the referenced existing cyan glass voice sphere image. Change ONLY the color palette and illumination. Preserve the exact sphere silhouette, geometry, circular composition, twelve-percent outer padding, internal folds, fine details, depth, dimensions, and existing transparency.\nPrimary request: recolor every blue/cyan/teal/purple component into a beautiful luminous amber-orange family matching #ff9d45, warm amber #ffbf69, and controlled warm ivory highlights. The inner energy must glow warm amber and soft ivory. Keep realistic optical glass refraction, transparent glass depth, precise luminous rim and fine energy detail, now wholly warm orange. Maintain original tonal depth and avoid flat monochrome flooding.\nTransparency: keep genuine alpha transparency and the existing transparent background and boundaries. No backdrop, no floor, no cast background, no opaque black or white square, no checkerboard baked into the image.\nConstraints: Preserve every shape and composition detail. No blue, cyan, teal, purple, magenta, red-heavy illumination or cool highlights. Do not add objects, rings, particles beyond existing geometry, text, letters, numbers, logos, symbols, watermarks, face, helmet, character, microphone, interface frame or environment. This is a palette-only edit, not a redesign.",
+      "transparent_background": true,
+      "attempts": 1,
+      "width": 1254,
+      "height": 1254,
+      "bytes": 1491019,
+      "pixel_format": "Format32bppArgb",
+      "alpha_corner_samples": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "alpha_center_sample": 253,
+      "visual_inspection": "Warm amber-orange voice sphere with original circular silhouette, padding, internal optical folds and energy detail preserved visually. No visible cool colors, extra objects or text."
+    },
+    {
+      "asset_path": "assets/hud-orange/halo-v1.png",
+      "input_original_path": "C:\\Users\\Josselin\\Desktop\\transcri\\Transcri\\assets\\hud\\halo-v1.png",
+      "generated_original_path": "C:\\Users\\Josselin\\.codex\\generated_images\\01a13e16-fd8f-7520-9c36-febbc4586ed2\\exec-d67ac27d-d264-4806-b2c4-fb002851200b.png",
+      "prompt": "Use case: lighting-weather\nAsset type: final production transparent VFX compositing halo for the Transcri futuristic desktop application.\nEdit target: the referenced existing cyan energy corona image. Change ONLY its color palette and illumination. Preserve the exact annular silhouette, wispy geometry, empty circular center, optical filaments, soft glow, composition, padding, dimensions, light distribution and existing alpha transparency.\nPrimary request: recolor every blue, cyan, teal or purple component into a luminous amber-orange family matching #ff9d45 with warm amber #ffbf69 and controlled warm ivory energy highlights. Keep the original subtle atmosphere, layered fine filaments and glow depth, now entirely warm orange and amber. No cool colors. Maintain tonal variation and softness; do not flood flat color or add new elements.\nTransparency: preserve real alpha transparency, empty transparent center, and transparent surroundings exactly. Do not put any backdrop or filled circle in the center. Do not add black or white panel, checkerboard, environment, floor, or opaque background. Preserve semi-transparent optical glow, fine wisps and empty areas.\nConstraints: palette and illumination edit only. Preserve all geometry and content. No blue, cyan, teal, purple, magenta or red-heavy illumination. No additional particles, objects, text, numbers, letters, logos, symbols, watermark, sphere, disk, frame, or extra rings. The output is a transparent annular energy overlay.",
+      "transparent_background": true,
+      "attempts": 1,
+      "width": 1254,
+      "height": 1254,
+      "bytes": 1656447,
+      "pixel_format": "Format32bppArgb",
+      "alpha_corner_samples": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "alpha_center_sample": 0,
+      "central_300px_sample_grid_max_alpha": 15,
+      "visual_inspection": "Warm orange and amber corona with ivory optical filaments, original annular structure and empty center preserved visually. No visible cool colors, objects or text.",
+      "limitations": [
+        "Some faint wisps extend into the central empty region: central 300px grid sample maximum alpha 15/255; exact center and all four corners are zero alpha.",
+        "Broad soft corona retained from source, use restrained opacity when compositing."
+      ]
+    }
+  ]
+}

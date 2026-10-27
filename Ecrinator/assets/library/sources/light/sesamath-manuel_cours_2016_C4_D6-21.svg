@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="20mm" height="34mm" viewBox="0 0 2000 3400" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" stroke-width="28.222" stroke-linejoin="round" xml:space="preserve">
+ <path fill="rgb(51,255,153)" stroke="none" d="M 1492,2917 C 1494,2951 1498,2986 1499,3022 1535,3048 1570,3074 1605,3101 1603,3066 1602,3030 1598,2993 1563,2969 1528,2942 1492,2917 Z "/>
+ <path fill="none" stroke="rgb(0,0,0)" stroke-linejoin="round" d="M 1492,2917 C 1494,2951 1498,2986 1499,3022 1535,3048 1570,3074 1605,3101 L 1598,2993 C 1563,2969 1528,2942 1492,2917 Z "/>
+ <path fill="rgb(153,0,255)" stroke="none" d="M 1372,3037 C 1416,3025 1459,3013 1501,3000 1550,3037 1596,3076 1642,3113 1598,3124 1554,3136 1512,3149 1466,3112 1418,3074 1372,3037 Z "/>
+ <path fill="none" stroke="rgb(0,0,0)" stroke-linejoin="round" d="M 1372,3037 C 1416,3025 1459,3013 1501,3000 1550,3037 1596,3076 1642,3113 1598,3124 1554,3136 1512,3149 1466,3112 1418,3074 1372,3037 Z "/>
+ <path fill="none" stroke="rgb(0,0,0)" stroke-width="30" stroke-linejoin="round" d="M 5,3415 L 2006,3415 "/>
+ <path fill="none" stroke="rgb(0,0,0)" stroke-width="30" stroke-linejoin="round" stroke-dasharray="34,34" d="M 5,3415 L 1505,3014 "/>
+ <path fill="none" stroke="rgb(0,0,0)" stroke-width="30" stroke-linejoin="round" stroke-dasharray="34,34" d="M 1505,3014 L 2006,3415 "/>
+ <path fill="none" stroke="rgb(0,0,0)" stroke-width="30" stroke-linejoin="round" d="M 1505,14 L 5,3415 "/>
+ <path fill="none" stroke="rgb(0,0,0)" stroke-width="30" stroke-linejoin="round" d="M 1505,14 L 2006,3415 "/>
+ <path fill="none" stroke="rgb(0,0,0)" stroke-width="30" stroke-linejoin="round" stroke-dasharray="34,34" d="M 1489,7 L 1489,3006 "/>
+</svg>

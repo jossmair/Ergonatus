@@ -1,0 +1,33 @@
+[
+  {
+    "source": "Fortinatus/assets/backgrounds/main-v1.png",
+    "local": "assets/backgrounds/main-v1.png",
+    "sha256": "e4b497fdd656d8f257f5cd3717e29dc6e2fe5d88ed6313f76e1d7fab1e862322"
+  },
+  {
+    "source": "Fortinatus/assets/keyboard/frames/core-00.png",
+    "local": "assets/frames/core-00.png",
+    "sha256": "62de3e92f3faef3c3e4e62aeb8118002cee983e6011041fdf47a5acd8d9434a7"
+  },
+  {
+    "source": "Fortinatus/assets/keyboard/frames/core-01.png",
+    "local": "assets/frames/core-01.png",
+    "sha256": "9b816360bf93de3aa59dc5de2e328674908a6d99ed7113cc2524bd2b6aacc300"
+  },
+  {
+    "source": "Fortinatus/assets/keyboard/frames/core-02.png",
+    "local": "assets/frames/core-02.png",
+    "sha256": "4ea8e512421cbc07b30bb392d070d1f5f7ef7057bbcaf0eb902fcb6497333ce5"
+  },
+  {
+    "source": "Fortinatus/assets/keyboard/frames/core-03.png",
+    "local": "assets/frames/core-03.png",
+    "sha256": "ce0dcffa769cfdbe77408b7f90242e0466e8e4d9b264d04b7a2a8d1c6915c510"
+  },
+  {
+    "source": "image_gen built-in, edit of local family background, 17 October 2026",
+    "local": "assets/backgrounds/main-amethyst-v1.png",
+    "sha256": "327e76c8b72db5e5fe6f097c53e827e11348d5ce939edda10d3875487240f0e9",
+    "prompt": "assets/backgrounds/GENERATION.md"
+  }
+]

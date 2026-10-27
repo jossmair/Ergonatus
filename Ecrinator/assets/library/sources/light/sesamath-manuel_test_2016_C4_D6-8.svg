@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="31mm" height="24mm" viewBox="0 0 3100 2400" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" stroke-width="28.222" stroke-linejoin="round" xml:space="preserve">
+ <path fill="none" stroke="rgb(128,128,128)" stroke-width="19" stroke-linejoin="round" d="M 97,72 L 97,2357 "/>
+ <path fill="none" stroke="rgb(128,128,128)" stroke-width="19" stroke-linejoin="round" d="M 467,72 L 467,2357 "/>
+ <path fill="none" stroke="rgb(128,128,128)" stroke-width="19" stroke-linejoin="round" d="M 840,72 L 840,2357 "/>
+ <path fill="none" stroke="rgb(128,128,128)" stroke-width="19" stroke-linejoin="round" d="M 1210,72 L 1210,2357 "/>
+ <path fill="none" stroke="rgb(128,128,128)" stroke-width="19" stroke-linejoin="round" d="M 1580,72 L 1580,2357 "/>
+ <path fill="none" stroke="rgb(128,128,128)" stroke-width="19" stroke-linejoin="round" d="M 1953,72 L 1953,2357 "/>
+ <path fill="none" stroke="rgb(128,128,128)" stroke-width="19" stroke-linejoin="round" d="M 2323,72 L 2323,2357 "/>
+ <path fill="none" stroke="rgb(128,128,128)" stroke-width="19" stroke-linejoin="round" d="M 2697,72 L 2697,2357 "/>
+ <path fill="none" stroke="rgb(128,128,128)" stroke-width="19" stroke-linejoin="round" d="M 3066,72 L 3066,2357 "/>
+ <path fill="none" stroke="rgb(128,128,128)" stroke-width="19" stroke-linejoin="round" d="M 97,2358 L 3066,2358 "/>
+ <path fill="none" stroke="rgb(128,128,128)" stroke-width="19" stroke-linejoin="round" d="M 97,1977 L 3066,1977 "/>
+ <path fill="none" stroke="rgb(128,128,128)" stroke-width="19" stroke-linejoin="round" d="M 97,1600 L 3066,1600 "/>
+ <path fill="none" stroke="rgb(128,128,128)" stroke-width="19" stroke-linejoin="round" d="M 97,1215 L 3066,1215 "/>
+ <path fill="none" stroke="rgb(128,128,128)" stroke-width="19" stroke-linejoin="round" d="M 97,834 L 3066,834 "/>
+ <path fill="none" stroke="rgb(128,128,128)" stroke-width="19" stroke-linejoin="round" d="M 97,453 L 3066,453 "/>
+ <path fill="none" stroke="rgb(128,128,128)" stroke-width="19" stroke-linejoin="round" d="M 97,72 L 3066,72 "/>
+ <text class="SVGTextShape"><tspan class="TextParagraph"><tspan class="TextPosition" x="2510" y="2122"><tspan font-family="Bitstream Vera Sans, sans-serif" font-size="318px" font-weight="400" lengthAdjust="spacingAndGlyphs" textLength="201" fill="rgb(0,0,0)" stroke="none" style="white-space: pre">S</tspan></tspan></tspan></text>
+ <path fill="none" stroke="rgb(0,0,0)" stroke-width="19" stroke-linejoin="round" d="M 1214,453 L 482,1974 "/>
+ <text class="SVGTextShape"><tspan class="TextParagraph"><tspan class="TextPosition" x="242" y="1870"><tspan font-family="Bitstream Vera Sans, sans-serif" font-size="318px" font-weight="400" lengthAdjust="spacingAndGlyphs" textLength="217" fill="rgb(0,0,0)" stroke="none" style="white-space: pre">B</tspan></tspan></tspan></text>
+ <text class="SVGTextShape"><tspan class="TextParagraph"><tspan class="TextPosition" x="995" y="411"><tspan font-family="Bitstream Vera Sans, sans-serif" font-size="318px" font-weight="400" lengthAdjust="spacingAndGlyphs" textLength="93" fill="rgb(0,0,0)" stroke="none" style="white-space: pre">I</tspan></tspan></tspan></text>
+ <path fill="none" stroke="rgb(0,0,0)" stroke-width="19" stroke-linejoin="round" d="M 2399,1914 L 2249,2062 "/>
+ <path fill="none" stroke="rgb(0,0,0)" stroke-width="19" stroke-linejoin="round" d="M 2267,1914 L 2417,2064 "/>
+ <path fill="none" stroke="rgb(0,0,0)" stroke-width="19" stroke-linejoin="round" d="M 1281,383 L 1131,531 "/>
+ <path fill="none" stroke="rgb(0,0,0)" stroke-width="19" stroke-linejoin="round" d="M 1147,383 L 1296,533 "/>
+ <path fill="none" stroke="rgb(0,0,0)" stroke-width="19" stroke-linejoin="round" d="M 538,1921 L 388,2069 "/>
+ <path fill="none" stroke="rgb(0,0,0)" stroke-width="19" stroke-linejoin="round" d="M 407,1921 L 557,2071 "/>
+</svg>

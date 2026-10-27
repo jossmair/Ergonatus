@@ -1,0 +1,99 @@
+{
+  "timestamp": "2007-10-24T07:17:23Z",
+  "size": 122263,
+  "width": 870,
+  "height": 480,
+  "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Prokaryote_cell_diagram.svg/1280px-Prokaryote_cell_diagram.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "thumbwidth": 1200,
+  "thumbheight": 662,
+  "responsiveUrls": {
+    "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Prokaryote_cell_diagram.svg/3840px-Prokaryote_cell_diagram.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "thumbattribs": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Prokaryote_cell_diagram.svg/1280px-Prokaryote_cell_diagram.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "decoding": "async",
+    "loading": "lazy",
+    "width": 1200,
+    "height": 662,
+    "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Prokaryote_cell_diagram.svg/3840px-Prokaryote_cell_diagram.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+  },
+  "url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Prokaryote_cell_diagram.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Prokaryote_cell_diagram.svg",
+  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=734929",
+  "extmetadata": {
+    "DateTime": {
+      "value": "2007-10-24 07:17:23",
+      "source": "mediawiki-metadata",
+      "hidden": ""
+    },
+    "ObjectName": {
+      "value": "Prokaryote cell diagram",
+      "source": "mediawiki-metadata"
+    },
+    "CommonsMetadataExtension": {
+      "value": 1.2,
+      "source": "extension",
+      "hidden": ""
+    },
+    "Categories": {
+      "value": "PD-user|Featured diagrams|Formerly featured pictures on Wikipedia, English|English-language SVG diagrams|Files with Assessments template missing SDC Commons no value quality assessment|SVG procaryota cell diagrams",
+      "source": "commons-categories",
+      "hidden": ""
+    },
+    "Assessments": {
+      "value": "",
+      "source": "commons-categories",
+      "hidden": ""
+    },
+    "ImageDescription": {
+      "value": "a basic diagram on the elements conforming a prokaryote cell. in this case a bacteria",
+      "source": "commons-desc-page"
+    },
+    "DateTimeOriginal": {
+      "value": "2006-04-26",
+      "source": "commons-desc-page"
+    },
+    "Credit": {
+      "value": "i did the diagram myself using adobe illustrator , as source for the information i used this websites <a rel=\"nofollow\" class=\"external autonumber\" href=\"http://kentsimmons.uwinnipeg.ca/16cm05/16labman05/lb1pg1_files/image002.gif\">[1]</a>, <a rel=\"nofollow\" class=\"external autonumber\" href=\"http://linkage.garvan.unsw.edu.au/public/gerham/macsos/public/thesis/Mutagenicity.html\">[2]</a>,, <a rel=\"nofollow\" class=\"external autonumber\" href=\"http://www.phschool.com/science/biology_place/biocoach/cells/common.html\">[3]</a> and <a rel=\"nofollow\" class=\"external autonumber\" href=\"http://www.uic.edu/classes/bios/bios100/lecturesf04am/lect06.htm\">[4]</a>",
+      "source": "commons-desc-page"
+    },
+    "Artist": {
+      "value": "Mariana Ruiz <a href=\"//commons.wikimedia.org/wiki/User:LadyofHats\" title=\"User:LadyofHats\">LadyofHats</a>",
+      "source": "commons-desc-page"
+    },
+    "Permission": {
+      "value": "public domain",
+      "source": "commons-desc-page",
+      "hidden": ""
+    },
+    "LicenseShortName": {
+      "value": "Public domain",
+      "source": "commons-desc-page",
+      "hidden": ""
+    },
+    "UsageTerms": {
+      "value": "Public domain",
+      "source": "commons-desc-page"
+    },
+    "AttributionRequired": {
+      "value": "false",
+      "source": "commons-desc-page",
+      "hidden": ""
+    },
+    "Copyrighted": {
+      "value": "False",
+      "source": "commons-desc-page",
+      "hidden": ""
+    },
+    "Restrictions": {
+      "value": "",
+      "source": "commons-desc-page",
+      "hidden": ""
+    },
+    "License": {
+      "value": "pd",
+      "source": "commons-templates",
+      "hidden": ""
+    }
+  }
+}

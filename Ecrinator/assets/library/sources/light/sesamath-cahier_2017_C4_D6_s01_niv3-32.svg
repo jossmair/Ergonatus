@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="75mm" height="33mm" viewBox="0 0 7500 3300" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" stroke-width="28.222" stroke-linejoin="round" xml:space="preserve">
+ <path fill="none" stroke="rgb(0,0,0)" stroke-width="28" stroke-linejoin="round" d="M 5,529 L 5,2762 "/>
+ <path fill="none" stroke="rgb(0,0,0)" stroke-width="28" stroke-linejoin="round" d="M 2526,529 L 2526,2762 "/>
+ <path fill="none" stroke="rgb(0,0,0)" stroke-width="28" stroke-linejoin="round" d="M 2529,2769 C 2526,2858 2468,2944 2360,3022 2249,3101 2090,3166 1898,3212 1706,3258 1489,3283 1268,3283 1046,3283 829,3258 637,3212 445,3166 286,3101 175,3022 65,2942 7,2854 5,2762 "/>
+ <path fill="none" stroke="rgb(0,0,0)" stroke-width="28" stroke-linejoin="round" d="M 2529,538 C 2526,626 2468,713 2360,790 2249,868 2090,935 1898,979 1706,1025 1489,1050 1268,1050 1046,1050 829,1025 637,979 445,935 286,868 175,790 65,711 7,623 5,531 "/>
+ <path fill="none" stroke="rgb(0,0,0)" stroke-width="28" stroke-linejoin="round" d="M 7,522 C 11,434 69,347 176,270 286,191 445,123 637,78 829,30 1046,5 1266,5 1489,5 1706,28 1898,74 2090,118 2249,183 2360,263 2469,342 2529,430 2529,522 "/>
+ <path fill="none" stroke="rgb(0,0,0)" stroke-width="28" stroke-linejoin="round" stroke-dasharray="18,18" d="M 7,2760 C 11,2672 69,2584 176,2506 286,2427 446,2362 637,2316 829,2268 1046,2244 1268,2244 1489,2244 1707,2267 1900,2312 2092,2357 2251,2422 2362,2501 2471,2579 2531,2669 2531,2759 "/>
+ <path fill="none" stroke="rgb(0,0,0)" stroke-width="28" stroke-linejoin="round" d="M 4138,3233 L 5399,256 "/>
+ <path fill="none" stroke="rgb(0,0,0)" stroke-width="28" stroke-linejoin="round" d="M 6655,3233 L 5394,256 "/>
+ <path fill="none" stroke="rgb(127,178,65)" stroke-width="28" stroke-linejoin="round" d="M 2431,303 L 1252,1048 "/>
+ <path fill="none" stroke="rgb(0,0,0)" stroke-width="28" stroke-linejoin="round" d="M 4133,3233 L 6657,3233 "/>
+ <path fill="none" stroke="rgb(0,0,0)" stroke-width="28" stroke-linejoin="round" stroke-dasharray="18,18" d="M 4976,2415 L 7500,2415 "/>
+ <path fill="none" stroke="rgb(0,0,0)" stroke-width="28" stroke-linejoin="round" stroke-dasharray="18,18" d="M 4974,2415 L 4133,3235 "/>
+ <path fill="none" stroke="rgb(0,0,0)" stroke-width="28" stroke-linejoin="round" stroke-dasharray="18,18" d="M 4976,2417 L 5398,332 "/>
+ <path fill="none" stroke="rgb(0,0,0)" stroke-width="28" stroke-linejoin="round" d="M 7498,2415 L 6657,3235 "/>
+ <path fill="none" stroke="rgb(0,0,0)" stroke-width="28" stroke-linejoin="round" d="M 7497,2415 L 5394,256 "/>
+ <path fill="none" stroke="rgb(127,178,65)" stroke-width="28" stroke-linejoin="round" d="M 6066,3233 L 6066,1893 "/>
+</svg>

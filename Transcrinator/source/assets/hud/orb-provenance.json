@@ -1,0 +1,62 @@
+{
+  "schema_version": 1,
+  "tool": "built-in image_gen.imagegen",
+  "generated_on": "2026-10-15",
+  "project_root": "C:\\Users\\Josselin\\Desktop\\transcri\\Transcri",
+  "notes": [
+    "Native generated PNG assets; no app code edited.",
+    "Images copied without raster processing, preserving generated alpha.",
+    "No CLI, API key, or external image service used."
+  ],
+  "assets": [
+    {
+      "asset_path": "assets/hud/core-hub-v1.png",
+      "original_path": "C:\\Users\\Josselin\\.codex\\generated_images\\01a13e16-fd8f-7520-9c36-febbc4586ed2\\exec-2352635e-6b0c-4c10-9760-37deeeb47caf.png",
+      "prompt": "Use case: stylized-concept\nAsset type: final production bitmap cutout for a cinematic AI assistant desktop app, NOT a mockup.\nPrimary request: exactly one original futuristic holographic voice sphere, a clean strong circular luminous cyan and ice-blue orb with optically clear glass depth and a brilliant icy inner energy core. The form must read beautifully at only 58 pixels. Three-dimensional polished visual effects render, controlled sophisticated light, a few internal crystalline energy folds, premium futuristic instrument aesthetic.\nScene/backdrop: genuinely transparent alpha background, no environment or visible backdrop. Full true transparency outside the sphere. No floor, no ground shadow, no opaque black square, no checkerboard baked into image.\nComposition/framing: square canvas, centered front-facing circular sphere with exactly about twelve percent fully transparent padding on every side, circle occupies about seventy-six percent canvas width. Compact bounded circular silhouette, no rings extending away from the orb, no far external rays.\nColor palette: luminous cyan matching #5cecf7, ice blue, pale white energy; designed to composite onto dark navy #06111c. No amber, orange, purple, or magenta.\nMaterials: clear optical glass with subtle translucent cyan internal refraction, beautifully layered holographic depth, thin precise luminous rim, bright focused inner energy, slight contained volumetric light.\nConstraints: exactly one isolated sphere. No text, numbers, letters, logos, watermark, symbols, interface frame, scale marks, helmet, character, face, microphone, platform, or extra objects. Avoid overly complex fine detail. Output must have real alpha transparency.",
+      "transparent_background": true,
+      "attempts": 1,
+      "width": 1254,
+      "height": 1254,
+      "bytes": 1492016,
+      "pixel_format": "Format32bppArgb",
+      "alpha_corner_samples": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "alpha_center_sample": 253,
+      "visual_inspection": "Centered cyan/ice-blue translucent glass voice sphere, clear circular silhouette, approximately 12% transparent padding, no text or extra objects."
+    },
+    {
+      "asset_path": "assets/hud/halo-v1.png",
+      "original_path": "C:\\Users\\Josselin\\.codex\\generated_images\\01a13e16-fd8f-7520-9c36-febbc4586ed2\\exec-894aa17b-ed0b-446b-8b6d-ec6a5c7d4e3d.png",
+      "prompt": "Use case: stylized-concept\nAsset type: final transparent VFX compositing halo for a cinematic AI assistant desktop app.\nEdit target: the most recently generated cyan circular energy corona. Change only the corona's softness, transparency, and visual density while preserving its cyan/ice-blue circular structure and empty central hole.\nPrimary request: refine this into a much LIGHTER, MORE TRANSLUCENT atmospheric halo made of delicate thin wispy optical filaments and a very soft faint cyan glow. Reduce its dense cloudy blue body strongly, remove the broad solid-looking blue band, reduce tiny sparkling particles, eliminate ragged opaque rim. The result must feel like floating light and air, not a fabric ring, tire, or portal with a thick surface. Let empty transparent gaps appear between several fine short wisps. Make the strongest energy a restrained cyan crescent-like band around the middle radius, with very subtle organic rays fading away.\nComposition: centered square. Completely empty transparent circular center about 35 percent of canvas width. No light, disk, or object in center. Luminous annular middle zone, softly fade outward to fully zero alpha with at least 8 percent entirely transparent outer border. Symmetric circular overall composition with subtle organic variation.\nColor: luminous cyan #5cecf7 and icy white, restrained pale blue. Designed to composite on navy #06111c.\nTransparency: ACTUAL genuine alpha transparency. Keep the entire central hole and outer surroundings fully zero alpha. Background must be truly transparent, not black or checkerboard baked into image. Preserve semi-transparent optical glow and wisps.\nConstraints: no solid disk, sphere, opaque ring or opaque blue surface; no text, numbers, logos, symbols, watermark, environment, floor, pedestal, or extra objects.",
+      "transparent_background": true,
+      "attempts": 2,
+      "width": 1254,
+      "height": 1254,
+      "bytes": 1873882,
+      "pixel_format": "Format32bppArgb",
+      "alpha_corner_samples": [
+        0,
+        0,
+        1,
+        1
+      ],
+      "alpha_center_sample": 1,
+      "central_300px_sample_grid_max_alpha": 2,
+      "visual_inspection": "Cyan circular energy corona and fine optical filaments around empty center; no opaque backdrop or filled center. Broad soft blue corona retained.",
+      "limitations": [
+        "Generator retained trace alpha 1–2/255 in sampled central hole and corners; mathematically zero alpha throughout the empty center was not achieved within the two-attempt limit.",
+        "Corona is denser than requested; use restrained overlay opacity in UI."
+      ],
+      "prior_attempt": {
+        "original_path": "C:\\Users\\Josselin\\.codex\\generated_images\\01a13e16-fd8f-7520-9c36-febbc4586ed2\\exec-0f3ac933-40f5-4343-ab1e-bde0357775e4.png",
+        "prompt": "Use case: stylized-concept\nAsset type: final production transparent VFX compositing layer for a cinematic futuristic AI assistant desktop app, NOT a mockup.\nPrimary request: one elegant soft cyan and ice-blue volumetric energy corona with fine wispy optical rays, a circular luminous halo around an empty completely TRANSPARENT center. The exact middle must be a fully empty transparent circular hole about 35 percent of canvas width, no light or disk filling this hole. Beautiful controlled atmospheric glass-light effect, symmetric circular overall structure with slightly organic fine wisps.\nScene/backdrop: genuinely transparent background with alpha, no black backdrop, no solid or translucent background panel, no checkerboard baked into the image; visible effect only in the annular middle zone. Preserve zero alpha in the entire empty central circular hole and the far edges.\nComposition/framing: square canvas, exactly centered. A circular empty transparent hole in center with diameter 35 percent of canvas width. Most cyan light lies at middle radius 24 to 35 percent of canvas width from center. Fine short optical wisps and soft volumetric rays extend to at most 44 percent radius, fading gradually all the way to zero alpha. Fully transparent outer border. Do not draw the object as a hard-edged solid ring. Do not fill the center.\nColor palette: luminous cyan matching #5cecf7, cool ice blue and restrained soft white highlights, intended for compositing on #06111c dark navy. No orange, purple, magenta or rainbow.\nStyle: polished cinematic 3D visual effects, softly luminous corona, very fine delicate organic optical filaments, disciplined understated premium energy rather than an explosion, balanced and beautifully smooth glow.\nConstraints: only one isolated luminous annular energy effect with actual alpha transparency. NO solid disk, sphere, ball, object in center, black circle, white circle, text, numbers, letters, symbols, logos, watermark, interface frame, scale marks, floor, pedestal, or extra objects.",
+        "selected": false,
+        "reason": "Targeted refinement requested lighter more translucent filaments."
+      }
+    }
+  ]
+}

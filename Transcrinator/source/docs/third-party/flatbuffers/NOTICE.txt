@@ -1,0 +1,5 @@
+flatbuffers 25.12.19
+Apache 2.0
+https://google.github.io/flatbuffers/
+Documentation, https://google.github.io/flatbuffers/
+Source, https://github.com/google/flatbuffers

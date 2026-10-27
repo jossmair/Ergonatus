@@ -1,0 +1,9 @@
+[project]
+name = "precisionator"
+version = "1.0.7"
+description = "Loupe intelligente Windows, famille Transcrinator / Fortinatus"
+requires-python = ">=3.12,<3.13"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+addopts = "--basetemp=.test-tmp"

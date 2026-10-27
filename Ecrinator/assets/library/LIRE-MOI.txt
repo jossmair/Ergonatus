@@ -1,0 +1,15 @@
+Bibliothèque Écrinator — 1162 images hors ligne.
+
+Bibliothèque scolaire Écrinator — collections sélectionnées
+
+Cartes historiques et géographiques, schémas scientifiques sans légende,
+figures mathématiques et illustrations littéraires. Chaque fichier conserve
+son auteur, sa source et sa licence : domaine public, CC BY ou CC BY-SA.
+Les gravures sont des œuvres anciennes à étudier, pas des schémas scientifiques.
+Sources consultables au clic droit, sans ajout automatique sur la page.
+Fonctionnement hors ligne ; aucune validation enseignante revendiquée.
+Le pack de plusieurs milliers de ressources et la couverture de toutes les
+matières restent en préparation. Les corpus non sélectionnés sont exclus.
+
+
+Les images et miniatures sont intégrées à l’exécutable. Cette archive de ressources est facultative. Le logiciel vérifie chaque image par SHA-256. Aucun téléchargement au lancement.

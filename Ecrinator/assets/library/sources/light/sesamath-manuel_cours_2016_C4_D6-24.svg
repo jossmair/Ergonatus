@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="20mm" height="20mm" viewBox="0 0 2000 2000" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" stroke-width="28.222" stroke-linejoin="round" xml:space="preserve">
+ <path fill="none" stroke="rgb(0,0,0)" stroke-width="30" stroke-linejoin="round" d="M 1997,1647 C 1998,1653 1998,1658 1998,1663 1998,1711 1953,1760 1866,1803 1778,1845 1653,1882 1501,1907 1351,1931 1178,1944 1005,1944 831,1944 658,1931 508,1907 356,1882 231,1845 143,1803 71,1767 26,1727 14,1686 "/>
+ <path fill="none" stroke="rgb(0,0,0)" stroke-width="30" stroke-linejoin="round" stroke-dasharray="34,34" d="M 72,1651 C 72,1647 72,1644 72,1640 74,1602 118,1565 203,1533 288,1501 407,1476 552,1459 697,1443 861,1436 1027,1438 1192,1441 1355,1453 1498,1475 1640,1496 1757,1526 1840,1561 1907,1589 1949,1621 1958,1653 "/>
+ <path fill="none" stroke="rgb(0,0,0)" stroke-width="30" stroke-linejoin="round" d="M 5,1692 L 1007,5 "/>
+ <path fill="none" stroke="rgb(0,0,0)" stroke-width="30" stroke-linejoin="round" d="M 2002,1658 L 1011,9 "/>
+</svg>

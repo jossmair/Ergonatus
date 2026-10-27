@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="16mm" height="16mm" viewBox="0 0 1600 1600" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" stroke-width="28.222" stroke-linejoin="round" xml:space="preserve">
+ <path fill="none" stroke="rgb(51,153,255)" stroke-width="41" stroke-linejoin="round" d="M 596,1616 L 12,1616 12,422 1178,422 1178,1616 596,1616 Z "/>
+ <text class="SVGTextShape"><tspan class="TextParagraph"><tspan class="TextPosition" x="326" y="1219"><tspan font-family="Bitstream Vera Sans, sans-serif" font-size="847px" font-weight="400" lengthAdjust="spacingAndGlyphs" textLength="536" fill="rgb(0,0,0)" stroke="none" style="white-space: pre">S</tspan></tspan></tspan></text>
+ <path fill="none" stroke="rgb(28,162,184)" stroke-width="41" stroke-linejoin="round" d="M 11,422 L 1171,422 "/>
+ <path fill="none" stroke="rgb(28,162,184)" stroke-width="41" stroke-linejoin="round" d="M 11,1582 L 1171,1582 "/>
+ <path fill="none" stroke="rgb(28,162,184)" stroke-width="41" stroke-linejoin="round" d="M 11,422 L 11,1582 "/>
+ <path fill="none" stroke="rgb(28,162,184)" stroke-width="41" stroke-linejoin="round" d="M 1171,422 L 1171,1582 "/>
+ <path fill="none" stroke="rgb(28,162,184)" stroke-width="41" stroke-linejoin="round" d="M 11,420 L 416,14 "/>
+ <path fill="none" stroke="rgb(28,162,184)" stroke-width="41" stroke-linejoin="round" d="M 1171,420 L 1577,14 "/>
+ <path fill="none" stroke="rgb(28,162,184)" stroke-width="41" stroke-linejoin="round" d="M 1171,1582 L 1577,1178 "/>
+ <path fill="none" stroke="rgb(28,162,184)" stroke-width="41" stroke-linejoin="round" d="M 425,11 L 1586,11 "/>
+ <path fill="none" stroke="rgb(28,162,184)" stroke-width="41" stroke-linejoin="round" d="M 1584,11 L 1584,1171 "/>
+ <path fill="rgb(0,0,0)" stroke="none" d="M 1393,409 C 1441,356 1478,340 1506,377 1533,413 1550,487 1543,601 1536,716 1533,820 1503,921 1475,1023 1439,1101 1388,1154 1337,1207 1307,1221 1279,1182 1251,1145 1244,1071 1242,967 1240,859 1256,748 1288,640 1318,534 1349,462 1393,409 Z M 1395,490 C 1355,529 1337,579 1312,661 1286,743 1291,822 1289,910 1288,995 1296,1058 1314,1092 1332,1124 1360,1115 1395,1078 1429,1044 1453,974 1473,903 1492,833 1496,748 1499,656 1503,564 1492,504 1469,474 1448,443 1425,452 1395,490 Z "/>
+ <path fill="none" stroke="rgb(0,0,0)" stroke-width="19" stroke-linejoin="round" d="M 1393,409 C 1441,356 1478,340 1506,377 1533,413 1550,487 1543,601 1536,716 1533,820 1503,921 1475,1023 1439,1101 1388,1154 1337,1207 1307,1221 1279,1182 1251,1145 1244,1071 1242,967 1240,859 1256,748 1288,640 1318,534 1349,462 1393,409 Z "/>
+ <path fill="none" stroke="rgb(0,0,0)" stroke-width="19" stroke-linejoin="round" d="M 1395,490 C 1355,529 1337,579 1312,661 1286,743 1291,822 1289,910 1288,995 1296,1058 1314,1092 1332,1124 1360,1115 1395,1078 1429,1044 1453,974 1473,903 1492,833 1496,748 1499,656 1503,564 1492,504 1469,474 1448,443 1425,452 1395,490 Z "/>
+</svg>

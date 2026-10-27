@@ -1,0 +1,26 @@
+{
+  "experimental_only": false,
+  "production_enabled": true,
+  "parakeet": {
+    "url": "https://codeload.github.com/mudler/parakeet.cpp/zip/refs/tags/v0.6.1",
+    "sha256": "a46c750bd01c1117619b260a1324f6e67f4d9fb6feb0dac0b9aa9cdf287d1251",
+    "directory": "parakeet.cpp-0.6.1"
+  },
+  "ggml": {
+    "url": "https://codeload.github.com/ggml-org/ggml/zip/e705c5fed490514458bdd2eaddc43bd098fcce9b",
+    "sha256": "74a3ad0bf352f4a7abd007bcf988d04aa61bbfeeaa24abe69814b87d369d93f8",
+    "directory": "ggml-e705c5fed490514458bdd2eaddc43bd098fcce9b"
+  },
+  "normalized_base_files_sha256": {
+    "CMakeLists.txt": "5f604c6c770ece5d9e56ae3f63930d7a41bc7f7e0539bdf6cdd8bcf276690a6d",
+    "src/tdt.cpp": "4bc1c9c671f47564b21a07cba47d0ef8b10148aac3fc7984dab42c2bf7318639",
+    "src/model.hpp": "0ab0b05523e8a14aa25b561bb4a761cb8b6a0d96c27f676636b1c3fbac9a1a6e",
+    "src/parakeet_capi.cpp": "a67e9a22163d2a92fafe7be7bef72d09b73039d5a609f6da3e675ec6fef5eedc"
+  },
+  "minimum_prefix_candidate": 3,
+  "maximum_logit_bonus": 2,
+  "no_ggml_patches_applied": true,
+  "production_backends": [
+    "cuda:7.5"
+  ]
+}

@@ -1,0 +1,6 @@
+PySide6-Essentials==6.8.3
+shiboken6==6.8.3
+numpy==1.26.4
+dxcam==0.0.5
+opencv-python==4.11.0.86
+comtypes==1.4.17

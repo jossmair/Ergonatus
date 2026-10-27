@@ -1,0 +1,9 @@
+cffi 2.1.1
+
+
+Documentation, https://cffi.readthedocs.io/
+Changelog, https://cffi.readthedocs.io/en/latest/whatsnew.html
+Download, https://github.com/python-cffi/cffi/releases
+Contact, https://groups.google.com/forum/#!forum/python-cffi
+Source Code, https://github.com/python-cffi/cffi
+Issue Tracker, https://github.com/python-cffi/cffi/issues

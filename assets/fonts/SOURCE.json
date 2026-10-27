@@ -1,0 +1,17 @@
+{
+  "revision": "1824da5c0e41dc3e13ffc7f3a636dcaf695d61b7",
+  "files": [
+    {
+      "file": "OpenDyslexic-Regular.otf",
+      "url": "https://raw.githubusercontent.com/antijingoist/opendyslexic/1824da5c0e41dc3e13ffc7f3a636dcaf695d61b7/compiled/OpenDyslexic-Regular.otf",
+      "bytes": 175872,
+      "sha256": "32f5840fb2bf844bdabafe372591ddfb9286e98117f5b21950aaf54ea856919a"
+    },
+    {
+      "file": "OFL.txt",
+      "url": "https://raw.githubusercontent.com/antijingoist/opendyslexic/1824da5c0e41dc3e13ffc7f3a636dcaf695d61b7/OFL.txt",
+      "bytes": 4453,
+      "sha256": "caafcccfb70fc72458fcbda812ec8f0a06cb300cbabb87eabbb30b946124394b"
+    }
+  ]
+}

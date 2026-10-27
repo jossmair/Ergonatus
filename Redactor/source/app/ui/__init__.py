@@ -1,0 +1,1 @@
+"""Interface native Qt."""

@@ -1,0 +1,15 @@
+{
+  "model": {
+    "repository": "kurakurai/Luth-1.7B-Instruct-GGUF",
+    "revision": "9c0491062e197f8f68654584978bc05210edeb3a",
+    "filename": "Luth-1.7B-Instruct-Q8_0.gguf",
+    "size": 1834425984,
+    "sha256": "eac2cf4226524f3cc479b2e9774fc26cf6e7aac26f961f0892f824ab2f69a96f",
+    "license": "Apache-2.0",
+    "verified": true
+  },
+  "weights_origin": "Local copy from the existing Redactor/models directory; no weights downloaded",
+  "engine_source": "Redactor/source/app/ai/engine.py, gguf.py, model_manager.py, prompts.py; unmodified",
+  "model_card": "https://huggingface.co/kurakurai/Luth-1.7B-Instruct-GGUF",
+  "protocol": "Ergonatus.Proofreading.v1; local authenticated AF_PIPE"
+}

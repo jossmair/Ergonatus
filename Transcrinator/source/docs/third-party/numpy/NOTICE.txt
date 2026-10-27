@@ -1,0 +1,9 @@
+numpy 2.4.6
+
+
+homepage, https://numpy.org
+documentation, https://numpy.org/doc/
+source, https://github.com/numpy/numpy
+download, https://pypi.org/project/numpy/#files
+tracker, https://github.com/numpy/numpy/issues
+release notes, https://numpy.org/doc/stable/release

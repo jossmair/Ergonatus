@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="89mm" height="35mm" viewBox="0 0 8900 3500" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" stroke-width="28.222" stroke-linejoin="round" xml:space="preserve">
+ <path fill="none" stroke="rgb(0,0,0)" stroke-width="41" stroke-linejoin="round" d="M 997,2521 L 683,2521 683,1893 1311,1893 1311,2521 997,2521 Z "/>
+ <path fill="none" stroke="rgb(0,0,0)" stroke-width="41" stroke-linejoin="round" d="M 2252,2521 L 1939,2521 1939,1893 2566,1893 2566,2521 2252,2521 Z "/>
+ <path fill="none" stroke="rgb(0,0,0)" stroke-width="41" stroke-linejoin="round" d="M 2879,2521 L 2566,2521 2566,1893 3191,1893 3191,2521 2879,2521 Z "/>
+ <path fill="none" stroke="rgb(0,0,0)" stroke-width="41" stroke-linejoin="round" d="M 2252,1891 L 1939,1891 1939,1265 2566,1265 2566,1891 2252,1891 Z "/>
+ <path fill="none" stroke="rgb(0,0,0)" stroke-width="41" stroke-linejoin="round" d="M 6638,2521 L 6324,2521 6324,1893 6951,1893 6951,2521 6638,2521 Z "/>
+ <path fill="none" stroke="rgb(0,0,0)" stroke-width="41" stroke-linejoin="round" d="M 7264,2521 L 6950,2521 6950,1893 7576,1893 7576,2521 7264,2521 Z "/>
+ <path fill="none" stroke="rgb(0,0,0)" stroke-width="41" stroke-linejoin="round" d="M 7892,2521 L 7578,2521 7578,1893 8206,1893 8206,2521 7892,2521 Z "/>
+ <path fill="none" stroke="rgb(0,0,0)" stroke-width="41" stroke-linejoin="round" d="M 8518,2521 L 8204,2521 8204,1893 8830,1893 8830,2521 8518,2521 Z "/>
+ <path fill="none" stroke="rgb(0,0,0)" stroke-width="41" stroke-linejoin="round" d="M 6638,1891 L 6324,1891 6324,1265 6951,1265 6951,1891 6638,1891 Z "/>
+ <path fill="none" stroke="rgb(0,0,0)" stroke-width="41" stroke-linejoin="round" d="M 6638,1266 L 6324,1266 6324,639 6951,639 6951,1266 6638,1266 Z "/>
+ <path fill="none" stroke="rgb(0,0,0)" stroke-width="41" stroke-linejoin="round" d="M 6638,637 L 6324,637 6324,11 6951,11 6951,637 6638,637 Z "/>
+ <path fill="none" stroke="rgb(0,0,0)" stroke-width="41" stroke-linejoin="round" d="M 4129,2521 L 3815,2521 3815,1893 4441,1893 4441,2521 4129,2521 Z "/>
+ <path fill="none" stroke="rgb(0,0,0)" stroke-width="41" stroke-linejoin="round" d="M 4757,2521 L 4443,2521 4443,1893 5071,1893 5071,2521 4757,2521 Z "/>
+ <path fill="none" stroke="rgb(0,0,0)" stroke-width="41" stroke-linejoin="round" d="M 5383,2521 L 5069,2521 5069,1893 5696,1893 5696,2521 5383,2521 Z "/>
+ <path fill="none" stroke="rgb(0,0,0)" stroke-width="41" stroke-linejoin="round" d="M 4129,1891 L 3815,1891 3815,1265 4441,1265 4441,1891 4129,1891 Z "/>
+ <path fill="none" stroke="rgb(0,0,0)" stroke-width="41" stroke-linejoin="round" d="M 4129,1266 L 3815,1266 3815,639 4441,639 4441,1266 4129,1266 Z "/>
+ <path fill="none" stroke="rgb(0,0,0)" stroke-width="41" stroke-linejoin="round" d="M 4129,2521 L 3815,2521 3815,1893 4441,1893 4441,2521 4129,2521 Z "/>
+ <text class="SVGTextShape"><tspan class="TextParagraph"><tspan class="TextPosition" x="242" y="3097"><tspan font-family="Bitstream Vera Sans, sans-serif" font-size="353px" font-weight="400" lengthAdjust="spacingAndGlyphs" textLength="1355" fill="rgb(0,0,0)" stroke="none" style="white-space: pre">Étape 1</tspan></tspan></tspan></text>
+ <text class="SVGTextShape"><tspan class="TextParagraph"><tspan class="TextPosition" x="1928" y="3097"><tspan font-family="Bitstream Vera Sans, sans-serif" font-size="353px" font-weight="400" lengthAdjust="spacingAndGlyphs" textLength="1355" fill="rgb(0,0,0)" stroke="none" style="white-space: pre">Étape 2</tspan></tspan></tspan></text>
+ <text class="SVGTextShape"><tspan class="TextParagraph"><tspan class="TextPosition" x="3923" y="3097"><tspan font-family="Bitstream Vera Sans, sans-serif" font-size="353px" font-weight="400" lengthAdjust="spacingAndGlyphs" textLength="1355" fill="rgb(0,0,0)" stroke="none" style="white-space: pre">Étape 3</tspan></tspan></tspan></text>
+ <text class="SVGTextShape"><tspan class="TextParagraph"><tspan class="TextPosition" x="6597" y="3097"><tspan font-family="Bitstream Vera Sans, sans-serif" font-size="353px" font-weight="400" lengthAdjust="spacingAndGlyphs" textLength="1355" fill="rgb(0,0,0)" stroke="none" style="white-space: pre">Étape 4</tspan></tspan></tspan></text>
+</svg>

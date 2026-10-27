@@ -1,0 +1,84 @@
+{
+  "timestamp": "2023-11-28T23:37:06Z",
+  "size": 126175,
+  "width": 2560,
+  "height": 1296,
+  "url": "https://upload.wikimedia.org/wikipedia/commons/8/83/Blank_Map_of_The_World_%28antarctica%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Blank_Map_of_The_World_(antarctica).png",
+  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=141534117",
+  "extmetadata": {
+    "DateTime": {
+      "value": "2023-11-28 23:37:06",
+      "source": "mediawiki-metadata",
+      "hidden": ""
+    },
+    "ObjectName": {
+      "value": "Blank Map of The World (antarctica)",
+      "source": "mediawiki-metadata"
+    },
+    "CommonsMetadataExtension": {
+      "value": 1.2,
+      "source": "extension",
+      "hidden": ""
+    },
+    "Categories": {
+      "value": "Maps with Robinson projection|Self-published work|2023 maps of the world|Aliased blank maps of the world with national borders without connectors|Language-neutral maps of the world",
+      "source": "commons-categories",
+      "hidden": ""
+    },
+    "Assessments": {
+      "value": "",
+      "source": "commons-categories",
+      "hidden": ""
+    },
+    "ImageDescription": {
+      "value": "This is a Full HD blank map, but some oceanic countries are not showing on the map. And with Antarctica.",
+      "source": "commons-desc-page"
+    },
+    "DateTimeOriginal": {
+      "value": "2023-11-28",
+      "source": "commons-desc-page"
+    },
+    "Credit": {
+      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+      "source": "commons-desc-page"
+    },
+    "Artist": {
+      "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:GuilhermeGolvino&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:GuilhermeGolvino (page does not exist)\">GuilhermeGolvino</a>",
+      "source": "commons-desc-page"
+    },
+    "LicenseShortName": {
+      "value": "CC BY 4.0",
+      "source": "commons-desc-page",
+      "hidden": ""
+    },
+    "UsageTerms": {
+      "value": "Creative Commons Attribution 4.0",
+      "source": "commons-desc-page"
+    },
+    "AttributionRequired": {
+      "value": "true",
+      "source": "commons-desc-page",
+      "hidden": ""
+    },
+    "LicenseUrl": {
+      "value": "https://creativecommons.org/licenses/by/4.0",
+      "source": "commons-desc-page"
+    },
+    "Copyrighted": {
+      "value": "True",
+      "source": "commons-desc-page",
+      "hidden": ""
+    },
+    "Restrictions": {
+      "value": "",
+      "source": "commons-desc-page",
+      "hidden": ""
+    },
+    "License": {
+      "value": "cc-by-4.0",
+      "source": "commons-templates",
+      "hidden": ""
+    }
+  }
+}

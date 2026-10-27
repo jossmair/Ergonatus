@@ -1,0 +1,84 @@
+{
+  "timestamp": "2024-02-13T18:33:47Z",
+  "size": 219812,
+  "width": 7194,
+  "height": 3386,
+  "url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Blank_Map_of_The_World_Equirectangular_Projection.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Blank_Map_of_The_World_Equirectangular_Projection.png",
+  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=145314001",
+  "extmetadata": {
+    "DateTime": {
+      "value": "2024-02-13 18:33:47",
+      "source": "mediawiki-metadata",
+      "hidden": ""
+    },
+    "ObjectName": {
+      "value": "Blank Map of The World Equirectangular Projection",
+      "source": "mediawiki-metadata"
+    },
+    "CommonsMetadataExtension": {
+      "value": 1.2,
+      "source": "extension",
+      "hidden": ""
+    },
+    "Categories": {
+      "value": "Blank maps of the world|Self-published work|Maps of the world with equirectangular projection",
+      "source": "commons-categories",
+      "hidden": ""
+    },
+    "Assessments": {
+      "value": "",
+      "source": "commons-categories",
+      "hidden": ""
+    },
+    "ImageDescription": {
+      "value": "This is a blank map with one of the best known projections the Equirectangular projection in the year 2024 and with some unrecognized countries.",
+      "source": "commons-desc-page"
+    },
+    "DateTimeOriginal": {
+      "value": "2024-02-13",
+      "source": "commons-desc-page"
+    },
+    "Credit": {
+      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+      "source": "commons-desc-page"
+    },
+    "Artist": {
+      "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:FelixCountryBalls163&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:FelixCountryBalls163 (page does not exist)\">FelixCountryBalls163</a>",
+      "source": "commons-desc-page"
+    },
+    "LicenseShortName": {
+      "value": "CC BY 4.0",
+      "source": "commons-desc-page",
+      "hidden": ""
+    },
+    "UsageTerms": {
+      "value": "Creative Commons Attribution 4.0",
+      "source": "commons-desc-page"
+    },
+    "AttributionRequired": {
+      "value": "true",
+      "source": "commons-desc-page",
+      "hidden": ""
+    },
+    "LicenseUrl": {
+      "value": "https://creativecommons.org/licenses/by/4.0",
+      "source": "commons-desc-page"
+    },
+    "Copyrighted": {
+      "value": "True",
+      "source": "commons-desc-page",
+      "hidden": ""
+    },
+    "Restrictions": {
+      "value": "",
+      "source": "commons-desc-page",
+      "hidden": ""
+    },
+    "License": {
+      "value": "cc-by-4.0",
+      "source": "commons-templates",
+      "hidden": ""
+    }
+  }
+}
