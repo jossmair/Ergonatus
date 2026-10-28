@@ -10,7 +10,7 @@ def token():
     return value
 def api(path,method='GET',payload=None):
     req=urllib.request.Request('https://api.github.com'+path,data=None if payload is None else json.dumps(payload).encode(),method=method,headers={'Authorization':'Bearer '+TOKEN,'User-Agent':'Ergonatus-release','Accept':'application/vnd.github+json','Content-Type':'application/json'})
-    with urllib.request.urlopen(req,timeout=120) as r:return json.load(r)
+    with urllib.request.urlopen(req,timeout=120) as r:return None if r.status==204 else json.load(r)
 def sha(p):
     with p.open('rb') as f:return hashlib.file_digest(f,'sha256').hexdigest()
 TOKEN=token();assert api('/user')['login'].lower()=='jossmair'
@@ -34,9 +34,11 @@ elif sys.argv[1] in ('stage','publish'):
         verification={'assets':{p.name:sha(p) for p in portable}}
     source=OUT/'source';head=subprocess.check_output(['git','rev-parse','HEAD'],cwd=source,text=True).strip()
     remote=api('/repos/'+REPO+'/git/ref/heads/main')['object']['sha'];assert remote==head
-    try:release=api('/repos/'+REPO+'/releases/tags/'+TAG);assert release['draft'],'Version déjà publique.'
-    except urllib.error.HTTPError as e:
-        if e.code!=404:raise
+    candidates=[r for r in api('/repos/'+REPO+'/releases?per_page=100') if r['tag_name']==TAG]
+    if candidates:
+        assert all(r['draft'] for r in candidates),'Version déjà publique.'
+        release=max(candidates,key=lambda r:sum(a['size'] for a in r['assets'] if a['state']=='uploaded'))
+    else:
         release=api('/repos/'+REPO+'/releases','POST',dict(tag_name=TAG,target_commitish=head,name='Ergonatus — 27 octobre 2026',draft=True,prerelease=False,body=(OUT/'RELEASE-NOTES.md').read_text(encoding='utf-8')))
     existing=api('/repos/'+REPO+'/releases/'+str(release['id'])+'/assets')
     for name,digest in verification['assets'].items():
