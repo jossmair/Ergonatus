@@ -10,7 +10,7 @@ Pour les élèves, les familles, les enseignants et les personnes qui les accomp
 
 <a href="#installation-windows"><img src="docs/media/download-installer.png" alt="Installer la suite" width="244"></a>&nbsp;&nbsp;<a href="#version-portable"><img src="docs/media/download-portable.png" alt="Choisir la version portable" width="244"></a>
 
-[Découvrir les outils](#21-outils-à-composer-selon-vos-besoins) · [Voir les téléchargements](https://github.com/jossmair/Ergonatus/releases/latest) · [Construire depuis les sources](BUILDING.md)
+[Découvrir les outils](#21-logiciels-21-façons-de-vous-accompagner) · [Voir les téléchargements](https://github.com/jossmair/Ergonatus/releases/latest) · [Construire depuis les sources](BUILDING.md)
 
 </div>
 
@@ -30,87 +30,227 @@ Un clic sur l’Orb d’Ergonatus affiche le catalogue. Chaque outil garde **son
 
 <p align="center"><sub>Vraies interfaces de la version v2026.10.27, avec des exemples de démonstration. Cliquez sur une capture pour l’agrandir.</sub></p>
 
-## Écrire, lire et mettre ses idées en forme
+## 21 logiciels, 21 façons de vous accompagner
 
-### Écrinator — des cours dans lesquels on se repère
+Chaque logiciel a sa fonction, sa couleur et son Orb. Découvrez les **21 outils**, regroupés par usage : aucun n’est caché dans un menu déroulant.
 
-Matières, bandeaux, encadrés et formules : construisez des documents scolaires avec des repères visuels. Retrouvez vos cours et exportez vos documents.
+### Écrire et travailler ses documents
 
-<a href="docs/media/ecrinator.png"><img src="docs/media/ecrinator.png" alt="Écrinator avec un cours de mathématiques et les encadrés Définition, Propriété et Remarque." width="1920"></a>
+[Écrinator](#ecrinator) · [Redactor](#redactor) · [Corrector](#corrector) · [Transcrinator](#transcrinator) · [Scanator](#scanator) · [PDFinator](#pdfinator)
 
-<table><tr><td width="50%" valign="top"><h3>Corrector · garder le fil de ses idées</h3><p>Le texte envoyé à gauche, la proposition corrigée à droite. Sélectionnez, relisez et copiez la réponse dans une interface de discussion.</p><a href="docs/media/corrector.png"><img src="docs/media/corrector.png" alt="Corrector : deux exemples de textes et leurs propositions corrigées, avec copie par réponse." width="360"></a></td><td width="50%" valign="top"><h3>Communicator · trouver comment le dire</h3><p>Des cartes pour exprimer ses besoins et ses choix. Préparez un message, montrez-le en grand ou faites-le lire à voix haute.</p><a href="docs/media/communicator.png"><img src="docs/media/communicator.png" alt="Communicator : cartes de communication et message J’ai besoin d’un peu de temps pour répondre." width="360"></a></td></tr></table>
+<a id="ecrinator"></a>
 
-## Comprendre et s’entraîner, une étape à la fois
+#### <img src="docs/media/icons/ecrinator.png" width="36" alt=""> Écrinator — Des cours structurés, des idées plus claires
 
-<table><tr><td width="50%" valign="top"><h3>Explicator · une piste pour avancer</h3><p>Capturez une consigne ou collez un énoncé. Demandez une explication et des indices pour chercher par vous-même.</p><a href="docs/media/explicator.png"><img src="docs/media/explicator.png" alt="Explicator : exemple d’indices pédagogiques pour comprendre une fraction d’une quantité." width="360"></a></td><td width="50%" valign="top"><h3>Tablinator · cliquer, retourner, retenir</h3><p>Toutes les tables de 1 à 12 dans une grille. Cliquez sur une opération pour retourner sa carte et découvrir le résultat.</p><a href="docs/media/tablinator.png"><img src="docs/media/tablinator.png" alt="Tablinator : grille des tables de multiplication avec plusieurs cartes retournées." width="360"></a></td></tr></table>
+Rédigez vos cours avec des matières, des bandeaux, des encadrés et des formules. Une mise en page visuelle pour retrouver les informations essentielles.
 
-## Une semaine plus facile à retrouver
+**Au quotidien :** Préparer une fiche de révision avec définitions et propriétés.
 
-**Planinator** réunit les activités, les cours et les devoirs. Le mode élève donne une couleur à chaque matière ; l’Orb permet de retrouver le widget d’aujourd’hui et de demain.
+<a href="docs/media/ecrinator.png"><img src="docs/media/ecrinator.png" alt="Interface de Écrinator, avec un exemple de démonstration." width="840"></a>
 
-<a href="docs/media/planinator.png"><img src="docs/media/planinator.png" alt="Planinator en mode élève avec une semaine de devoirs de démonstration et le jour courant mis en valeur." width="1080"></a>
+<a id="redactor"></a>
 
-<details>
-<summary><strong>Voir aussi : post-it, traduction, dictionnaire et calculatrice</strong></summary>
-<br>
+#### <img src="docs/media/icons/redactor.png" width="36" alt=""> Redactor — Trouver les mots pour ses idées
 
-### Memorinator — poser une idée, la retrouver plus tard
+Rédigez, reformulez ou résumez un texte avec une IA locale. Une interface de discussion pour avancer à partir de votre demande.
 
-Un mur de post-it datés, colorés et déplaçables. Ajoutez vos notes, surlignez, barrez et ajustez l’opacité du fond.
+**Au quotidien :** Reformuler un paragraphe ou préparer un premier brouillon.
 
-<a href="docs/media/memorinator.png"><img src="docs/media/memorinator.png" alt="Memorinator — poser une idée, la retrouver plus tard — exemple de démonstration." width="1000"></a>
+<a id="corrector"></a>
 
-### Traductor — une discussion dans deux langues
+#### <img src="docs/media/icons/corrector.png" width="36" alt=""> Corrector — Relire sans casser son élan
 
-Choisissez les langues, écrivez votre message, puis écoutez ou copiez la traduction depuis sa bulle.
+Envoyez votre texte à gauche et retrouvez une proposition corrigée à droite. Les réponses restent sélectionnables et disposent de leur propre icône de copie.
 
-<a href="docs/media/traductor.png"><img src="docs/media/traductor.png" alt="Traductor — une discussion dans deux langues — exemple de démonstration." width="1000"></a>
+**Au quotidien :** Relire un message avant de l’envoyer.
 
-### Dictionnator — les mots et leurs sens
+<a href="docs/media/corrector.png"><img src="docs/media/corrector.png" alt="Interface de Corrector, avec un exemple de démonstration." width="840"></a>
 
-Un dictionnaire français local, avec définitions et suggestions pendant la saisie.
+<a id="transcrinator"></a>
 
-<a href="docs/media/dictionnator.png"><img src="docs/media/dictionnator.png" alt="Dictionnator — les mots et leurs sens — exemple de démonstration." width="1000"></a>
+#### <img src="docs/media/icons/transcrinator.png" width="36" alt=""> Transcrinator — Parler pour écrire
 
-### Calculinator — des nombres aux expressions
+Dictez votre texte avec un moteur de reconnaissance vocale local. Une autre manière de saisir ses idées lorsque taper devient contraignant.
 
-Un clavier à la souris, un historique et un mode élève pour les fractions et le calcul symbolique.
+**Au quotidien :** Dicter un paragraphe dans son application de travail.
 
-<a href="docs/media/calculinator.png"><img src="docs/media/calculinator.png" alt="Calculinator — des nombres aux expressions — exemple de démonstration." width="1000"></a>
+<a id="scanator"></a>
 
-</details>
+#### <img src="docs/media/icons/scanator.png" width="36" alt=""> Scanator — Récupérer le texte affiché à l’écran
 
-## 21 outils à composer selon vos besoins
+Capturez une zone de l’écran pour en extraire le texte grâce à la reconnaissance de caractères. Réutilisez ensuite le contenu dans vos outils.
 
-<details>
-<summary><strong>Explorer le catalogue complet</strong></summary>
-<br>
+**Au quotidien :** Récupérer une consigne présentée dans une image.
 
-| Outil | Pour quoi faire ? |
-|:---|:---|
-| <img src="docs/media/icons/ecrinator.png" width="26" alt=""> **Écrinator** | Écrire et mettre en page ses cours. |
-| <img src="docs/media/icons/redactor.png" width="26" alt=""> **Redactor** | Rédiger, reformuler ou résumer avec une IA locale. |
-| <img src="docs/media/icons/corrector.png" width="26" alt=""> **Corrector** | Corriger l’orthographe et la grammaire d’un texte. |
-| <img src="docs/media/icons/transcrinator.png" width="26" alt=""> **Transcrinator** | Dictée vocale locale |
-| <img src="docs/media/icons/scanator.png" width="26" alt=""> **Scanator** | Capturer une zone de l’écran et récupérer son texte. |
-| <img src="docs/media/icons/lector.png" width="26" alt=""> **Lector** | Faire lire un texte à voix haute. |
-| <img src="docs/media/icons/pdfinator.png" width="26" alt=""> **PDFinator** | Lire, annoter et modifier les PDF. |
-| <img src="docs/media/icons/traductor.png" width="26" alt=""> **Traductor** | Traduire des messages et écouter leur traduction. |
-| <img src="docs/media/icons/dictionnator.png" width="26" alt=""> **Dictionnator** | Trouver les définitions d’un mot, hors ligne et sans IA. |
-| <img src="docs/media/icons/explicator.png" width="26" alt=""> **Explicator** | Comprendre un exercice par indices, sans sa solution. |
-| <img src="docs/media/icons/calculinator.png" width="26" alt=""> **Calculinator** | Calculer avec des fractions ou des expressions. |
-| <img src="docs/media/icons/tablinator.png" width="26" alt=""> **Tablinator** | Toutes les tables de 1 à 12 avec des cases à retourner. |
-| <img src="docs/media/icons/communicator.png" width="26" alt=""> **Communicator** | Exprimer ses besoins avec des cartes et une voix. |
-| <img src="docs/media/icons/planinator.png" width="26" alt=""> **Planinator** | Organiser ses journées, ses cours et ses devoirs. |
-| <img src="docs/media/icons/memorinator.png" width="26" alt=""> **Memorinator** | Créer, déplacer et annoter ses notes. |
-| <img src="docs/media/icons/organisator.png" width="26" alt=""> **Organisator** | Classer ses fichiers et consulter son classeur. |
-| <img src="docs/media/icons/applinator.png" width="26" alt=""> **Applinator** | Lancer ses applications favorites. |
-| <img src="docs/media/icons/claviernator.png" width="26" alt=""> **Claviernator** | Clavier adapté et défilement |
-| <img src="docs/media/icons/precisionator.png" width="26" alt=""> **Precisionator** | Loupe dynamique et précision |
-| <img src="docs/media/icons/concentrator.png" width="26" alt=""> **Concentrator** | Assombrir l’écran autour d’une zone de travail. |
-| <img src="docs/media/icons/temporator.png" width="26" alt=""> **Temporator** | Voir le temps restant avec un minuteur. |
+<a id="pdfinator"></a>
 
-</details>
+#### <img src="docs/media/icons/pdfinator.png" width="36" alt=""> PDFinator — Un espace pour ses documents PDF
+
+Ouvrez, lisez, annotez et modifiez vos PDF dans un outil dédié. Gardez vos documents de travail à portée de main.
+
+**Au quotidien :** Annoter un document de cours ou de travail.
+
+---
+
+### Lire, comprendre et apprendre
+
+[Lector](#lector) · [Dictionnator](#dictionnator) · [Explicator](#explicator) · [Calculinator](#calculinator) · [Tablinator](#tablinator)
+
+<a id="lector"></a>
+
+#### <img src="docs/media/icons/lector.png" width="36" alt=""> Lector — Écouter pour mieux suivre
+
+Faites lire un texte à voix haute. La lecture vocale offre un autre accès au contenu pour suivre un passage ou le relire en l’écoutant.
+
+**Au quotidien :** Écouter une consigne ou un texte à relire.
+
+<a id="dictionnator"></a>
+
+#### <img src="docs/media/icons/dictionnator.png" width="36" alt=""> Dictionnator — Un mot, ses définitions
+
+Consultez un dictionnaire français local, sans génération par IA. Les suggestions pendant la saisie vous aident à retrouver le mot recherché.
+
+**Au quotidien :** Vérifier le sens d’un mot rencontré dans un cours.
+
+<a href="docs/media/dictionnator.png"><img src="docs/media/dictionnator.png" alt="Interface de Dictionnator, avec un exemple de démonstration." width="840"></a>
+
+<a id="explicator"></a>
+
+#### <img src="docs/media/icons/explicator.png" width="36" alt=""> Explicator — Comprendre avant de répondre
+
+Capturez une consigne ou collez un énoncé. L’IA propose des explications et des indices pédagogiques pour guider la recherche plutôt que livrer directement la solution.
+
+**Au quotidien :** Décomposer une consigne qui semble difficile.
+
+<a href="docs/media/explicator.png"><img src="docs/media/explicator.png" alt="Interface de Explicator, avec un exemple de démonstration." width="840"></a>
+
+<a id="calculinator"></a>
+
+#### <img src="docs/media/icons/calculinator.png" width="36" alt=""> Calculinator — Calculer avec des repères visuels
+
+Utilisez un clavier à la souris et retrouvez vos calculs dans l’historique. Le mode élève permet de travailler avec des fractions et des expressions symboliques.
+
+**Au quotidien :** Manipuler une fraction ou simplifier une expression.
+
+<a href="docs/media/calculinator.png"><img src="docs/media/calculinator.png" alt="Interface de Calculinator, avec un exemple de démonstration." width="840"></a>
+
+<a id="tablinator"></a>
+
+#### <img src="docs/media/icons/tablinator.png" width="36" alt=""> Tablinator — Les tables deviennent interactives
+
+Retrouvez toutes les tables de multiplication de 1 à 12 dans une même grille. Cliquez sur une opération pour retourner sa carte et afficher le résultat.
+
+**Au quotidien :** Réviser quelques multiplications en autonomie.
+
+<a href="docs/media/tablinator.png"><img src="docs/media/tablinator.png" alt="Interface de Tablinator, avec un exemple de démonstration." width="840"></a>
+
+---
+
+### Communiquer et s’exprimer
+
+[Communicator](#communicator) · [Traductor](#traductor)
+
+<a id="communicator"></a>
+
+#### <img src="docs/media/icons/communicator.png" width="36" alt=""> Communicator — Exprimer un besoin, faire un choix
+
+Utilisez des cartes de communication pour composer un message. Montrez-le en grand ou faites-le lire à voix haute pour faciliter l’échange.
+
+**Au quotidien :** Dire « J’ai besoin d’aide » ou demander un peu de temps.
+
+<a href="docs/media/communicator.png"><img src="docs/media/communicator.png" alt="Interface de Communicator, avec un exemple de démonstration." width="840"></a>
+
+<a id="traductor"></a>
+
+#### <img src="docs/media/icons/traductor.png" width="36" alt=""> Traductor — Échanger dans une autre langue
+
+Choisissez une langue de départ et une langue d’arrivée. Les messages et leurs traductions s’affichent en bulles, avec des actions pour écouter et copier.
+
+**Au quotidien :** Préparer puis écouter un message traduit.
+
+<a href="docs/media/traductor.png"><img src="docs/media/traductor.png" alt="Interface de Traductor, avec un exemple de démonstration." width="840"></a>
+
+---
+
+### Organiser ses journées et ses idées
+
+[Planinator](#planinator) · [Memorinator](#memorinator) · [Organisator](#organisator) · [Applinator](#applinator)
+
+<a id="planinator"></a>
+
+#### <img src="docs/media/icons/planinator.png" width="36" alt=""> Planinator — Une journée plus facile à anticiper
+
+Organisez activités, cours et devoirs dans l’agenda. Le mode élève associe des couleurs aux matières ; un widget rassemble aujourd’hui et demain.
+
+**Au quotidien :** Retrouver les devoirs de la semaine et préparer le lendemain.
+
+<a href="docs/media/planinator.png"><img src="docs/media/planinator.png" alt="Interface de Planinator, avec un exemple de démonstration." width="840"></a>
+
+<a id="memorinator"></a>
+
+#### <img src="docs/media/icons/memorinator.png" width="36" alt=""> Memorinator — Une idée, un post-it
+
+Créez un mur de notes datées, colorées et déplaçables. Surlignez, barrez et ajustez l’opacité du fond pour garder vos repères visibles.
+
+**Au quotidien :** Noter une idée ou conserver une petite liste à faire.
+
+<a href="docs/media/memorinator.png"><img src="docs/media/memorinator.png" alt="Interface de Memorinator, avec un exemple de démonstration." width="840"></a>
+
+<a id="organisator"></a>
+
+#### <img src="docs/media/icons/organisator.png" width="36" alt=""> Organisator — Ses documents à leur place
+
+Créez un espace de classement adapté à votre profil. Classez vos fichiers et consultez-les dans un classeur avec intercalaires et prévisualisation.
+
+**Au quotidien :** Rassembler ses documents par matière ou par activité.
+
+<a id="applinator"></a>
+
+#### <img src="docs/media/icons/applinator.png" width="36" alt=""> Applinator — Ses applications à portée de clic
+
+Sélectionnez vos applications favorites dans le logiciel. Retrouvez ensuite vos raccourcis dans un widget de lancement avec un fond réglable.
+
+**Au quotidien :** Ouvrir ses outils habituels depuis un seul endroit.
+
+---
+
+### Adapter son espace et son rythme
+
+[Claviernator](#claviernator) · [Precisionator](#precisionator) · [Concentrator](#concentrator) · [Temporator](#temporator)
+
+<a id="claviernator"></a>
+
+#### <img src="docs/media/icons/claviernator.png" width="36" alt=""> Claviernator — Un clavier adapté à ses usages
+
+Retrouvez un clavier adapté et des fonctions de défilement pour accompagner l’utilisation de votre ordinateur.
+
+**Au quotidien :** Disposer d’une autre façon de saisir du texte et de parcourir un contenu.
+
+<a id="precisionator"></a>
+
+#### <img src="docs/media/icons/precisionator.png" width="36" alt=""> Precisionator — Voir plus près, viser plus facilement
+
+Une loupe dynamique et des fonctions de précision pour faciliter le repérage des petits éléments à l’écran.
+
+**Au quotidien :** Agrandir une zone lorsqu’un détail est difficile à distinguer.
+
+<a id="concentrator"></a>
+
+#### <img src="docs/media/icons/concentrator.png" width="36" alt=""> Concentrator — Faire ressortir l’essentiel
+
+Assombrissez l’écran autour de votre zone de travail. Le contenu utile reste mis en évidence pour limiter les distractions visuelles.
+
+**Au quotidien :** Se concentrer sur un passage ou une zone du document.
+
+<a id="temporator"></a>
+
+#### <img src="docs/media/icons/temporator.png" width="36" alt=""> Temporator — Voir le temps qui reste
+
+Un minuteur à cadran, avec ou sans chiffres, pour représenter visuellement la durée. Réglez le temps et la taille ; le cadran clignote à la fin.
+
+**Au quotidien :** Se donner un temps de travail ou visualiser une pause.
+
+---
 
 ## Prêt à choisir vos outils ?
 
